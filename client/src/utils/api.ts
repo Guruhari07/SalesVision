@@ -1,7 +1,11 @@
 import axios from 'axios';
 
+// Use VITE_API_URL env variable for deployed backend (Railway),
+// fall back to /api which is proxied to localhost:8000 in local dev
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: import.meta.env.VITE_API_URL
+    ? `${import.meta.env.VITE_API_URL}/api`
+    : '/api',
 });
 
 // Automatically inject JWT token into all requests

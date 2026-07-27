@@ -34,7 +34,12 @@ export default function Register() {
       navigate('/dashboard');
     } catch (err: any) {
       console.error(err);
-      setError(err.response?.data?.detail || 'Registration failed. Email might already be taken.');
+      if (!err.response) {
+        // Network error - backend is unreachable
+        setError('Cannot connect to server. Please try again later.');
+      } else {
+        setError(err.response?.data?.detail || 'Registration failed. Please try again.');
+      }
     } finally {
       setLoading(false);
     }
