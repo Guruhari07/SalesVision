@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+client/node_modules/
+.venv/
+server/.venv/
+venv/
+env/
+ENV/
+
+# Production builds
+dist/
+client/dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local databases
+*.db
+*.sqlite
+server/salesvision.db
+
+# Environments & secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db

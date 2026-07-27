@@ -1,0 +1,1233 @@
+Order ID,Order Date,Customer Name,Region,State,City,Category,Sub Category,Product Name,Sales,Profit,Quantity,Discount
+CA-2024-10002,2024-09-24,Leo Harris,Central,Texas,Houston,Office Supplies,Binders,Heavy-Duty Presentation Folder,187.94,92.23,7,0.0
+CA-2024-10002,2024-01-09,Karen White,Central,Illinois,Chicago,Furniture,Tables,Standing Desk Birch Wood,2180.63,-62.6,11,0.5
+CA-2025-10002,2025-07-19,Karen White,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Recycled Notepad Pack,74.14,44.29,8,0.0
+CA-2025-10003,2025-10-11,Mia Martin,West,California,San Francisco,Office Supplies,Binders,Zipper Binder Pouch,59.05,25.06,1,0.0
+CA-2025-10003,2025-11-25,Nathan Clark,South,Georgia,Atlanta,Office Supplies,Appliances,Air Purifier,412.86,152.98,11,0.0
+CA-2024-10003,2024-11-19,Ivy Anderson,West,California,San Francisco,Technology,Machines,Laminator Core,3304.71,1383.11,8,0.2
+CA-2024-10004,2024-12-28,Emily Davis,South,Georgia,Atlanta,Furniture,Furnishings,LED Desk Lamp,521.64,0.3,3,0.5
+CA-2024-10004,2024-12-28,Emily Davis,South,Georgia,Atlanta,Furniture,Furnishings,LED Desk Lamp,521.64,0.3,3,0.5
+CA-2024-10004,2024-07-16,,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,2576.44,-33.42,10,0.15
+CA-2024-10004,2024-08-11,Henry Wilson,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,7036.39,2890.17,11,0.0
+CA-2025-10005,2025-06-24,Frank Miller,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,1347.94,476.43,4,0.2
+CA-2025-10005,2025-07-25,Jack Thomas,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,1937.74,30.74,7,0.3
+CA-2024-10005,2024-03-18,David Chen,West,California,Los Angeles,Technology,Machines,Laminator Core,152.57,45.66,1,0.2
+CA-2024-10006,2024-10-13,Leo Harris,West,Washington,Seattle,Office Supplies,Binders,Heavy-Duty Presentation Folder,432.03,153.83,7,0.0
+CA-2025-10006,2025-08-09,Karen White,Central,Texas,Houston,Furniture,Chairs,Stool Adjustable Height,224.33,4.05,1,0.15
+CA-2024-10006,2024-07-29,Mia Martin,West,California,Los Angeles,Furniture,Bookcases,Corner Display Cabinet,403.32,11.18,2,0.0
+CA-2025-10007,2025-06-27,Alice Smith,West,California,San Francisco,Office Supplies,Appliances,Countertop Microwave,337.29,198.14,6,0.0
+CA-2025-10007,2025-01-01,Frank Miller,South,North Carolina,Charlotte,Office Supplies,Binders,Zipper Binder Pouch,312.31,146.04,12,0.0
+CA-2025-10007,2025-09-07,Carol Martinez,West,California,Los Angeles,Technology,Accessories,Wireless Mouse,2908.35,560.94,9,0.0
+CA-2024-10008,2024-09-11,Emily Davis,East,Massachusetts,Boston,Technology,Phones,OnePlus 11,7306.82,2577.76,12,0.0
+CA-2024-10008,2024-03-15,Henry Wilson,Central,Texas,Houston,Technology,Copiers,Canon ImageRUNNER,3035.63,766.61,4,0.0
+CA-2025-10008,2025-06-27,Nathan Clark,West,Washington,Seattle,Furniture,Bookcases,4-Shelf Wood Bookcase,1389.27,44.2,11,0.5
+CA-2025-10009,2025-02-04,Jack Thomas,East,Massachusetts,Boston,Office Supplies,Appliances,Air Purifier,64.62,36.45,5,0.0
+CA-2025-10009,2025-05-10,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Art,Acrylic Paint Set,828.33,358.15,12,0.0
+CA-2024-10009,2024-08-17,Jack Thomas,West,California,Los Angeles,Technology,Phones,iPhone 14,787.41,302.23,3,0.0
+CA-2025-10010,2025-08-14,Emily Davis,West,California,Los Angeles,Office Supplies,Paper,Premium Copy Paper A4,207.9,104.54,3,0.0
+CA-2025-10010,2025-03-15,David Chen,East,Massachusetts,Boston,Technology,Machines,Heavy-Duty Shredder,1041.52,208.07,2,0.1
+CA-2024-10010,2024-06-09,Bob Johnson,Central,Texas,Austin,Technology,Accessories,USB-C Hub,2637.63,745.56,4,0.0
+CA-2024-10011,2024-02-01,Grace Taylor,East,New York,New York City,Technology,Copiers,HP LaserJet Pro,381.72,84.79,3,0.0
+CA-2024-10011,2024-03-22,Emily Davis,South,North Carolina,Charlotte,Technology,Phones,iPhone 14,5601.4,1332.1,11,0.0
+CA-2025-10011,2025-01-07,Jack Thomas,East,Pennsylvania,Philadelphia,Technology,Phones,iPhone 14,4520.64,1555.67,9,0.1
+CA-2024-10012,2024-09-28,Leo Harris,South,Georgia,Atlanta,Furniture,Chairs,Leather Executive High-Back Chair,1099.06,-112.79,4,0.15
+CA-2025-10012,2025-11-02,Karen White,East,Pennsylvania,Philadelphia,Technology,Accessories,USB-C Hub,590.17,262.04,1,0.0
+CA-2025-10012,2025-11-24,Bob Johnson,East,Massachusetts,Boston,Furniture,Bookcases,Metal Storage Bookshelf,1617.96,-242.3,10,0.3
+CA-2025-10013,2025-03-19,Emily Davis,East,Pennsylvania,Philadelphia,Furniture,Tables,Conference Room Table,2093.2,-173.63,9,0.0
+CA-2024-10013,2024-03-02,Emily Davis,South,Georgia,Atlanta,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,385.84,-2.39,6,0.5
+CA-2025-10013,2025-09-04,Leo Harris,Central,Texas,Austin,Furniture,Bookcases,Corner Display Cabinet,2222.51,80.68,11,0.5
+CA-2025-10014,2025-06-20,Ivy Anderson,West,California,San Francisco,Technology,Phones,Google Pixel 7,1600.26,635.04,3,0.0
+CA-2025-10014,2025-06-05,Carol Martinez,West,Washington,Seattle,Furniture,Furnishings,Desk Organizer Organizer Tray,668.43,-90.45,2,0.0
+CA-2025-10014,2025-11-06,Carol Martinez,South,Florida,Miami,Office Supplies,Paper,Photo Paper Glossy,75.47,34.8,1,0.0
+CA-2025-10015,2025-05-05,Emily Davis,West,California,San Francisco,Technology,Machines,3D Printer Pro,1614.17,321.16,5,0.2
+CA-2024-10015,2024-04-12,Jack Thomas,Central,Texas,Houston,Office Supplies,Appliances,Countertop Microwave,124.6,48.5,4,0.0
+CA-2025-10015,2025-08-16,Carol Martinez,South,Georgia,Atlanta,Technology,Phones,OnePlus 11,1781.15,521.91,4,0.1
+CA-2024-10016,2024-11-20,Frank Miller,West,California,San Francisco,Technology,Accessories,Noise-Cancelling Headphones,1102.97,222.79,2,0.0
+CA-2025-10016,2025-02-04,Leo Harris,West,California,Los Angeles,Technology,Phones,Samsung Galaxy S23,429.29,153.81,1,0.1
+CA-2024-10016,2024-06-06,Carol Martinez,South,Georgia,Atlanta,Furniture,Chairs,Leather Executive High-Back Chair,267.17,-22.06,1,0.3
+CA-2024-10017,2024-07-14,Henry Wilson,East,New York,New York City,Office Supplies,Fasteners,Paperclips Box of 500,46.39,25.69,1,0.0
+CA-2025-10017,2025-06-06,Olivia Lewis,Central,Texas,Houston,Furniture,Bookcases,Metal Storage Bookshelf,1432.04,25.22,5,0.15
+CA-2024-10017,2024-06-12,Alice Smith,East,New York,New York City,Furniture,Tables,Folding Utility Table,857.18,3.2,3,0.3
+CA-2025-10018,2025-04-25,Carol Martinez,West,California,San Francisco,Furniture,Tables,Conference Room Table,2220.36,-83.47,11,0.0
+CA-2024-10018,2024-10-04,Jack Thomas,South,Florida,Miami,Technology,Accessories,Mechanical Keyboard,405.42,133.36,3,0.0
+CA-2025-10018,2025-09-13,Karen White,East,New York,New York City,Technology,Accessories,Wireless Mouse,860.16,283.97,4,0.1
+CA-2025-10019,2025-03-25,Carol Martinez,South,North Carolina,Charlotte,Office Supplies,Art,Acrylic Paint Set,84.34,41.24,2,0.0
+CA-2024-10019,2024-01-12,David Chen,West,Washington,Seattle,Technology,Accessories,USB-C Hub,143.79,63.38,2,0.2
+CA-2024-10019,2024-02-20,Ivy Anderson,West,California,San Francisco,Technology,Phones,OnePlus 11,6048.54,967.63,11,0.1
+CA-2025-10020,2025-11-04,David Chen,Central,Illinois,Chicago,Furniture,Bookcases,4-Shelf Wood Bookcase,1113.58,36.11,7,0.5
+CA-2024-10020,2024-06-30,Jack Thomas,South,Florida,Miami,Furniture,Tables,Folding Utility Table,994.28,-112.53,5,0.5
+CA-2024-10020,2024-06-30,Jack Thomas,South,Florida,Miami,Furniture,Tables,Folding Utility Table,994.28,-112.53,5,0.5
+CA-2024-10020,2024-03-02,Grace Taylor,East,Massachusetts,Boston,Technology,Accessories,Wireless Mouse,5411.84,2000.0,12,0.0
+CA-2024-10021,2024-12-13,Nathan Clark,Central,Illinois,Chicago,Technology,Accessories,Wireless Mouse,6989.9,1126.96,11,0.2
+CA-2025-10021,2025-04-28,Ivy Anderson,Central,Texas,Houston,Furniture,Chairs,Ergonomic Mesh Office Chair,974.15,34.74,12,0.5
+CA-2025-10021,2025-04-01,Leo Harris,West,California,San Francisco,Furniture,Tables,Conference Room Table,2118.95,65.15,10,0.15
+CA-2025-10022,2025-04-17,Leo Harris,East,Massachusetts,Boston,Office Supplies,Binders,Heavy-Duty Presentation Folder,484.98,271.62,7,0.0
+CA-2024-10022,2024-06-14,Emily Davis,West,California,San Francisco,Office Supplies,Art,Sketchbook 100 Pages,542.09,204.33,10,0.0
+CA-2025-10022,2025-05-22,Henry Wilson,South,Florida,Miami,Technology,Phones,OnePlus 11,8889.53,2739.39,12,0.0
+CA-2025-10023,2025-02-12,Olivia Lewis,South,North Carolina,Charlotte,Furniture,Tables,Standing Desk Birch Wood,864.23,15.07,10,0.3
+CA-2025-10023,2025-09-20,Ivy Anderson,Central,Texas,Austin,Technology,Phones,Google Pixel 7,1075.6,165.01,8,0.2
+CA-2025-10023,2025-10-10,Ivy Anderson,Central,Texas,Austin,Office Supplies,Paper,Photo Paper Glossy,408.45,222.0,8,0.2
+CA-2024-10024,2024-05-11,Karen White,South,Georgia,Atlanta,Furniture,Bookcases,4-Shelf Wood Bookcase,2611.36,-328.22,12,0.5
+CA-2025-10024,2025-06-28,Henry Wilson,West,California,San Francisco,Office Supplies,Paper,Recycled Notepad Pack,113.1,39.68,3,0.0
+CA-2024-10024,2024-04-12,Jack Thomas,West,California,San Francisco,Office Supplies,Binders,Ring Binder 2-Inch,476.03,275.65,7,0.0
+CA-2025-10025,2025-08-26,Grace Taylor,Central,Texas,Houston,Furniture,Furnishings,Desk Organizer Organizer Tray,448.92,-58.11,2,0.3
+CA-2024-10025,2024-10-14,Grace Taylor,Central,Illinois,Chicago,Furniture,Bookcases,Metal Storage Bookshelf,247.98,-32.55,1,0.15
+CA-2025-10025,2025-09-08,Bob Johnson,West,Washington,Seattle,Technology,Phones,Samsung Galaxy S23,4796.52,1142.33,6,0.0
+CA-2025-10026,2025-03-25,Jack Thomas,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,3152.45,-427.96,9,0.15
+CA-2025-10026,2025-07-23,Bob Johnson,South,Florida,Miami,Technology,Accessories,USB-C Hub,2630.35,398.3,4,0.1
+CA-2025-10026,2025-04-01,Karen White,West,California,Los Angeles,Office Supplies,Art,Sketchbook 100 Pages,536.76,276.97,9,0.0
+CA-2025-10027,2025-06-10,Carol Martinez,Central,Texas,Houston,Furniture,Furnishings,LED Desk Lamp,2502.53,117.54,9,0.3
+CA-2024-10027,2024-03-25,Grace Taylor,South,Florida,Miami,Furniture,Bookcases,Metal Storage Bookshelf,1825.34,-77.06,8,0.3
+CA-2024-10027,2024-03-19,Henry Wilson,West,California,San Francisco,Furniture,Tables,Standing Desk Birch Wood,804.26,-72.85,3,0.3
+CA-2025-10028,2025-06-08,Emily Davis,South,Georgia,Atlanta,Office Supplies,Appliances,Countertop Microwave,135.04,74.03,4,0.0
+CA-2025-10028,2025-05-16,,South,Georgia,Atlanta,Technology,Copiers,Brother Monochrome Copier,7182.95,2169.37,10,0.1
+CA-2025-10028,2025-08-13,Grace Taylor,East,Massachusetts,Boston,Technology,Phones,OnePlus 11,3911.12,1267.91,8,0.0
+CA-2024-10029,2024-10-30,Olivia Lewis,South,Florida,Miami,Technology,Machines,Laminator Core,10447.78,3857.87,12,0.0
+CA-2024-10029,2024-05-04,Bob Johnson,West,California,San Francisco,Office Supplies,Binders,Heavy-Duty Presentation Folder,42.83,13.38,1,0.0
+CA-2025-10029,2025-07-13,Ivy Anderson,South,North Carolina,Charlotte,Office Supplies,Fasteners,Rubber Bands Size 32,190.04,62.74,3,0.2
+CA-2025-10030,2025-01-03,Carol Martinez,Central,Texas,Austin,Technology,Phones,Samsung Galaxy S23,693.35,308.34,1,0.0
+CA-2024-10030,2024-02-02,Ivy Anderson,East,Massachusetts,Boston,Office Supplies,Paper,Premium Copy Paper A4,12.89,4.56,2,0.2
+CA-2025-10030,2025-07-15,Olivia Lewis,East,Massachusetts,Boston,Office Supplies,Paper,Recycled Notepad Pack,645.58,330.25,10,0.0
+CA-2024-10031,2024-03-27,Carol Martinez,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,3336.46,724.61,5,0.1
+CA-2025-10031,2025-08-25,Ivy Anderson,West,Washington,Seattle,Technology,Machines,Heavy-Duty Shredder,648.17,153.64,5,0.2
+CA-2025-10031,2025-08-25,Ivy Anderson,West,Washington,Seattle,Technology,Machines,Heavy-Duty Shredder,648.17,153.64,5,0.2
+CA-2025-10031,2025-10-01,Frank Miller,East,Massachusetts,Boston,Technology,Machines,Laminator Core,1390.01,448.08,3,0.0
+CA-2024-10032,2024-12-28,Karen White,East,Pennsylvania,Philadelphia,Technology,Machines,Laminator Core,606.13,130.27,1,0.2
+CA-2025-10032,2025-06-06,Leo Harris,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,954.53,-29.85,3,0.0
+CA-2025-10032,2025-09-20,Carol Martinez,West,Washington,Seattle,Technology,Accessories,Mechanical Keyboard,333.48,100.71,1,0.2
+CA-2024-10033,2024-03-06,Leo Harris,East,Pennsylvania,Philadelphia,Technology,Accessories,Noise-Cancelling Headphones,2346.96,381.1,7,0.0
+CA-2024-10033,2024-06-08,Jack Thomas,Central,Texas,Austin,Technology,Accessories,USB-C Hub,3092.83,955.52,7,0.0
+CA-2024-10033,2024-06-29,Emily Davis,West,California,Los Angeles,Technology,Machines,Heavy-Duty Shredder,1907.07,310.66,7,0.0
+CA-2025-10034,2025-01-31,Henry Wilson,West,California,Los Angeles,Technology,Phones,iPhone 14,355.32,72.5,3,0.0
+CA-2024-10034,2024-05-31,Frank Miller,East,New York,New York City,Office Supplies,Binders,Zipper Binder Pouch,47.11,21.49,1,0.2
+CA-2025-10034,2025-04-12,Ivy Anderson,West,California,San Francisco,Office Supplies,Binders,Zipper Binder Pouch,248.94,130.34,6,0.0
+CA-2025-10035,2025-05-26,Leo Harris,Central,Texas,Houston,Technology,Accessories,USB-C Hub,848.45,321.24,4,0.2
+CA-2024-10035,2024-09-02,Jack Thomas,West,California,Los Angeles,Furniture,Furnishings,Desk Organizer Organizer Tray,3415.75,-328.14,11,0.3
+CA-2025-10035,2025-01-07,Henry Wilson,East,New York,New York City,Technology,Accessories,Wireless Mouse,4407.03,1906.54,11,0.1
+CA-2025-10036,2025-01-24,Henry Wilson,East,New York,New York City,Furniture,Chairs,Leather Executive High-Back Chair,2781.61,70.34,10,0.3
+CA-2024-10036,2024-02-05,Olivia Lewis,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Photo Paper Glossy,178.99,88.3,11,0.0
+CA-2024-10036,2024-04-15,Henry Wilson,South,Georgia,Atlanta,Office Supplies,Fasteners,Paperclips Box of 500,126.15,68.32,5,0.2
+CA-2024-10037,2024-08-26,Jack Thomas,South,Florida,Miami,Office Supplies,Paper,Photo Paper Glossy,205.78,107.67,5,0.0
+CA-2025-10037,2025-11-01,Nathan Clark,West,Washington,Seattle,Furniture,Furnishings,LED Desk Lamp,2464.99,-72.85,11,0.3
+CA-2024-10037,2024-04-17,Jack Thomas,South,North Carolina,Charlotte,Furniture,Furnishings,Desk Organizer Organizer Tray,1560.14,8.11,5,0.15
+CA-2025-10038,2025-01-24,Mia Martin,West,California,San Francisco,Office Supplies,Binders,Ring Binder 2-Inch,292.36,119.44,4,0.0
+CA-2025-10038,2025-05-14,Carol Martinez,West,Washington,Seattle,Furniture,Chairs,Stool Adjustable Height,508.31,-41.98,4,0.0
+CA-2025-10038,2025-05-14,Carol Martinez,West,Washington,Seattle,Furniture,Chairs,Stool Adjustable Height,508.31,-41.98,4,0.0
+CA-2025-10038,2025-05-28,Jack Thomas,East,Massachusetts,Boston,Technology,Machines,Heavy-Duty Shredder,1355.4,365.06,6,0.2
+CA-2024-10039,2024-07-21,Frank Miller,East,Pennsylvania,Philadelphia,Technology,Phones,Samsung Galaxy S23,812.27,218.0,9,0.0
+CA-2025-10039,2025-12-17,Emily Davis,South,Georgia,Atlanta,Office Supplies,Appliances,Compact Refrigerator,611.37,324.99,9,0.0
+CA-2025-10039,2025-10-04,Jack Thomas,South,Georgia,Atlanta,Technology,Machines,Heavy-Duty Shredder,908.61,252.64,7,0.2
+CA-2024-10040,2024-08-15,Bob Johnson,East,Massachusetts,Boston,Furniture,Chairs,Leather Executive High-Back Chair,4448.37,-417.52,12,0.15
+CA-2024-10040,2024-05-17,Ivy Anderson,East,Massachusetts,Boston,Technology,Accessories,USB-C Hub,2523.53,709.9,4,0.2
+CA-2024-10040,2024-12-24,David Chen,Central,Illinois,Chicago,Technology,Accessories,Wireless Mouse,1210.52,315.08,5,0.0
+CA-2024-10041,2024-04-24,Jack Thomas,East,Massachusetts,Boston,Technology,Copiers,Brother Monochrome Copier,1448.21,401.04,8,0.0
+CA-2025-10041,2025-08-15,Frank Miller,South,Georgia,Atlanta,Technology,Phones,iPhone 14,518.88,80.59,1,0.1
+CA-2024-10041,2024-07-07,Nathan Clark,East,Massachusetts,Boston,Office Supplies,Art,Acrylic Paint Set,436.81,162.11,8,0.2
+CA-2024-10041,2024-07-07,Nathan Clark,East,Massachusetts,Boston,Office Supplies,Art,Acrylic Paint Set,436.81,162.11,8,0.2
+CA-2024-10042,2024-07-26,Bob Johnson,South,Florida,Miami,Office Supplies,Fasteners,Rubber Bands Size 32,98.14,56.86,4,0.0
+CA-2024-10042,2024-12-28,Olivia Lewis,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,98.85,40.78,3,0.0
+CA-2025-10042,2025-05-19,Leo Harris,West,California,Los Angeles,Technology,Accessories,Wireless Mouse,5117.56,1823.15,9,0.2
+CA-2025-10043,2025-10-02,Carol Martinez,South,Florida,Miami,Office Supplies,Appliances,Compact Refrigerator,469.22,142.41,12,0.0
+CA-2024-10043,2024-04-21,Jack Thomas,West,California,Los Angeles,Furniture,Furnishings,LED Desk Lamp,649.15,-57.23,3,0.3
+CA-2024-10043,2024-09-12,Henry Wilson,West,California,San Francisco,Office Supplies,Art,Sketchbook 100 Pages,391.23,151.07,7,0.0
+CA-2024-10044,2024-02-27,Emily Davis,Central,Texas,Houston,Technology,Machines,Heavy-Duty Shredder,3428.96,940.17,5,0.1
+CA-2025-10044,2025-01-20,Carol Martinez,Central,Texas,Houston,Technology,Accessories,Wireless Mouse,484.24,140.97,6,0.2
+CA-2025-10044,2025-03-21,Alice Smith,South,North Carolina,Charlotte,Furniture,Furnishings,LED Desk Lamp,4126.49,203.78,10,0.0
+CA-2025-10045,2025-12-14,Grace Taylor,East,New York,New York City,Office Supplies,Fasteners,Rubber Bands Size 32,86.48,40.66,8,0.2
+CA-2025-10045,2025-09-15,Mia Martin,West,California,San Francisco,Furniture,Chairs,Stool Adjustable Height,616.74,28.58,4,0.3
+CA-2025-10045,2025-01-19,Ivy Anderson,West,Washington,Seattle,Technology,Phones,Google Pixel 7,2334.56,948.34,10,0.2
+CA-2025-10046,2025-06-19,Bob Johnson,West,California,San Francisco,Furniture,Furnishings,LED Desk Lamp,960.5,-89.54,7,0.15
+CA-2025-10046,2025-05-17,Mia Martin,East,Massachusetts,Boston,Office Supplies,Paper,Photo Paper Glossy,751.27,368.32,12,0.0
+CA-2024-10046,2024-11-23,Olivia Lewis,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,1862.02,538.25,3,0.0
+CA-2024-10047,2024-06-16,Carol Martinez,East,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S23,4411.31,1816.01,10,0.2
+CA-2025-10047,2025-01-25,Olivia Lewis,Central,Texas,Houston,Technology,Machines,Heavy-Duty Shredder,1284.01,277.58,2,0.2
+CA-2025-10047,2025-08-30,Alice Smith,West,Washington,Seattle,Technology,Accessories,Wireless Mouse,961.99,181.23,2,0.0
+CA-2025-10048,2025-09-26,Karen White,South,Georgia,Atlanta,Technology,Phones,OnePlus 11,6597.61,1727.82,9,0.0
+CA-2024-10048,2024-11-22,Frank Miller,West,California,San Francisco,Office Supplies,Fasteners,Paperclips Box of 500,117.32,55.02,12,0.0
+CA-2025-10048,2025-04-17,David Chen,West,Washington,Seattle,Furniture,Bookcases,Corner Display Cabinet,1036.89,-15.93,5,0.3
+CA-2025-10049,2025-04-27,Nathan Clark,South,Georgia,Atlanta,Office Supplies,Art,Sketchbook 100 Pages,143.46,46.31,10,0.0
+CA-2025-10049,2025-12-06,Alice Smith,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,635.94,-94.48,7,0.5
+CA-2024-10049,2024-02-12,,South,Florida,Miami,Technology,Machines,Heavy-Duty Shredder,1339.01,422.96,2,0.2
+CA-2025-10050,2025-10-05,Alice Smith,East,Massachusetts,Boston,Technology,Accessories,Noise-Cancelling Headphones,1272.38,435.72,3,0.0
+CA-2024-10050,2024-12-23,Ivy Anderson,South,Georgia,Atlanta,Technology,Accessories,Wireless Mouse,3109.65,1078.5,10,0.2
+CA-2025-10050,2025-03-10,Leo Harris,South,Georgia,Atlanta,Office Supplies,Fasteners,Push Pins Assorted Colors,55.64,30.01,9,0.0
+CA-2025-10051,2025-11-25,Nathan Clark,West,California,San Francisco,Technology,Phones,Google Pixel 7,3833.79,1341.56,11,0.0
+CA-2025-10051,2025-10-10,Olivia Lewis,Central,Illinois,Chicago,Furniture,Tables,Standing Desk Birch Wood,2840.4,-168.16,12,0.3
+CA-2025-10051,2025-03-22,Frank Miller,West,California,San Francisco,Office Supplies,Paper,Premium Copy Paper A4,29.69,13.03,2,0.0
+CA-2024-10052,2024-02-13,Carol Martinez,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Heavy-Duty Presentation Folder,605.78,307.7,12,0.0
+CA-2024-10052,2024-02-11,Henry Wilson,South,Georgia,Atlanta,Technology,Machines,3D Printer Pro,406.81,78.72,4,0.0
+CA-2024-10052,2024-09-25,Grace Taylor,West,California,Los Angeles,Office Supplies,Paper,Photo Paper Glossy,479.28,231.34,11,0.0
+CA-2024-10053,2024-05-24,Frank Miller,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Desk Organizer Organizer Tray,441.9,-6.72,2,0.5
+CA-2025-10053,2025-10-12,Olivia Lewis,South,North Carolina,Charlotte,Furniture,Bookcases,4-Shelf Wood Bookcase,3269.56,92.68,9,0.0
+CA-2025-10053,2025-01-31,Emily Davis,East,New York,New York City,Furniture,Tables,Standing Desk Birch Wood,2015.72,-191.23,8,0.3
+CA-2025-10053,2025-01-31,Emily Davis,East,New York,New York City,Furniture,Tables,Standing Desk Birch Wood,2015.72,-191.23,8,0.3
+CA-2025-10054,2025-09-02,Ivy Anderson,South,North Carolina,Charlotte,Technology,Machines,Heavy-Duty Shredder,850.49,310.26,2,0.0
+CA-2025-10054,2025-11-30,David Chen,East,Massachusetts,Boston,Technology,Copiers,HP LaserJet Pro,3248.03,1420.01,11,0.0
+CA-2024-10054,2024-04-17,Mia Martin,West,California,San Francisco,Office Supplies,Fasteners,Rubber Bands Size 32,49.97,17.3,2,0.2
+CA-2025-10055,2025-03-05,Alice Smith,Central,Illinois,Chicago,Technology,Phones,iPhone 14,1286.48,302.06,2,0.2
+CA-2025-10055,2025-12-09,Bob Johnson,East,Pennsylvania,Philadelphia,Furniture,Chairs,Leather Executive High-Back Chair,3786.04,-183.33,11,0.15
+CA-2025-10055,2025-08-15,Henry Wilson,Central,Texas,Houston,Furniture,Tables,Folding Utility Table,638.66,-58.63,5,0.3
+CA-2024-10056,2024-02-01,Karen White,South,North Carolina,Charlotte,Office Supplies,Fasteners,Paperclips Box of 500,479.96,148.94,11,0.0
+CA-2025-10056,2025-10-10,Emily Davis,West,California,San Francisco,Office Supplies,Appliances,Countertop Microwave,281.22,124.26,7,0.0
+CA-2024-10056,2024-03-07,Karen White,Central,Illinois,Chicago,Office Supplies,Paper,Photo Paper Glossy,111.26,42.18,2,0.2
+CA-2025-10057,2025-06-26,Olivia Lewis,Central,Illinois,Chicago,Technology,Phones,OnePlus 11,3046.92,1240.17,6,0.1
+CA-2024-10057,2024-11-23,Bob Johnson,South,Georgia,Atlanta,Office Supplies,Paper,Photo Paper Glossy,224.3,121.87,4,0.0
+CA-2024-10057,2024-10-19,Nathan Clark,South,Georgia,Atlanta,Furniture,Chairs,Leather Executive High-Back Chair,1137.26,-38.81,7,0.5
+CA-2025-10058,2025-02-09,Bob Johnson,East,Massachusetts,Boston,Office Supplies,Binders,Heavy-Duty Presentation Folder,13.46,5.45,2,0.0
+CA-2025-10058,2025-03-28,Leo Harris,Central,Texas,Austin,Office Supplies,Binders,Zipper Binder Pouch,552.32,256.59,10,0.2
+CA-2024-10058,2024-10-25,Olivia Lewis,East,Massachusetts,Boston,Technology,Copiers,Brother Monochrome Copier,668.49,103.67,5,0.0
+CA-2024-10059,2024-12-03,Leo Harris,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1326.45,-48.03,6,0.3
+CA-2025-10059,2025-01-14,Grace Taylor,Central,Texas,Houston,Office Supplies,Fasteners,Rubber Bands Size 32,45.53,16.63,6,0.2
+CA-2025-10059,2025-09-26,David Chen,West,California,Los Angeles,Furniture,Bookcases,4-Shelf Wood Bookcase,1558.65,-176.62,11,0.3
+CA-2024-10060,2024-01-18,Leo Harris,East,New York,New York City,Office Supplies,Binders,Heavy-Duty Presentation Folder,60.54,35.15,2,0.2
+CA-2025-10060,2025-01-20,Bob Johnson,South,North Carolina,Charlotte,Furniture,Furnishings,LED Desk Lamp,713.15,1.35,3,0.15
+CA-2024-10060,2024-04-23,Nathan Clark,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,2412.93,-220.87,12,0.15
+CA-2024-10061,2024-07-25,Alice Smith,South,North Carolina,Charlotte,Furniture,Bookcases,4-Shelf Wood Bookcase,699.63,-50.37,11,0.5
+CA-2024-10061,2024-08-24,Alice Smith,Central,Texas,Austin,Furniture,Chairs,Leather Executive High-Back Chair,2907.11,-292.9,8,0.15
+CA-2024-10061,2024-05-05,Carol Martinez,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,370.72,-0.02,3,0.5
+CA-2025-10062,2025-10-04,David Chen,West,Washington,Seattle,Office Supplies,Art,Watercolor Marker Pack,610.45,244.22,10,0.0
+CA-2025-10062,2025-03-15,Leo Harris,Central,Texas,Austin,Technology,Copiers,Brother Monochrome Copier,3660.99,1223.21,6,0.1
+CA-2024-10062,2024-07-27,Leo Harris,Central,Texas,Austin,Furniture,Tables,Conference Room Table,728.61,-23.3,7,0.15
+CA-2025-10063,2025-01-08,Carol Martinez,West,Washington,Seattle,Office Supplies,Paper,Premium Copy Paper A4,85.14,41.58,4,0.0
+CA-2024-10063,2024-09-18,Leo Harris,West,Washington,Seattle,Office Supplies,Art,Watercolor Marker Pack,182.91,70.83,4,0.0
+CA-2025-10063,2025-10-10,Frank Miller,West,Washington,Seattle,Technology,Machines,Heavy-Duty Shredder,5845.57,1600.56,10,0.0
+CA-2024-10064,2024-11-18,Nathan Clark,East,Massachusetts,Boston,Furniture,Chairs,Ergonomic Mesh Office Chair,762.24,-28.72,4,0.0
+CA-2024-10064,2024-08-26,Carol Martinez,Central,Texas,Austin,Furniture,Furnishings,Desk Organizer Organizer Tray,2804.49,-9.69,11,0.0
+CA-2025-10064,2025-06-12,Karen White,West,Washington,Seattle,Furniture,Bookcases,Metal Storage Bookshelf,3322.41,-454.45,10,0.15
+CA-2025-10065,2025-03-16,Alice Smith,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,402.83,171.61,9,0.0
+CA-2024-10065,2024-07-24,Olivia Lewis,East,New York,New York City,Furniture,Bookcases,Metal Storage Bookshelf,584.39,-54.87,4,0.3
+CA-2024-10065,2024-09-02,Jack Thomas,East,New York,New York City,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,3361.19,-194.27,10,0.0
+CA-2025-10066,2025-11-18,Olivia Lewis,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,2138.71,461.23,6,0.2
+CA-2024-10066,2024-10-27,,Central,Texas,Houston,Furniture,Tables,Folding Utility Table,1338.06,-157.09,10,0.15
+CA-2024-10066,2024-09-27,Ivy Anderson,Central,Illinois,Chicago,Office Supplies,Binders,Ring Binder 2-Inch,30.3,18.11,1,0.0
+CA-2025-10067,2025-03-20,Leo Harris,West,California,San Francisco,Office Supplies,Fasteners,Push Pins Assorted Colors,733.81,406.39,11,0.0
+CA-2025-10067,2025-06-24,Jack Thomas,East,New York,New York City,Office Supplies,Appliances,Countertop Microwave,53.99,22.81,1,0.0
+CA-2024-10067,2024-05-07,Henry Wilson,West,Washington,Seattle,Technology,Copiers,Brother Monochrome Copier,502.98,211.64,3,0.0
+CA-2024-10068,2024-07-07,Olivia Lewis,Central,Texas,Houston,Office Supplies,Appliances,Compact Refrigerator,446.47,198.57,10,0.2
+CA-2024-10068,2024-03-11,Carol Martinez,West,California,Los Angeles,Technology,Accessories,Mechanical Keyboard,7066.6,2408.2,10,0.2
+CA-2024-10068,2024-10-27,Carol Martinez,South,Florida,Miami,Office Supplies,Art,Watercolor Marker Pack,108.36,48.36,2,0.0
+CA-2024-10069,2024-08-31,Alice Smith,Central,Texas,Austin,Technology,Phones,OnePlus 11,3577.51,1367.35,6,0.0
+CA-2025-10069,2025-10-07,Frank Miller,West,California,San Francisco,Office Supplies,Fasteners,Rubber Bands Size 32,413.1,223.11,10,0.2
+CA-2025-10069,2025-02-15,Carol Martinez,East,Pennsylvania,Philadelphia,Technology,Copiers,Canon ImageRUNNER,3460.51,570.11,5,0.0
+CA-2024-10070,2024-06-16,Emily Davis,East,New York,New York City,Technology,Phones,OnePlus 11,2102.88,759.06,8,0.0
+CA-2024-10070,2024-01-06,Mia Martin,West,California,Los Angeles,Furniture,Bookcases,4-Shelf Wood Bookcase,1694.96,-35.06,4,0.0
+CA-2025-10070,2025-06-07,Carol Martinez,South,Georgia,Atlanta,Technology,Copiers,Brother Monochrome Copier,2964.61,806.95,4,0.1
+CA-2025-10071,2025-08-12,Henry Wilson,West,Washington,Seattle,Office Supplies,Fasteners,Paperclips Box of 500,23.3,13.72,1,0.0
+CA-2024-10071,2024-01-15,Karen White,South,Florida,Miami,Technology,Accessories,Noise-Cancelling Headphones,5746.27,2329.85,8,0.1
+CA-2024-10071,2024-04-21,Nathan Clark,Central,Illinois,Chicago,Technology,Machines,Heavy-Duty Shredder,1987.25,575.07,3,0.2
+CA-2025-10072,2025-05-12,Jack Thomas,East,Massachusetts,Boston,Office Supplies,Appliances,Countertop Microwave,113.67,49.34,2,0.2
+CA-2025-10072,2025-08-25,Emily Davis,Central,Texas,Houston,Furniture,Tables,Conference Room Table,1076.35,-6.65,4,0.15
+CA-2024-10072,2024-08-31,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Art,Watercolor Marker Pack,329.92,181.28,5,0.0
+CA-2024-10073,2024-11-24,Nathan Clark,East,Pennsylvania,Philadelphia,Furniture,Chairs,Ergonomic Mesh Office Chair,1296.61,2.75,5,0.15
+CA-2025-10073,2025-02-22,Karen White,East,Massachusetts,Boston,Technology,Copiers,HP LaserJet Pro,172.88,45.48,1,0.1
+CA-2024-10073,2024-01-08,Karen White,East,Pennsylvania,Philadelphia,Technology,Phones,OnePlus 11,3350.06,1241.8,5,0.0
+CA-2024-10074,2024-01-20,David Chen,Central,Texas,Houston,Technology,Copiers,Canon ImageRUNNER,648.62,260.28,7,0.0
+CA-2025-10074,2025-12-09,Henry Wilson,South,Florida,Miami,Office Supplies,Paper,Recycled Notepad Pack,605.53,287.78,11,0.2
+CA-2025-10074,2025-06-06,Karen White,South,Georgia,Atlanta,Furniture,Tables,Conference Room Table,1130.36,-80.15,5,0.0
+CA-2024-10075,2024-06-10,Grace Taylor,Central,Texas,Austin,Technology,Accessories,Noise-Cancelling Headphones,2746.09,725.42,3,0.0
+CA-2024-10075,2024-01-27,Mia Martin,Central,Illinois,Chicago,Furniture,Chairs,Leather Executive High-Back Chair,86.34,-6.92,1,0.5
+CA-2024-10075,2024-08-16,Alice Smith,East,New York,New York City,Office Supplies,Appliances,Air Purifier,452.24,265.03,6,0.0
+CA-2025-10076,2025-07-01,Alice Smith,East,Massachusetts,Boston,Furniture,Bookcases,4-Shelf Wood Bookcase,2027.07,-284.4,10,0.3
+CA-2025-10076,2025-11-21,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Art,Acrylic Paint Set,102.61,56.84,2,0.0
+CA-2024-10076,2024-02-06,David Chen,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,1876.13,593.16,9,0.0
+CA-2024-10077,2024-02-25,Leo Harris,East,Massachusetts,Boston,Office Supplies,Appliances,Compact Refrigerator,68.44,35.39,7,0.0
+CA-2025-10077,2025-07-04,Grace Taylor,West,Washington,Seattle,Furniture,Chairs,Leather Executive High-Back Chair,766.91,-88.46,2,0.0
+CA-2024-10077,2024-04-28,Olivia Lewis,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Push Pins Assorted Colors,136.61,51.45,5,0.0
+CA-2024-10078,2024-03-07,Mia Martin,West,California,San Francisco,Technology,Phones,Google Pixel 7,8050.69,2903.72,12,0.2
+CA-2024-10078,2024-05-03,Frank Miller,Central,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,9002.96,3458.6,11,0.0
+CA-2024-10078,2024-07-30,Leo Harris,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,2442.71,-356.72,8,0.0
+CA-2025-10079,2025-11-17,Leo Harris,East,Massachusetts,Boston,Furniture,Tables,Conference Room Table,528.5,25.55,4,0.0
+CA-2024-10079,2024-09-08,Henry Wilson,East,Pennsylvania,Philadelphia,Office Supplies,Art,Sketchbook 100 Pages,78.41,33.5,4,0.2
+CA-2025-10079,2025-09-14,Jack Thomas,West,Washington,Seattle,Technology,Machines,3D Printer Pro,3751.06,1584.6,6,0.0
+CA-2025-10080,2025-03-11,Olivia Lewis,East,Massachusetts,Boston,Office Supplies,Fasteners,Push Pins Assorted Colors,189.94,57.88,4,0.0
+CA-2024-10080,2024-12-03,Frank Miller,West,Washington,Seattle,Office Supplies,Appliances,Compact Refrigerator,374.31,118.25,7,0.0
+CA-2025-10080,2025-01-25,Emily Davis,East,Massachusetts,Boston,Office Supplies,Paper,Premium Copy Paper A4,230.58,136.73,8,0.2
+CA-2024-10081,2024-12-16,Ivy Anderson,East,Massachusetts,Boston,Furniture,Bookcases,Corner Display Cabinet,1445.88,-153.34,10,0.15
+CA-2025-10081,2025-08-19,Mia Martin,Central,Illinois,Chicago,Furniture,Bookcases,Corner Display Cabinet,823.33,21.86,4,0.0
+CA-2024-10081,2024-02-07,Carol Martinez,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,1538.03,-55.6,8,0.15
+CA-2025-10082,2025-02-18,Olivia Lewis,Central,Texas,Houston,Technology,Machines,Heavy-Duty Shredder,6318.25,1884.34,11,0.1
+CA-2025-10082,2025-09-21,Ivy Anderson,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,279.2,53.16,1,0.1
+CA-2025-10082,2025-11-20,Jack Thomas,Central,Illinois,Chicago,Office Supplies,Art,Sketchbook 100 Pages,202.88,107.84,9,0.2
+CA-2024-10083,2024-09-05,Alice Smith,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,3468.82,1503.44,6,0.0
+CA-2024-10083,2024-01-06,Mia Martin,South,Florida,Miami,Technology,Machines,Laminator Core,1320.48,518.25,7,0.2
+CA-2024-10083,2024-05-13,Olivia Lewis,East,Massachusetts,Boston,Furniture,Bookcases,Corner Display Cabinet,1584.44,-40.34,8,0.0
+CA-2024-10084,2024-01-25,Henry Wilson,West,Washington,Seattle,Office Supplies,Paper,Photo Paper Glossy,135.66,67.07,12,0.2
+CA-2024-10084,2024-06-20,Nathan Clark,South,Florida,Miami,Technology,Accessories,USB-C Hub,6961.86,2563.94,10,0.1
+CA-2024-10084,2024-04-19,Ivy Anderson,Central,Texas,Houston,Furniture,Bookcases,Metal Storage Bookshelf,598.53,-45.08,3,0.5
+CA-2025-10085,2025-06-15,David Chen,West,California,Los Angeles,Technology,Phones,Google Pixel 7,5778.23,1057.08,7,0.0
+CA-2024-10085,2024-01-25,,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,3085.13,672.97,8,0.0
+CA-2024-10085,2024-05-03,Mia Martin,East,Pennsylvania,Philadelphia,Furniture,Chairs,Leather Executive High-Back Chair,3456.4,-462.89,9,0.0
+CA-2024-10086,2024-01-17,David Chen,East,Massachusetts,Boston,Office Supplies,Fasteners,Paperclips Box of 500,178.26,55.36,8,0.0
+CA-2025-10086,2025-08-03,Bob Johnson,South,North Carolina,Charlotte,Technology,Machines,Heavy-Duty Shredder,626.55,252.45,5,0.0
+CA-2024-10086,2024-01-28,Grace Taylor,Central,Texas,Houston,Office Supplies,Appliances,Air Purifier,26.65,8.51,4,0.0
+CA-2025-10087,2025-08-11,David Chen,West,California,Los Angeles,Office Supplies,Appliances,Compact Refrigerator,665.41,377.73,12,0.0
+CA-2025-10087,2025-11-20,Henry Wilson,East,New York,New York City,Furniture,Chairs,Ergonomic Mesh Office Chair,769.02,-108.71,10,0.5
+CA-2025-10087,2025-11-20,Henry Wilson,East,New York,New York City,Furniture,Chairs,Ergonomic Mesh Office Chair,769.02,-108.71,10,0.5
+CA-2025-10087,2025-08-13,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Premium Copy Paper A4,585.59,216.39,11,0.2
+CA-2025-10088,2025-10-29,Mia Martin,Central,Illinois,Chicago,Furniture,Chairs,Stool Adjustable Height,716.57,-102.85,2,0.15
+CA-2024-10088,2024-07-06,Olivia Lewis,South,Georgia,Atlanta,Technology,Machines,Heavy-Duty Shredder,445.03,71.74,5,0.0
+CA-2024-10088,2024-09-19,Nathan Clark,West,California,Los Angeles,Technology,Machines,Laminator Core,561.7,194.73,2,0.0
+CA-2025-10089,2025-04-16,Alice Smith,Central,Texas,Austin,Furniture,Chairs,Leather Executive High-Back Chair,1819.51,-1.7,10,0.0
+CA-2024-10089,2024-03-15,Grace Taylor,Central,Texas,Austin,Technology,Machines,Laminator Core,2717.77,711.75,7,0.1
+CA-2024-10089,2024-03-15,Grace Taylor,Central,Texas,Austin,Technology,Machines,Laminator Core,2717.77,711.75,7,0.1
+CA-2024-10089,2024-05-22,Olivia Lewis,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Desk Organizer Organizer Tray,166.76,-18.43,1,0.5
+CA-2024-10090,2024-03-18,Emily Davis,Central,Texas,Austin,Technology,Copiers,Brother Monochrome Copier,1302.91,276.13,7,0.0
+CA-2025-10090,2025-05-07,Mia Martin,West,California,Los Angeles,Office Supplies,Art,Watercolor Marker Pack,866.84,294.49,12,0.0
+CA-2024-10090,2024-09-19,Henry Wilson,Central,Texas,Austin,Office Supplies,Appliances,Compact Refrigerator,683.11,248.6,9,0.0
+CA-2025-10091,2025-02-23,Jack Thomas,West,Washington,Seattle,Technology,Phones,Google Pixel 7,3633.15,800.56,12,0.0
+CA-2024-10091,2024-08-09,Henry Wilson,Central,Texas,Houston,Office Supplies,Art,Acrylic Paint Set,280.44,85.81,8,0.0
+CA-2025-10091,2025-09-25,Emily Davis,East,New York,New York City,Technology,Copiers,Canon ImageRUNNER,8124.93,3128.55,12,0.0
+CA-2024-10092,2024-04-01,Olivia Lewis,West,Washington,Seattle,Furniture,Chairs,Ergonomic Mesh Office Chair,4451.66,-222.03,11,0.0
+CA-2025-10092,2025-07-16,Alice Smith,West,Washington,Seattle,Office Supplies,Fasteners,Rubber Bands Size 32,769.33,237.28,12,0.0
+CA-2025-10092,2025-07-16,Alice Smith,West,Washington,Seattle,Office Supplies,Fasteners,Rubber Bands Size 32,769.33,237.28,12,0.0
+CA-2024-10092,2024-05-23,Grace Taylor,Central,Texas,Houston,Office Supplies,Art,Watercolor Marker Pack,881.19,500.32,12,0.0
+CA-2024-10093,2024-06-24,David Chen,Central,Texas,Houston,Office Supplies,Paper,Recycled Notepad Pack,198.9,81.82,3,0.0
+CA-2024-10093,2024-05-13,Ivy Anderson,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,1592.55,76.64,6,0.0
+CA-2024-10093,2024-03-29,Grace Taylor,East,Pennsylvania,Philadelphia,Furniture,Tables,Folding Utility Table,2779.07,-407.61,10,0.15
+CA-2024-10094,2024-01-11,Grace Taylor,South,Georgia,Atlanta,Furniture,Chairs,Leather Executive High-Back Chair,3943.37,-342.52,10,0.0
+CA-2025-10094,2025-07-16,Emily Davis,West,Washington,Seattle,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,2067.87,-94.04,12,0.0
+CA-2025-10094,2025-07-16,Emily Davis,West,Washington,Seattle,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,2067.87,-94.04,12,0.0
+CA-2025-10094,2025-05-06,Frank Miller,West,California,Los Angeles,Office Supplies,Paper,Recycled Notepad Pack,109.09,37.15,6,0.0
+CA-2024-10095,2024-03-29,Frank Miller,Central,Illinois,Chicago,Office Supplies,Paper,Recycled Notepad Pack,266.64,142.62,6,0.0
+CA-2025-10095,2025-11-08,Frank Miller,West,Washington,Seattle,Office Supplies,Binders,Zipper Binder Pouch,32.59,17.28,1,0.2
+CA-2024-10095,2024-07-10,David Chen,South,Georgia,Atlanta,Technology,Machines,Laminator Core,223.57,81.95,2,0.0
+CA-2025-10096,2025-03-07,Carol Martinez,Central,Texas,Houston,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,159.56,-13.88,1,0.15
+CA-2024-10096,2024-07-31,Bob Johnson,South,Georgia,Atlanta,Furniture,Tables,Conference Room Table,171.07,6.99,1,0.5
+CA-2024-10096,2024-07-31,Bob Johnson,South,Georgia,Atlanta,Furniture,Tables,Conference Room Table,171.07,6.99,1,0.5
+CA-2025-10096,2025-09-14,Grace Taylor,Central,Illinois,Chicago,Furniture,Furnishings,LED Desk Lamp,402.86,-45.94,2,0.15
+CA-2024-10097,2024-12-28,Bob Johnson,South,Georgia,Atlanta,Furniture,Bookcases,Corner Display Cabinet,344.72,-19.05,4,0.5
+CA-2024-10097,2024-03-14,Nathan Clark,South,North Carolina,Charlotte,Furniture,Chairs,Ergonomic Mesh Office Chair,2129.07,-10.74,7,0.0
+CA-2025-10097,2025-07-04,Grace Taylor,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,1224.29,-135.47,8,0.0
+CA-2024-10098,2024-05-30,Carol Martinez,East,Massachusetts,Boston,Office Supplies,Paper,Recycled Notepad Pack,571.89,187.56,12,0.0
+CA-2024-10098,2024-05-09,Carol Martinez,South,Georgia,Atlanta,Technology,Copiers,Brother Monochrome Copier,3719.98,874.69,5,0.0
+CA-2024-10098,2024-12-13,Emily Davis,East,Massachusetts,Boston,Furniture,Tables,Conference Room Table,271.06,-17.79,1,0.0
+CA-2025-10099,2025-06-25,Mia Martin,East,Massachusetts,Boston,Office Supplies,Fasteners,Push Pins Assorted Colors,140.46,76.15,3,0.0
+CA-2025-10099,2025-06-25,Mia Martin,East,Massachusetts,Boston,Office Supplies,Fasteners,Push Pins Assorted Colors,140.46,76.15,3,0.0
+CA-2025-10099,2025-03-30,Karen White,West,California,San Francisco,Technology,Machines,3D Printer Pro,1148.39,504.22,2,0.0
+CA-2024-10099,2024-07-03,Jack Thomas,East,Pennsylvania,Philadelphia,Furniture,Bookcases,Corner Display Cabinet,2857.72,0.02,10,0.3
+CA-2025-10100,2025-03-13,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Recycled Notepad Pack,226.58,111.14,3,0.0
+CA-2024-10100,2024-03-14,Henry Wilson,East,Massachusetts,Boston,Technology,Phones,Google Pixel 7,6797.71,2919.9,11,0.0
+CA-2024-10100,2024-03-21,Frank Miller,Central,Illinois,Chicago,Office Supplies,Fasteners,Paperclips Box of 500,247.0,121.34,5,0.0
+CA-2025-10101,2025-11-21,Ivy Anderson,Central,Illinois,Chicago,Office Supplies,Appliances,Compact Refrigerator,135.44,78.63,11,0.0
+CA-2025-10101,2025-11-14,Mia Martin,Central,Texas,Houston,Office Supplies,Paper,Photo Paper Glossy,208.76,81.29,4,0.2
+CA-2024-10101,2024-06-26,Leo Harris,Central,Texas,Houston,Office Supplies,Fasteners,Push Pins Assorted Colors,49.94,20.74,6,0.0
+CA-2025-10102,2025-07-06,Bob Johnson,Central,Texas,Houston,Technology,Accessories,Mechanical Keyboard,663.93,156.92,1,0.1
+CA-2024-10102,2024-04-13,Bob Johnson,Central,Illinois,Chicago,Office Supplies,Fasteners,Rubber Bands Size 32,521.47,179.75,8,0.0
+CA-2025-10102,2025-03-11,Frank Miller,East,New York,New York City,Office Supplies,Paper,Photo Paper Glossy,255.75,124.2,4,0.0
+CA-2025-10103,2025-01-02,Ivy Anderson,South,North Carolina,Charlotte,Technology,Copiers,HP LaserJet Pro,1476.16,591.16,3,0.0
+CA-2024-10103,2024-04-30,Henry Wilson,Central,Texas,Houston,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1080.77,-18.22,7,0.5
+CA-2024-10103,2024-07-03,David Chen,Central,Texas,Houston,Office Supplies,Fasteners,Push Pins Assorted Colors,502.1,256.36,7,0.0
+CA-2025-10104,2025-03-16,Karen White,South,North Carolina,Charlotte,Furniture,Bookcases,Corner Display Cabinet,316.67,9.51,2,0.0
+CA-2024-10104,2024-11-13,Grace Taylor,Central,Texas,Houston,Office Supplies,Paper,Photo Paper Glossy,471.56,179.9,9,0.0
+CA-2025-10104,2025-05-09,Alice Smith,West,California,Los Angeles,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,3592.71,-127.38,8,0.0
+CA-2025-10105,2025-01-16,Jack Thomas,West,California,Los Angeles,Office Supplies,Art,Sketchbook 100 Pages,67.94,37.81,3,0.0
+CA-2024-10105,2024-10-01,David Chen,East,Massachusetts,Boston,Technology,Accessories,Mechanical Keyboard,884.33,138.8,8,0.1
+CA-2024-10105,2024-12-13,Jack Thomas,East,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S23,459.12,124.17,1,0.2
+CA-2024-10106,2024-04-18,,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,1351.82,48.58,6,0.0
+CA-2025-10106,2025-05-15,Karen White,West,California,San Francisco,Technology,Copiers,Canon ImageRUNNER,5146.59,1397.8,12,0.2
+CA-2025-10106,2025-06-07,Henry Wilson,South,Florida,Miami,Technology,Machines,3D Printer Pro,3796.79,1599.88,6,0.2
+CA-2024-10107,2024-03-13,Karen White,East,Massachusetts,Boston,Furniture,Bookcases,4-Shelf Wood Bookcase,255.84,11.53,1,0.3
+CA-2024-10107,2024-04-09,Karen White,South,Georgia,Atlanta,Office Supplies,Fasteners,Rubber Bands Size 32,585.23,309.85,10,0.0
+CA-2025-10107,2025-11-09,Mia Martin,Central,Illinois,Chicago,Office Supplies,Binders,Heavy-Duty Presentation Folder,273.18,158.64,5,0.0
+CA-2025-10108,2025-05-05,Jack Thomas,East,New York,New York City,Technology,Machines,Laminator Core,872.67,152.39,3,0.1
+CA-2024-10108,2024-12-13,Carol Martinez,Central,Texas,Houston,Technology,Accessories,Noise-Cancelling Headphones,2160.25,562.36,10,0.0
+CA-2025-10108,2025-12-14,Ivy Anderson,South,Florida,Miami,Furniture,Chairs,Ergonomic Mesh Office Chair,783.83,-116.7,8,0.3
+CA-2024-10109,2024-06-01,Karen White,Central,Texas,Houston,Furniture,Bookcases,4-Shelf Wood Bookcase,2403.09,-356.92,11,0.15
+CA-2025-10109,2025-10-13,Karen White,South,Florida,Miami,Office Supplies,Appliances,Compact Refrigerator,132.4,50.23,10,0.2
+CA-2025-10109,2025-09-03,Mia Martin,South,Florida,Miami,Technology,Phones,Google Pixel 7,868.14,357.76,8,0.0
+CA-2025-10110,2025-08-20,,South,North Carolina,Charlotte,Technology,Accessories,Wireless Mouse,1838.31,639.62,8,0.0
+CA-2024-10110,2024-10-16,Carol Martinez,East,New York,New York City,Office Supplies,Art,Sketchbook 100 Pages,56.25,26.91,5,0.0
+CA-2024-10110,2024-03-14,Frank Miller,West,California,Los Angeles,Furniture,Tables,Conference Room Table,552.46,-2.7,2,0.0
+CA-2024-10111,2024-05-30,Emily Davis,South,Florida,Miami,Office Supplies,Paper,Premium Copy Paper A4,221.72,129.32,9,0.0
+CA-2025-10111,2025-09-23,Ivy Anderson,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,1452.02,68.85,12,0.3
+CA-2024-10111,2024-02-21,David Chen,Central,Texas,Houston,Furniture,Tables,Standing Desk Birch Wood,2692.19,-51.31,10,0.0
+CA-2025-10112,2025-12-11,Jack Thomas,South,North Carolina,Charlotte,Technology,Phones,OnePlus 11,2511.24,807.3,5,0.1
+CA-2025-10112,2025-12-21,Carol Martinez,West,California,San Francisco,Technology,Machines,3D Printer Pro,3650.37,740.06,7,0.0
+CA-2025-10112,2025-01-26,Olivia Lewis,West,Washington,Seattle,Furniture,Bookcases,4-Shelf Wood Bookcase,105.4,1.8,1,0.3
+CA-2025-10113,2025-12-10,Ivy Anderson,South,Georgia,Atlanta,Technology,Phones,OnePlus 11,583.35,160.8,1,0.1
+CA-2024-10113,2024-10-05,Jack Thomas,West,California,Los Angeles,Technology,Phones,Google Pixel 7,8015.41,3576.59,12,0.2
+CA-2025-10113,2025-01-30,Mia Martin,Central,Texas,Houston,Furniture,Furnishings,Desk Organizer Organizer Tray,199.6,-0.31,1,0.0
+CA-2024-10114,2024-06-07,Nathan Clark,East,New York,New York City,Furniture,Furnishings,Desk Organizer Organizer Tray,1277.61,-45.02,4,0.15
+CA-2025-10114,2025-07-31,David Chen,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Paperclips Box of 500,304.08,121.59,7,0.0
+CA-2024-10114,2024-02-20,Olivia Lewis,West,California,San Francisco,Furniture,Chairs,Ergonomic Mesh Office Chair,966.62,-21.7,6,0.15
+CA-2024-10115,2024-06-28,Jack Thomas,West,California,Los Angeles,Furniture,Furnishings,LED Desk Lamp,1132.98,-16.73,5,0.0
+CA-2024-10115,2024-10-08,Leo Harris,South,Georgia,Atlanta,Furniture,Bookcases,Corner Display Cabinet,271.86,0.45,1,0.3
+CA-2024-10115,2024-01-23,Mia Martin,Central,Texas,Austin,Technology,Machines,Laminator Core,2933.47,1229.32,5,0.0
+CA-2024-10115,2024-01-23,Mia Martin,Central,Texas,Austin,Technology,Machines,Laminator Core,2933.47,1229.32,5,0.0
+CA-2024-10116,2024-09-20,Henry Wilson,Central,Illinois,Chicago,Furniture,Tables,Standing Desk Birch Wood,2269.59,-277.34,9,0.3
+CA-2024-10116,2024-01-08,Olivia Lewis,East,Pennsylvania,Philadelphia,Furniture,Tables,Standing Desk Birch Wood,2447.54,-297.29,11,0.3
+CA-2024-10116,2024-06-24,Leo Harris,West,California,San Francisco,Office Supplies,Appliances,Countertop Microwave,601.88,308.84,9,0.0
+CA-2024-10117,2024-10-23,Emily Davis,West,California,San Francisco,Technology,Phones,iPhone 14,3594.18,1537.83,6,0.1
+CA-2025-10117,2025-04-02,Emily Davis,West,California,San Francisco,Furniture,Bookcases,Metal Storage Bookshelf,655.05,-82.83,4,0.15
+CA-2025-10117,2025-11-10,Ivy Anderson,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,1720.87,-207.26,12,0.5
+CA-2025-10118,2025-11-06,Karen White,Central,Texas,Austin,Technology,Machines,Laminator Core,850.32,163.19,2,0.0
+CA-2024-10118,2024-02-06,Olivia Lewis,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,1427.36,-11.08,11,0.15
+CA-2025-10118,2025-06-04,Mia Martin,East,Pennsylvania,Philadelphia,Furniture,Tables,Conference Room Table,1976.01,-51.6,11,0.3
+CA-2024-10119,2024-12-11,Grace Taylor,West,California,San Francisco,Furniture,Bookcases,Corner Display Cabinet,2554.88,-154.36,7,0.15
+CA-2024-10119,2024-05-05,Mia Martin,West,California,Los Angeles,Technology,Copiers,Canon ImageRUNNER,2572.05,790.49,8,0.0
+CA-2025-10119,2025-03-12,Karen White,South,Florida,Miami,Furniture,Tables,Conference Room Table,1001.04,-38.06,5,0.15
+CA-2025-10120,2025-02-18,David Chen,West,California,San Francisco,Office Supplies,Fasteners,Push Pins Assorted Colors,552.13,203.12,7,0.0
+CA-2024-10120,2024-09-06,Leo Harris,West,California,Los Angeles,Office Supplies,Fasteners,Paperclips Box of 500,613.63,358.33,9,0.0
+CA-2025-10120,2025-08-30,Emily Davis,East,Massachusetts,Boston,Office Supplies,Art,Acrylic Paint Set,47.84,20.26,1,0.0
+CA-2024-10121,2024-02-15,Grace Taylor,Central,Texas,Austin,Furniture,Tables,Conference Room Table,654.9,-50.63,4,0.5
+CA-2025-10121,2025-03-28,Jack Thomas,West,Washington,Seattle,Technology,Machines,Laminator Core,11250.53,4031.97,12,0.0
+CA-2025-10121,2025-08-28,Jack Thomas,South,Florida,Miami,Technology,Copiers,Canon ImageRUNNER,7490.41,2685.9,12,0.0
+CA-2024-10122,2024-09-19,Frank Miller,West,California,San Francisco,Technology,Machines,Heavy-Duty Shredder,6054.6,1366.54,7,0.0
+CA-2025-10122,2025-04-24,Alice Smith,Central,Texas,Houston,Technology,Accessories,Noise-Cancelling Headphones,2568.88,1047.06,11,0.2
+CA-2025-10122,2025-10-01,Nathan Clark,Central,Texas,Houston,Furniture,Tables,Conference Room Table,2831.41,-51.4,9,0.3
+CA-2024-10123,2024-05-17,Alice Smith,South,Georgia,Atlanta,Technology,Copiers,HP LaserJet Pro,2472.32,1093.76,6,0.1
+CA-2024-10123,2024-01-15,Grace Taylor,East,Pennsylvania,Philadelphia,Office Supplies,Appliances,Countertop Microwave,214.98,86.15,5,0.0
+CA-2025-10123,2025-11-11,Mia Martin,South,Florida,Miami,Technology,Copiers,Canon ImageRUNNER,791.25,193.33,7,0.2
+CA-2025-10124,2025-01-05,Olivia Lewis,West,California,San Francisco,Technology,Copiers,Canon ImageRUNNER,1237.08,419.64,7,0.0
+CA-2024-10124,2024-05-19,Mia Martin,Central,Texas,Austin,Office Supplies,Fasteners,Push Pins Assorted Colors,191.71,85.58,9,0.0
+CA-2025-10124,2025-02-14,Bob Johnson,East,New York,New York City,Furniture,Furnishings,LED Desk Lamp,371.01,5.02,2,0.5
+CA-2025-10125,2025-01-01,David Chen,West,California,Los Angeles,Furniture,Chairs,Ergonomic Mesh Office Chair,581.14,18.93,5,0.5
+CA-2025-10125,2025-10-27,David Chen,South,Florida,Miami,Furniture,Chairs,Stool Adjustable Height,364.95,13.44,1,0.15
+CA-2024-10125,2024-03-16,Karen White,West,California,Los Angeles,Office Supplies,Fasteners,Paperclips Box of 500,208.22,116.26,3,0.0
+CA-2025-10126,2025-01-05,David Chen,Central,Illinois,Chicago,Technology,Phones,OnePlus 11,587.64,206.38,6,0.1
+CA-2024-10126,2024-06-18,Mia Martin,West,California,San Francisco,Furniture,Bookcases,4-Shelf Wood Bookcase,1356.25,-107.49,10,0.0
+CA-2025-10126,2025-05-30,Olivia Lewis,West,Washington,Seattle,Furniture,Furnishings,LED Desk Lamp,1174.49,-168.77,4,0.0
+CA-2024-10127,2024-12-21,Carol Martinez,Central,Texas,Austin,Furniture,Chairs,Leather Executive High-Back Chair,2078.53,-105.08,11,0.3
+CA-2025-10127,2025-09-05,Mia Martin,South,Georgia,Atlanta,Furniture,Tables,Standing Desk Birch Wood,491.0,-31.09,6,0.5
+CA-2024-10127,2024-07-28,Carol Martinez,West,California,San Francisco,Technology,Accessories,Mechanical Keyboard,1180.33,495.03,12,0.0
+CA-2024-10128,2024-07-17,Alice Smith,Central,Illinois,Chicago,Office Supplies,Binders,Zipper Binder Pouch,103.45,52.53,9,0.2
+CA-2024-10128,2024-07-17,Alice Smith,Central,Illinois,Chicago,Office Supplies,Binders,Zipper Binder Pouch,103.45,52.53,9,0.2
+CA-2024-10128,2024-09-09,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Ring Binder 2-Inch,215.53,67.45,10,0.0
+CA-2025-10128,2025-06-06,Ivy Anderson,West,California,Los Angeles,Furniture,Furnishings,Desk Organizer Organizer Tray,391.0,11.57,3,0.5
+CA-2024-10129,2024-11-19,Grace Taylor,East,Massachusetts,Boston,Technology,Machines,Laminator Core,1735.61,389.23,11,0.1
+CA-2024-10129,2024-07-12,David Chen,East,Massachusetts,Boston,Furniture,Tables,Standing Desk Birch Wood,268.49,-35.41,2,0.5
+CA-2024-10129,2024-12-10,Karen White,East,New York,New York City,Furniture,Tables,Folding Utility Table,1109.5,-132.43,9,0.3
+CA-2025-10130,2025-02-01,Nathan Clark,South,North Carolina,Charlotte,Technology,Accessories,USB-C Hub,2148.38,903.09,11,0.1
+CA-2025-10130,2025-09-01,Henry Wilson,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,2091.52,453.43,12,0.2
+CA-2024-10130,2024-05-31,Carol Martinez,South,Georgia,Atlanta,Technology,Machines,Laminator Core,2137.5,550.65,5,0.0
+CA-2024-10131,2024-02-19,Frank Miller,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,6368.97,1446.18,10,0.0
+CA-2025-10131,2025-01-25,Leo Harris,Central,Texas,Houston,Technology,Phones,iPhone 14,5949.23,2525.63,11,0.2
+CA-2024-10131,2024-02-15,Nathan Clark,West,California,Los Angeles,Technology,Phones,Samsung Galaxy S23,3129.73,498.57,4,0.0
+CA-2025-10132,2025-12-12,David Chen,West,California,Los Angeles,Furniture,Bookcases,Metal Storage Bookshelf,1008.88,-67.81,5,0.5
+CA-2024-10132,2024-03-11,Karen White,West,Washington,Seattle,Office Supplies,Paper,Photo Paper Glossy,504.21,245.48,10,0.2
+CA-2025-10132,2025-06-18,Jack Thomas,South,Florida,Miami,Technology,Phones,OnePlus 11,4025.12,1186.49,6,0.1
+CA-2024-10133,2024-03-28,Bob Johnson,West,California,Los Angeles,Office Supplies,Art,Acrylic Paint Set,585.75,276.58,10,0.2
+CA-2025-10133,2025-04-14,Henry Wilson,East,Pennsylvania,Philadelphia,Technology,Copiers,Canon ImageRUNNER,1499.41,641.13,8,0.2
+CA-2024-10133,2024-04-20,Jack Thomas,West,California,San Francisco,Office Supplies,Fasteners,Paperclips Box of 500,386.5,212.67,6,0.0
+CA-2025-10134,2025-11-04,Mia Martin,West,Washington,Seattle,Technology,Accessories,Noise-Cancelling Headphones,4227.36,1207.78,5,0.1
+CA-2025-10134,2025-05-21,Emily Davis,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,3428.13,-161.85,11,0.3
+CA-2025-10134,2025-05-21,Emily Davis,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,3428.13,-161.85,11,0.3
+CA-2025-10134,2025-09-17,Alice Smith,East,Pennsylvania,Philadelphia,Technology,Phones,iPhone 14,5130.36,1747.38,6,0.0
+CA-2024-10135,2024-07-31,Bob Johnson,South,Georgia,Atlanta,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,821.79,-85.09,5,0.3
+CA-2025-10135,2025-10-11,Jack Thomas,East,Massachusetts,Boston,Technology,Machines,Heavy-Duty Shredder,5604.91,2137.86,7,0.1
+CA-2024-10135,2024-08-08,Carol Martinez,West,California,San Francisco,Office Supplies,Binders,Ring Binder 2-Inch,427.33,136.26,10,0.2
+CA-2025-10136,2025-09-29,Ivy Anderson,South,North Carolina,Charlotte,Technology,Machines,Heavy-Duty Shredder,3100.66,1170.25,6,0.0
+CA-2024-10136,2024-07-27,Alice Smith,South,North Carolina,Charlotte,Technology,Copiers,HP LaserJet Pro,8004.47,3547.59,9,0.0
+CA-2025-10136,2025-11-20,Jack Thomas,West,California,Los Angeles,Furniture,Bookcases,4-Shelf Wood Bookcase,1358.27,-115.99,8,0.5
+CA-2024-10137,2024-02-04,Henry Wilson,West,California,Los Angeles,Furniture,Furnishings,LED Desk Lamp,2303.1,-277.62,11,0.15
+CA-2025-10137,2025-10-16,Henry Wilson,West,California,Los Angeles,Office Supplies,Art,Watercolor Marker Pack,169.27,97.34,3,0.0
+CA-2025-10137,2025-11-30,Grace Taylor,West,California,Los Angeles,Furniture,Chairs,Leather Executive High-Back Chair,130.32,-18.24,1,0.5
+CA-2025-10138,2025-12-09,Karen White,West,Washington,Seattle,Furniture,Tables,Folding Utility Table,309.34,-22.34,2,0.3
+CA-2024-10138,2024-01-18,Grace Taylor,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,359.3,12.96,5,0.5
+CA-2024-10138,2024-06-18,Grace Taylor,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,1421.21,-155.39,7,0.15
+CA-2024-10139,2024-04-20,Leo Harris,East,New York,New York City,Office Supplies,Appliances,Compact Refrigerator,432.03,219.0,7,0.2
+CA-2024-10139,2024-08-07,Carol Martinez,Central,Texas,Houston,Technology,Copiers,Canon ImageRUNNER,3749.82,570.88,5,0.0
+CA-2025-10139,2025-04-18,David Chen,West,California,Los Angeles,Office Supplies,Binders,Heavy-Duty Presentation Folder,178.87,95.14,3,0.0
+CA-2024-10140,2024-12-25,Emily Davis,South,Florida,Miami,Technology,Copiers,HP LaserJet Pro,6725.44,1539.91,9,0.0
+CA-2025-10140,2025-03-18,Ivy Anderson,Central,Texas,Houston,Technology,Accessories,Noise-Cancelling Headphones,2918.61,1140.99,5,0.2
+CA-2025-10140,2025-10-29,Leo Harris,South,Georgia,Atlanta,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,2170.15,-17.6,5,0.0
+CA-2025-10141,2025-05-14,Jack Thomas,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,419.9,-8.43,3,0.3
+CA-2025-10141,2025-03-06,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Art,Watercolor Marker Pack,297.52,130.76,9,0.2
+CA-2024-10141,2024-01-14,Ivy Anderson,Central,Texas,Austin,Office Supplies,Fasteners,Push Pins Assorted Colors,48.22,20.96,7,0.2
+CA-2025-10142,2025-11-07,Leo Harris,Central,Texas,Houston,Office Supplies,Art,Acrylic Paint Set,360.73,163.22,7,0.2
+CA-2024-10142,2024-11-15,Mia Martin,West,Washington,Seattle,Technology,Phones,Samsung Galaxy S23,3723.44,873.79,10,0.0
+CA-2024-10142,2024-09-05,Carol Martinez,West,California,Los Angeles,Technology,Copiers,HP LaserJet Pro,4895.1,874.92,12,0.2
+CA-2024-10143,2024-10-27,Bob Johnson,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,4933.55,2105.7,8,0.2
+CA-2024-10143,2024-10-30,Nathan Clark,East,Massachusetts,Boston,Office Supplies,Fasteners,Rubber Bands Size 32,105.73,42.51,3,0.0
+CA-2024-10143,2024-08-03,Bob Johnson,West,California,San Francisco,Furniture,Tables,Standing Desk Birch Wood,2031.65,-72.03,9,0.15
+CA-2025-10144,2025-12-01,David Chen,Central,Texas,Austin,Technology,Copiers,Canon ImageRUNNER,1876.92,561.51,2,0.0
+CA-2024-10144,2024-07-30,Henry Wilson,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,5654.97,980.89,9,0.2
+CA-2025-10144,2025-03-16,Nathan Clark,Central,Illinois,Chicago,Technology,Phones,OnePlus 11,5110.58,1623.81,9,0.1
+CA-2025-10145,2025-12-08,Emily Davis,East,Pennsylvania,Philadelphia,Furniture,Bookcases,Corner Display Cabinet,2167.66,-100.79,10,0.15
+CA-2025-10145,2025-02-06,Frank Miller,East,New York,New York City,Office Supplies,Appliances,Compact Refrigerator,354.4,131.14,8,0.0
+CA-2025-10145,2025-03-07,David Chen,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,275.48,-12.16,1,0.0
+CA-2025-10146,2025-10-11,Grace Taylor,East,Massachusetts,Boston,Furniture,Chairs,Leather Executive High-Back Chair,676.49,-55.98,4,0.15
+CA-2025-10146,2025-08-29,Karen White,West,California,Los Angeles,Office Supplies,Fasteners,Rubber Bands Size 32,126.29,70.05,6,0.2
+CA-2024-10146,2024-01-27,Mia Martin,West,California,San Francisco,Technology,Phones,Google Pixel 7,640.59,238.1,5,0.2
+CA-2024-10147,2024-09-07,Grace Taylor,East,Massachusetts,Boston,Office Supplies,Fasteners,Rubber Bands Size 32,330.1,196.35,8,0.0
+CA-2025-10147,2025-02-10,Carol Martinez,West,California,Los Angeles,Office Supplies,Binders,Heavy-Duty Presentation Folder,16.41,6.07,4,0.2
+CA-2024-10147,2024-03-16,Carol Martinez,West,California,San Francisco,Technology,Copiers,Canon ImageRUNNER,7393.54,1150.62,8,0.0
+CA-2024-10148,2024-06-09,Leo Harris,East,New York,New York City,Technology,Copiers,HP LaserJet Pro,3319.39,785.33,8,0.1
+CA-2025-10148,2025-07-23,Olivia Lewis,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,981.07,28.37,10,0.5
+CA-2025-10148,2025-05-04,Mia Martin,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,871.95,-26.59,2,0.0
+CA-2024-10149,2024-07-09,Alice Smith,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,600.03,255.78,5,0.0
+CA-2025-10149,2025-10-16,Emily Davis,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1104.92,-108.4,6,0.5
+CA-2024-10149,2024-10-25,Mia Martin,Central,Illinois,Chicago,Office Supplies,Paper,Premium Copy Paper A4,340.01,124.69,5,0.0
+CA-2024-10150,2024-12-06,Karen White,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,1972.07,-174.18,7,0.3
+CA-2025-10150,2025-09-25,Olivia Lewis,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,471.53,142.79,12,0.0
+CA-2025-10150,2025-10-29,Alice Smith,East,Massachusetts,Boston,Office Supplies,Art,Acrylic Paint Set,220.94,107.69,10,0.0
+CA-2025-10151,2025-10-15,David Chen,West,Washington,Seattle,Furniture,Bookcases,4-Shelf Wood Bookcase,264.61,-18.45,1,0.3
+CA-2024-10151,2024-08-08,Bob Johnson,East,Massachusetts,Boston,Furniture,Tables,Folding Utility Table,214.15,-0.21,1,0.3
+CA-2024-10151,2024-06-14,Mia Martin,Central,Illinois,Chicago,Office Supplies,Art,Acrylic Paint Set,298.31,139.46,9,0.0
+CA-2024-10152,2024-03-18,Leo Harris,East,Massachusetts,Boston,Furniture,Bookcases,Corner Display Cabinet,358.06,-31.5,3,0.5
+CA-2024-10152,2024-04-05,Olivia Lewis,Central,Illinois,Chicago,Office Supplies,Appliances,Compact Refrigerator,48.77,16.41,2,0.0
+CA-2025-10152,2025-01-02,Emily Davis,West,Washington,Seattle,Office Supplies,Fasteners,Rubber Bands Size 32,56.37,21.04,2,0.0
+CA-2025-10153,2025-05-21,Carol Martinez,Central,Texas,Austin,Furniture,Tables,Conference Room Table,818.62,26.11,2,0.0
+CA-2025-10153,2025-05-21,Carol Martinez,Central,Texas,Austin,Furniture,Tables,Conference Room Table,818.62,26.11,2,0.0
+CA-2024-10153,2024-02-03,Mia Martin,Central,Texas,Houston,Technology,Phones,Samsung Galaxy S23,3479.85,884.58,5,0.2
+CA-2025-10153,2025-06-29,Henry Wilson,South,Florida,Miami,Technology,Copiers,Canon ImageRUNNER,3227.5,621.33,6,0.1
+CA-2024-10154,2024-10-16,Grace Taylor,East,Massachusetts,Boston,Office Supplies,Paper,Recycled Notepad Pack,122.47,48.9,3,0.0
+CA-2024-10154,2024-01-12,Nathan Clark,South,Georgia,Atlanta,Furniture,Tables,Standing Desk Birch Wood,1990.86,-157.3,10,0.15
+CA-2025-10154,2025-11-19,Carol Martinez,West,Washington,Seattle,Technology,Copiers,Canon ImageRUNNER,3619.18,574.41,4,0.0
+CA-2024-10155,2024-04-26,Olivia Lewis,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Desk Organizer Organizer Tray,2545.77,45.49,11,0.0
+CA-2024-10155,2024-08-18,Alice Smith,South,North Carolina,Charlotte,Technology,Copiers,Brother Monochrome Copier,104.94,17.5,1,0.1
+CA-2025-10155,2025-03-09,Jack Thomas,East,New York,New York City,Office Supplies,Fasteners,Paperclips Box of 500,313.96,126.57,8,0.2
+CA-2025-10156,2025-07-04,Jack Thomas,West,California,San Francisco,Furniture,Chairs,Leather Executive High-Back Chair,2519.4,-161.5,8,0.3
+CA-2024-10156,2024-12-19,Carol Martinez,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,167.97,68.08,9,0.0
+CA-2024-10156,2024-05-19,Jack Thomas,East,New York,New York City,Office Supplies,Appliances,Air Purifier,555.99,268.25,7,0.0
+CA-2024-10157,2024-06-30,Alice Smith,Central,Texas,Austin,Office Supplies,Art,Acrylic Paint Set,266.49,102.64,5,0.2
+CA-2024-10157,2024-07-11,Leo Harris,South,Florida,Miami,Office Supplies,Binders,Zipper Binder Pouch,91.39,46.08,3,0.0
+CA-2025-10157,2025-03-07,Grace Taylor,South,North Carolina,Charlotte,Office Supplies,Binders,Zipper Binder Pouch,480.36,266.68,10,0.0
+CA-2024-10158,2024-05-02,David Chen,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,237.03,102.02,1,0.0
+CA-2024-10158,2024-11-25,Leo Harris,Central,Texas,Austin,Furniture,Chairs,Leather Executive High-Back Chair,2516.15,-119.65,12,0.5
+CA-2024-10158,2024-01-02,Jack Thomas,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Rubber Bands Size 32,35.21,13.39,3,0.0
+CA-2025-10159,2025-11-24,Leo Harris,South,Florida,Miami,Technology,Accessories,Noise-Cancelling Headphones,4368.62,1604.8,10,0.1
+CA-2024-10159,2024-08-06,Grace Taylor,East,Massachusetts,Boston,Office Supplies,Appliances,Countertop Microwave,135.9,59.64,7,0.0
+CA-2024-10159,2024-06-18,David Chen,East,New York,New York City,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1453.04,-203.71,4,0.0
+CA-2024-10160,2024-10-04,Karen White,South,Georgia,Atlanta,Office Supplies,Binders,Ring Binder 2-Inch,36.84,12.58,4,0.2
+CA-2025-10160,2025-10-11,Bob Johnson,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,2853.87,835.61,8,0.0
+CA-2024-10160,2024-08-28,Henry Wilson,Central,Texas,Houston,Technology,Machines,Laminator Core,173.32,73.61,1,0.0
+CA-2025-10161,2025-09-22,Karen White,West,California,Los Angeles,Furniture,Furnishings,LED Desk Lamp,1061.04,17.33,3,0.15
+CA-2024-10161,2024-12-12,Olivia Lewis,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,7488.14,1487.9,10,0.1
+CA-2025-10161,2025-12-18,Henry Wilson,East,New York,New York City,Furniture,Furnishings,LED Desk Lamp,1805.45,61.97,7,0.3
+CA-2024-10162,2024-11-20,Nathan Clark,Central,Texas,Austin,Technology,Machines,3D Printer Pro,4037.87,1600.65,9,0.1
+CA-2025-10162,2025-05-29,Bob Johnson,East,New York,New York City,Technology,Machines,Heavy-Duty Shredder,215.37,70.73,1,0.2
+CA-2025-10162,2025-06-06,Alice Smith,South,Florida,Miami,Technology,Accessories,Mechanical Keyboard,5574.79,1336.32,8,0.1
+CA-2024-10163,2024-07-27,Ivy Anderson,South,Georgia,Atlanta,Technology,Phones,Samsung Galaxy S23,83.67,32.87,1,0.2
+CA-2024-10163,2024-01-31,Emily Davis,Central,Texas,Austin,Technology,Copiers,Brother Monochrome Copier,7949.85,2621.27,10,0.0
+CA-2025-10163,2025-11-16,Emily Davis,South,North Carolina,Charlotte,Furniture,Bookcases,4-Shelf Wood Bookcase,714.91,-39.15,9,0.5
+CA-2025-10164,2025-11-19,Henry Wilson,South,Georgia,Atlanta,Technology,Accessories,Wireless Mouse,1849.27,823.63,5,0.2
+CA-2025-10164,2025-05-30,Carol Martinez,Central,Texas,Austin,Office Supplies,Art,Sketchbook 100 Pages,64.57,19.79,1,0.0
+CA-2025-10164,2025-05-30,Carol Martinez,Central,Texas,Austin,Office Supplies,Art,Sketchbook 100 Pages,64.57,19.79,1,0.0
+CA-2025-10164,2025-11-25,Leo Harris,South,Florida,Miami,Office Supplies,Paper,Recycled Notepad Pack,35.7,10.75,3,0.0
+CA-2024-10165,2024-05-21,Leo Harris,West,California,San Francisco,Technology,Copiers,Brother Monochrome Copier,3727.88,842.43,7,0.2
+CA-2024-10165,2024-10-17,David Chen,South,North Carolina,Charlotte,Furniture,Tables,Folding Utility Table,1325.39,45.28,4,0.0
+CA-2025-10165,2025-06-06,Grace Taylor,South,North Carolina,Charlotte,Technology,Copiers,HP LaserJet Pro,243.23,104.84,1,0.0
+CA-2024-10166,2024-03-13,Henry Wilson,South,Florida,Miami,Furniture,Furnishings,LED Desk Lamp,642.21,-77.62,6,0.5
+CA-2024-10166,2024-09-15,Alice Smith,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,1676.65,644.33,7,0.1
+CA-2025-10166,2025-07-21,Frank Miller,Central,Texas,Houston,Office Supplies,Fasteners,Rubber Bands Size 32,318.91,151.17,7,0.0
+CA-2025-10167,2025-11-06,Henry Wilson,East,Pennsylvania,Philadelphia,Office Supplies,Art,Watercolor Marker Pack,130.43,39.81,2,0.0
+CA-2024-10167,2024-11-17,David Chen,Central,Texas,Houston,Furniture,Furnishings,LED Desk Lamp,1375.18,-106.18,5,0.3
+CA-2025-10167,2025-10-04,,West,California,San Francisco,Technology,Accessories,Mechanical Keyboard,1374.38,597.78,4,0.1
+CA-2024-10168,2024-03-18,Nathan Clark,West,California,San Francisco,Technology,Phones,OnePlus 11,3946.1,870.53,6,0.2
+CA-2025-10168,2025-07-23,Ivy Anderson,Central,Texas,Austin,Office Supplies,Paper,Recycled Notepad Pack,303.49,99.43,4,0.0
+CA-2024-10168,2024-06-12,Carol Martinez,East,Pennsylvania,Philadelphia,Furniture,Chairs,Stool Adjustable Height,1315.73,-106.77,5,0.0
+CA-2025-10169,2025-02-04,Bob Johnson,West,California,San Francisco,Technology,Machines,3D Printer Pro,10011.57,1699.29,11,0.0
+CA-2025-10169,2025-04-06,Mia Martin,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,161.26,0.13,1,0.3
+CA-2025-10169,2025-07-08,Emily Davis,West,Washington,Seattle,Office Supplies,Paper,Recycled Notepad Pack,647.14,251.47,12,0.0
+CA-2025-10170,2025-07-12,Emily Davis,East,Massachusetts,Boston,Office Supplies,Appliances,Compact Refrigerator,25.58,10.41,2,0.0
+CA-2025-10170,2025-09-17,Bob Johnson,West,California,Los Angeles,Office Supplies,Paper,Recycled Notepad Pack,675.28,384.19,12,0.0
+CA-2025-10170,2025-11-25,Leo Harris,Central,Illinois,Chicago,Office Supplies,Paper,Premium Copy Paper A4,129.69,40.43,2,0.0
+CA-2025-10171,2025-08-18,Frank Miller,West,Washington,Seattle,Office Supplies,Fasteners,Paperclips Box of 500,237.23,121.54,8,0.0
+CA-2024-10171,2024-11-19,Jack Thomas,Central,Texas,Austin,Furniture,Tables,Conference Room Table,1965.51,75.2,12,0.3
+CA-2025-10171,2025-03-26,Bob Johnson,Central,Illinois,Chicago,Furniture,Bookcases,Metal Storage Bookshelf,1012.63,-110.49,12,0.3
+CA-2024-10172,2024-07-08,Bob Johnson,Central,Illinois,Chicago,Office Supplies,Paper,Photo Paper Glossy,32.97,15.09,6,0.0
+CA-2025-10172,2025-01-19,Mia Martin,East,Pennsylvania,Philadelphia,Technology,Phones,Samsung Galaxy S23,5009.98,1169.3,6,0.0
+CA-2025-10172,2025-01-13,Carol Martinez,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,335.39,-28.49,1,0.15
+CA-2024-10173,2024-06-27,Mia Martin,Central,Texas,Houston,Furniture,Tables,Conference Room Table,238.94,-11.01,1,0.15
+CA-2024-10173,2024-09-07,Leo Harris,South,Georgia,Atlanta,Technology,Phones,Samsung Galaxy S23,8194.61,2849.11,11,0.0
+CA-2025-10173,2025-12-08,Bob Johnson,Central,Illinois,Chicago,Technology,Copiers,Brother Monochrome Copier,3888.18,785.24,7,0.0
+CA-2025-10174,2025-02-21,Bob Johnson,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,875.19,469.44,11,0.0
+CA-2024-10174,2024-06-26,Henry Wilson,South,Florida,Miami,Office Supplies,Binders,Heavy-Duty Presentation Folder,187.16,91.87,4,0.0
+CA-2024-10174,2024-03-14,Leo Harris,East,New York,New York City,Office Supplies,Paper,Premium Copy Paper A4,374.48,179.52,7,0.2
+CA-2025-10175,2025-04-12,Alice Smith,Central,Illinois,Chicago,Furniture,Tables,Conference Room Table,1557.7,25.19,7,0.3
+CA-2024-10175,2024-07-12,Frank Miller,Central,Texas,Austin,Office Supplies,Art,Acrylic Paint Set,420.13,180.94,9,0.0
+CA-2025-10175,2025-03-10,Carol Martinez,South,North Carolina,Charlotte,Technology,Phones,Google Pixel 7,5788.99,1009.95,8,0.1
+CA-2024-10176,2024-08-02,Ivy Anderson,Central,Texas,Austin,Technology,Accessories,Mechanical Keyboard,881.74,287.35,2,0.2
+CA-2024-10176,2024-05-26,Alice Smith,West,California,San Francisco,Technology,Copiers,HP LaserJet Pro,2767.83,417.5,4,0.0
+CA-2024-10176,2024-04-06,Alice Smith,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,2169.52,931.4,3,0.1
+CA-2025-10177,2025-02-03,Jack Thomas,East,Massachusetts,Boston,Furniture,Bookcases,4-Shelf Wood Bookcase,449.05,-52.74,5,0.3
+CA-2025-10177,2025-06-10,Leo Harris,West,Washington,Seattle,Office Supplies,Paper,Premium Copy Paper A4,294.7,126.32,11,0.0
+CA-2024-10177,2024-10-31,David Chen,Central,Texas,Houston,Furniture,Tables,Conference Room Table,257.79,-10.51,2,0.5
+CA-2025-10178,2025-03-10,Jack Thomas,West,Washington,Seattle,Furniture,Chairs,Ergonomic Mesh Office Chair,830.15,37.35,6,0.5
+CA-2025-10178,2025-04-17,Jack Thomas,Central,Texas,Houston,Office Supplies,Art,Acrylic Paint Set,72.14,27.47,1,0.0
+CA-2025-10178,2025-12-06,Karen White,West,Washington,Seattle,Furniture,Tables,Conference Room Table,1236.01,-71.41,4,0.0
+CA-2024-10179,2024-12-30,Grace Taylor,Central,Illinois,Chicago,Furniture,Chairs,Ergonomic Mesh Office Chair,547.03,-45.87,2,0.15
+CA-2025-10179,2025-03-03,Leo Harris,East,Massachusetts,Boston,Technology,Phones,Google Pixel 7,2193.8,931.46,6,0.0
+CA-2024-10179,2024-07-30,Ivy Anderson,West,California,Los Angeles,Technology,Machines,Laminator Core,589.33,203.18,6,0.0
+CA-2025-10180,2025-09-28,Karen White,South,Florida,Miami,Technology,Copiers,Brother Monochrome Copier,618.28,229.95,9,0.2
+CA-2024-10180,2024-08-18,Jack Thomas,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,1002.35,-3.33,10,0.5
+CA-2025-10180,2025-07-09,Jack Thomas,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Photo Paper Glossy,461.66,146.96,9,0.0
+CA-2024-10181,2024-07-22,Olivia Lewis,South,Georgia,Atlanta,Office Supplies,Binders,Ring Binder 2-Inch,385.9,199.35,10,0.2
+CA-2024-10181,2024-12-11,Henry Wilson,West,California,San Francisco,Technology,Copiers,Brother Monochrome Copier,1285.41,441.46,6,0.0
+CA-2024-10181,2024-06-04,Alice Smith,West,Washington,Seattle,Technology,Accessories,Noise-Cancelling Headphones,2720.13,989.86,9,0.0
+CA-2024-10182,2024-04-08,Carol Martinez,West,Washington,Seattle,Technology,Accessories,Wireless Mouse,4224.59,1048.35,7,0.1
+CA-2024-10182,2024-07-03,Frank Miller,East,Massachusetts,Boston,Technology,Accessories,Noise-Cancelling Headphones,2191.77,499.41,5,0.2
+CA-2024-10182,2024-09-13,Ivy Anderson,East,Massachusetts,Boston,Office Supplies,Fasteners,Rubber Bands Size 32,127.07,50.35,7,0.2
+CA-2024-10183,2024-10-15,Olivia Lewis,South,Georgia,Atlanta,Technology,Accessories,Noise-Cancelling Headphones,1515.37,635.19,2,0.0
+CA-2024-10183,2024-09-27,Jack Thomas,South,Georgia,Atlanta,Technology,Accessories,Noise-Cancelling Headphones,803.08,353.77,4,0.1
+CA-2024-10183,2024-06-03,Ivy Anderson,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,7559.35,2458.54,8,0.0
+CA-2024-10184,2024-04-23,Jack Thomas,South,North Carolina,Charlotte,Technology,Accessories,Mechanical Keyboard,2806.3,957.05,4,0.2
+CA-2025-10184,2025-06-25,Leo Harris,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,1101.66,-133.49,8,0.3
+CA-2024-10184,2024-08-17,Olivia Lewis,East,Pennsylvania,Philadelphia,Technology,Machines,Heavy-Duty Shredder,3034.94,1217.16,12,0.0
+CA-2024-10185,2024-04-30,Alice Smith,East,New York,New York City,Technology,Phones,OnePlus 11,1323.9,357.91,6,0.0
+CA-2024-10185,2024-03-24,Frank Miller,Central,Texas,Houston,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1283.77,-30.89,5,0.15
+CA-2025-10185,2025-08-14,Bob Johnson,West,Washington,Seattle,Office Supplies,Art,Sketchbook 100 Pages,484.05,178.78,11,0.0
+CA-2024-10186,2024-10-18,Henry Wilson,East,Massachusetts,Boston,Technology,Accessories,Mechanical Keyboard,732.85,208.91,1,0.1
+CA-2024-10186,2024-10-05,Leo Harris,Central,Illinois,Chicago,Technology,Accessories,Noise-Cancelling Headphones,1048.93,451.89,4,0.2
+CA-2025-10186,2025-07-01,Emily Davis,East,New York,New York City,Technology,Phones,iPhone 14,3225.02,646.44,4,0.0
+CA-2025-10187,2025-08-11,Henry Wilson,Central,Texas,Austin,Furniture,Chairs,Stool Adjustable Height,337.28,8.7,2,0.15
+CA-2024-10187,2024-12-16,Nathan Clark,East,Pennsylvania,Philadelphia,Furniture,Chairs,Stool Adjustable Height,1831.59,88.31,10,0.5
+CA-2025-10187,2025-07-07,Alice Smith,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,1527.97,28.99,11,0.15
+CA-2024-10188,2024-08-12,Jack Thomas,South,Georgia,Atlanta,Furniture,Tables,Folding Utility Table,1732.31,-89.29,8,0.15
+CA-2025-10188,2025-11-08,David Chen,West,California,San Francisco,Technology,Accessories,USB-C Hub,1852.28,515.01,7,0.1
+CA-2025-10188,2025-08-08,Grace Taylor,South,North Carolina,Charlotte,Office Supplies,Binders,Ring Binder 2-Inch,91.71,32.26,10,0.0
+CA-2024-10189,2024-11-11,Nathan Clark,West,California,Los Angeles,Furniture,Bookcases,Corner Display Cabinet,1418.31,17.51,8,0.5
+CA-2025-10189,2025-11-06,David Chen,Central,Texas,Austin,Office Supplies,Fasteners,Paperclips Box of 500,164.73,71.81,10,0.0
+CA-2024-10189,2024-06-03,Carol Martinez,East,Pennsylvania,Philadelphia,Office Supplies,Art,Acrylic Paint Set,525.72,307.6,7,0.0
+CA-2024-10190,2024-10-24,Leo Harris,Central,Illinois,Chicago,Technology,Copiers,Brother Monochrome Copier,6539.54,2105.74,9,0.0
+CA-2024-10190,2024-01-15,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Paperclips Box of 500,104.86,44.4,5,0.0
+CA-2024-10190,2024-02-23,Ivy Anderson,South,Florida,Miami,Technology,Phones,iPhone 14,2854.2,457.04,7,0.1
+CA-2025-10191,2025-09-11,David Chen,Central,Illinois,Chicago,Furniture,Chairs,Leather Executive High-Back Chair,2123.75,23.02,10,0.0
+CA-2024-10191,2024-09-18,Bob Johnson,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,678.59,7.48,3,0.15
+CA-2024-10191,2024-02-22,Carol Martinez,South,Georgia,Atlanta,Furniture,Bookcases,Metal Storage Bookshelf,729.98,34.01,7,0.3
+CA-2025-10192,2025-07-26,Jack Thomas,South,Florida,Miami,Office Supplies,Binders,Heavy-Duty Presentation Folder,138.86,74.62,2,0.0
+CA-2024-10192,2024-09-10,Frank Miller,East,New York,New York City,Technology,Machines,Laminator Core,3743.64,697.74,11,0.0
+CA-2025-10192,2025-04-20,Bob Johnson,Central,Texas,Houston,Furniture,Bookcases,Corner Display Cabinet,2080.2,-118.54,12,0.3
+CA-2024-10193,2024-04-20,Grace Taylor,East,New York,New York City,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,647.66,-55.47,4,0.5
+CA-2025-10193,2025-01-03,Jack Thomas,West,Washington,Seattle,Furniture,Chairs,Ergonomic Mesh Office Chair,1044.96,-98.86,5,0.15
+CA-2024-10193,2024-12-05,Frank Miller,East,Massachusetts,Boston,Office Supplies,Fasteners,Push Pins Assorted Colors,441.56,146.13,11,0.0
+CA-2025-10194,2025-01-28,Carol Martinez,South,Georgia,Atlanta,Technology,Copiers,Brother Monochrome Copier,1818.73,353.54,8,0.1
+CA-2025-10194,2025-03-25,Karen White,South,Georgia,Atlanta,Furniture,Furnishings,Desk Organizer Organizer Tray,1210.5,7.2,11,0.5
+CA-2025-10194,2025-01-25,Grace Taylor,Central,Texas,Houston,Office Supplies,Paper,Photo Paper Glossy,41.1,19.21,1,0.2
+CA-2025-10195,2025-07-29,Karen White,Central,Illinois,Chicago,Technology,Accessories,USB-C Hub,6576.39,1391.33,9,0.2
+CA-2024-10195,2024-05-22,Emily Davis,West,Washington,Seattle,Technology,Accessories,Wireless Mouse,3540.15,687.72,7,0.0
+CA-2024-10195,2024-06-21,Bob Johnson,West,California,San Francisco,Technology,Copiers,Brother Monochrome Copier,5298.19,1053.87,7,0.1
+CA-2024-10196,2024-08-27,David Chen,Central,Illinois,Chicago,Technology,Phones,OnePlus 11,7125.1,3141.57,8,0.0
+CA-2024-10196,2024-06-04,Olivia Lewis,South,Florida,Miami,Technology,Phones,OnePlus 11,4062.97,1091.73,10,0.2
+CA-2024-10196,2024-05-21,Leo Harris,West,California,San Francisco,Office Supplies,Fasteners,Paperclips Box of 500,29.51,13.04,2,0.0
+CA-2024-10197,2024-01-20,Henry Wilson,South,Florida,Miami,Furniture,Chairs,Stool Adjustable Height,1099.22,-28.57,4,0.15
+CA-2024-10197,2024-02-09,Karen White,East,Massachusetts,Boston,Office Supplies,Art,Sketchbook 100 Pages,427.47,249.35,7,0.2
+CA-2025-10197,2025-11-08,Olivia Lewis,South,Florida,Miami,Technology,Machines,3D Printer Pro,4351.51,734.49,7,0.2
+CA-2025-10198,2025-07-12,Mia Martin,Central,Illinois,Chicago,Technology,Phones,Samsung Galaxy S23,1673.55,338.38,2,0.1
+CA-2025-10198,2025-03-17,Leo Harris,West,Washington,Seattle,Technology,Phones,Google Pixel 7,550.83,210.03,6,0.2
+CA-2024-10198,2024-09-22,Ivy Anderson,Central,Texas,Houston,Office Supplies,Art,Sketchbook 100 Pages,203.44,108.95,8,0.0
+CA-2025-10199,2025-10-16,Nathan Clark,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,1163.41,452.32,3,0.2
+CA-2025-10199,2025-10-16,Nathan Clark,East,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,1163.41,452.32,3,0.2
+CA-2024-10199,2024-08-03,Karen White,Central,Illinois,Chicago,Furniture,Tables,Conference Room Table,2714.61,-364.35,10,0.3
+CA-2024-10199,2024-09-16,David Chen,West,California,San Francisco,Office Supplies,Fasteners,Push Pins Assorted Colors,63.07,20.53,2,0.0
+CA-2024-10200,2024-09-04,Mia Martin,East,Pennsylvania,Philadelphia,Technology,Phones,Samsung Galaxy S23,1663.48,494.92,7,0.2
+CA-2025-10200,2025-05-04,Carol Martinez,East,Pennsylvania,Philadelphia,Technology,Accessories,Wireless Mouse,2858.22,1095.77,5,0.0
+CA-2025-10200,2025-09-06,Alice Smith,West,Washington,Seattle,Office Supplies,Binders,Heavy-Duty Presentation Folder,275.47,102.51,4,0.0
+CA-2024-10201,2024-01-29,David Chen,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,1392.83,365.6,5,0.0
+CA-2024-10201,2024-12-08,Frank Miller,East,New York,New York City,Technology,Machines,Heavy-Duty Shredder,504.13,160.74,1,0.0
+CA-2024-10201,2024-04-19,Bob Johnson,South,Florida,Miami,Technology,Copiers,HP LaserJet Pro,250.48,82.83,1,0.0
+CA-2024-10202,2024-02-01,Nathan Clark,East,New York,New York City,Furniture,Chairs,Ergonomic Mesh Office Chair,2042.33,44.64,12,0.5
+CA-2024-10202,2024-11-14,Ivy Anderson,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,3683.96,1537.7,7,0.1
+CA-2025-10202,2025-09-07,Jack Thomas,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,2851.55,1274.3,10,0.0
+CA-2024-10203,2024-04-22,Emily Davis,East,New York,New York City,Technology,Phones,Samsung Galaxy S23,658.72,286.39,3,0.2
+CA-2024-10203,2024-02-27,Grace Taylor,East,New York,New York City,Office Supplies,Binders,Zipper Binder Pouch,330.52,165.26,6,0.2
+CA-2025-10203,2025-08-27,David Chen,Central,Illinois,Chicago,Technology,Machines,Laminator Core,1629.72,285.5,4,0.0
+CA-2024-10204,2024-12-17,Alice Smith,South,Florida,Miami,Technology,Phones,Samsung Galaxy S23,4154.29,1147.09,12,0.0
+CA-2024-10204,2024-01-09,Nathan Clark,West,California,Los Angeles,Furniture,Furnishings,Desk Organizer Organizer Tray,360.08,-27.41,1,0.0
+CA-2025-10204,2025-07-11,Nathan Clark,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,181.74,-20.58,1,0.3
+CA-2025-10205,2025-05-08,Emily Davis,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Ring Binder 2-Inch,284.62,128.84,12,0.2
+CA-2024-10205,2024-07-30,Karen White,East,New York,New York City,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,2226.63,-168.98,10,0.3
+CA-2024-10205,2024-07-24,Frank Miller,West,California,San Francisco,Office Supplies,Paper,Premium Copy Paper A4,130.92,69.05,2,0.0
+CA-2025-10206,2025-05-04,Jack Thomas,Central,Texas,Houston,Furniture,Chairs,Leather Executive High-Back Chair,430.45,-13.88,1,0.0
+CA-2024-10206,2024-06-07,Karen White,Central,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,8088.59,1280.37,10,0.0
+CA-2024-10206,2024-02-14,Alice Smith,West,California,Los Angeles,Technology,Machines,3D Printer Pro,122.05,53.75,1,0.0
+CA-2024-10207,2024-01-18,Olivia Lewis,Central,Texas,Austin,Office Supplies,Art,Sketchbook 100 Pages,267.05,91.96,10,0.2
+CA-2024-10207,2024-11-29,Frank Miller,Central,Illinois,Chicago,Office Supplies,Art,Acrylic Paint Set,200.01,62.65,3,0.0
+CA-2024-10207,2024-09-08,Alice Smith,West,California,Los Angeles,Furniture,Chairs,Leather Executive High-Back Chair,3934.14,-373.36,9,0.0
+CA-2024-10208,2024-03-22,David Chen,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,263.16,10.88,1,0.3
+CA-2025-10208,2025-07-01,Bob Johnson,East,New York,New York City,Technology,Machines,3D Printer Pro,3793.05,978.38,7,0.1
+CA-2024-10208,2024-10-23,Nathan Clark,South,Florida,Miami,Technology,Accessories,Noise-Cancelling Headphones,5227.52,1116.91,7,0.0
+CA-2024-10209,2024-03-09,Alice Smith,South,Georgia,Atlanta,Office Supplies,Binders,Heavy-Duty Presentation Folder,16.72,9.4,1,0.2
+CA-2024-10209,2024-06-08,David Chen,West,California,San Francisco,Office Supplies,Appliances,Countertop Microwave,386.85,200.1,6,0.0
+CA-2024-10209,2024-05-28,Frank Miller,West,Washington,Seattle,Office Supplies,Binders,Ring Binder 2-Inch,422.17,251.59,7,0.0
+CA-2024-10210,2024-12-19,David Chen,South,Georgia,Atlanta,Office Supplies,Art,Acrylic Paint Set,73.02,23.16,2,0.0
+CA-2024-10210,2024-09-29,Nathan Clark,South,North Carolina,Charlotte,Furniture,Chairs,Ergonomic Mesh Office Chair,1271.95,-44.35,12,0.3
+CA-2025-10210,2025-04-24,Bob Johnson,West,Washington,Seattle,Office Supplies,Appliances,Countertop Microwave,500.38,152.04,9,0.2
+CA-2024-10211,2024-09-08,Jack Thomas,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,984.01,2.88,7,0.5
+CA-2024-10211,2024-03-09,Nathan Clark,West,Washington,Seattle,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1576.64,-226.88,12,0.3
+CA-2024-10211,2024-12-02,Karen White,West,Washington,Seattle,Furniture,Chairs,Leather Executive High-Back Chair,603.97,5.22,7,0.5
+CA-2025-10212,2025-06-08,Mia Martin,West,Washington,Seattle,Office Supplies,Fasteners,Push Pins Assorted Colors,165.3,86.3,3,0.0
+CA-2024-10212,2024-04-12,Jack Thomas,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,815.8,40.32,5,0.0
+CA-2025-10212,2025-06-28,Frank Miller,West,Washington,Seattle,Technology,Copiers,Canon ImageRUNNER,1933.37,624.91,12,0.1
+CA-2025-10213,2025-08-05,Henry Wilson,South,Georgia,Atlanta,Furniture,Chairs,Stool Adjustable Height,660.08,31.22,3,0.3
+CA-2024-10213,2024-11-27,Bob Johnson,South,Georgia,Atlanta,Furniture,Bookcases,4-Shelf Wood Bookcase,511.85,-0.29,2,0.15
+CA-2024-10213,2024-01-28,David Chen,West,Washington,Seattle,Furniture,Chairs,Leather Executive High-Back Chair,2431.38,-175.85,9,0.3
+CA-2024-10214,2024-02-10,Olivia Lewis,South,Georgia,Atlanta,Technology,Machines,3D Printer Pro,528.39,80.15,1,0.0
+CA-2024-10214,2024-01-01,Karen White,East,New York,New York City,Technology,Copiers,Canon ImageRUNNER,3518.62,1350.61,5,0.0
+CA-2025-10214,2025-01-30,Emily Davis,Central,Illinois,Chicago,Technology,Machines,Laminator Core,6064.72,1289.25,9,0.2
+CA-2024-10215,2024-09-06,Carol Martinez,Central,Illinois,Chicago,Furniture,Furnishings,Desk Organizer Organizer Tray,1533.62,36.41,6,0.0
+CA-2024-10215,2024-09-14,Emily Davis,East,Pennsylvania,Philadelphia,Technology,Machines,Heavy-Duty Shredder,1449.61,650.41,9,0.2
+CA-2024-10215,2024-05-24,Karen White,East,Pennsylvania,Philadelphia,Technology,Machines,3D Printer Pro,8317.37,2253.7,11,0.0
+CA-2025-10216,2025-10-29,Ivy Anderson,Central,Texas,Houston,Furniture,Bookcases,Corner Display Cabinet,1571.08,-31.13,6,0.15
+CA-2025-10216,2025-11-14,Jack Thomas,Central,Texas,Austin,Furniture,Furnishings,Desk Organizer Organizer Tray,2183.82,84.89,12,0.15
+CA-2025-10216,2025-09-10,Nathan Clark,Central,Illinois,Chicago,Furniture,Chairs,Stool Adjustable Height,1473.41,-164.06,4,0.0
+CA-2025-10217,2025-10-19,Leo Harris,East,New York,New York City,Furniture,Bookcases,Metal Storage Bookshelf,2026.75,-16.7,12,0.3
+CA-2024-10217,2024-02-12,Jack Thomas,East,New York,New York City,Technology,Accessories,Noise-Cancelling Headphones,10083.45,3924.38,11,0.0
+CA-2024-10217,2024-11-13,Mia Martin,West,Washington,Seattle,Furniture,Chairs,Ergonomic Mesh Office Chair,879.83,-20.12,3,0.0
+CA-2025-10218,2025-10-27,Carol Martinez,East,Pennsylvania,Philadelphia,Furniture,Chairs,Ergonomic Mesh Office Chair,225.74,-28.38,1,0.15
+CA-2025-10218,2025-09-20,Carol Martinez,South,Florida,Miami,Technology,Accessories,USB-C Hub,928.77,236.89,3,0.1
+CA-2024-10218,2024-08-13,Olivia Lewis,South,Georgia,Atlanta,Office Supplies,Art,Sketchbook 100 Pages,172.14,73.72,5,0.0
+CA-2025-10219,2025-04-30,Mia Martin,East,Massachusetts,Boston,Office Supplies,Paper,Recycled Notepad Pack,85.37,33.15,3,0.0
+CA-2024-10219,2024-07-27,Olivia Lewis,East,New York,New York City,Furniture,Furnishings,LED Desk Lamp,2914.96,-1.82,9,0.15
+CA-2024-10219,2024-07-07,Olivia Lewis,Central,Illinois,Chicago,Technology,Phones,Samsung Galaxy S23,5065.69,1286.47,10,0.0
+CA-2025-10220,2025-02-22,Nathan Clark,South,Florida,Miami,Furniture,Chairs,Ergonomic Mesh Office Chair,1601.28,-32.86,8,0.0
+CA-2025-10220,2025-12-10,Alice Smith,East,Massachusetts,Boston,Furniture,Chairs,Leather Executive High-Back Chair,2885.62,-12.05,8,0.15
+CA-2025-10220,2025-12-10,Alice Smith,East,Massachusetts,Boston,Furniture,Chairs,Leather Executive High-Back Chair,2885.62,-12.05,8,0.15
+CA-2025-10220,2025-04-02,Alice Smith,East,New York,New York City,Technology,Phones,Google Pixel 7,4518.06,1246.77,11,0.2
+CA-2025-10221,2025-04-06,Frank Miller,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,411.48,-22.74,1,0.0
+CA-2025-10221,2025-04-15,Alice Smith,South,North Carolina,Charlotte,Furniture,Bookcases,Metal Storage Bookshelf,137.25,-9.48,1,0.5
+CA-2025-10221,2025-04-11,Frank Miller,Central,Illinois,Chicago,Technology,Phones,Google Pixel 7,4758.23,1046.66,12,0.0
+CA-2025-10222,2025-09-17,Olivia Lewis,Central,Texas,Houston,Technology,Copiers,Brother Monochrome Copier,2314.28,872.6,12,0.1
+CA-2025-10222,2025-05-08,Leo Harris,Central,Texas,Austin,Office Supplies,Art,Sketchbook 100 Pages,85.73,39.4,2,0.2
+CA-2025-10222,2025-04-05,Karen White,Central,Texas,Austin,Technology,Machines,3D Printer Pro,2546.1,705.96,5,0.1
+CA-2024-10223,2024-08-19,David Chen,Central,Illinois,Chicago,Office Supplies,Appliances,Air Purifier,21.47,8.97,1,0.0
+CA-2024-10223,2024-08-16,Henry Wilson,East,Massachusetts,Boston,Office Supplies,Binders,Heavy-Duty Presentation Folder,25.2,9.57,1,0.0
+CA-2024-10223,2024-09-17,David Chen,Central,Texas,Houston,Furniture,Tables,Standing Desk Birch Wood,1120.03,-8.96,5,0.5
+CA-2025-10224,2025-02-03,Carol Martinez,East,New York,New York City,Technology,Phones,OnePlus 11,70.95,17.71,1,0.2
+CA-2025-10224,2025-05-29,Mia Martin,West,Washington,Seattle,Technology,Accessories,Wireless Mouse,3153.66,1283.42,5,0.2
+CA-2025-10224,2025-10-21,Leo Harris,Central,Texas,Austin,Office Supplies,Fasteners,Rubber Bands Size 32,544.73,223.06,10,0.2
+CA-2025-10225,2025-05-01,Frank Miller,West,California,Los Angeles,Furniture,Furnishings,LED Desk Lamp,1089.82,-87.3,10,0.15
+CA-2024-10225,2024-01-31,Karen White,East,Pennsylvania,Philadelphia,Technology,Accessories,Wireless Mouse,1565.78,553.03,8,0.0
+CA-2025-10225,2025-05-25,Karen White,Central,Texas,Houston,Furniture,Tables,Conference Room Table,481.0,-30.38,5,0.3
+CA-2024-10226,2024-08-18,Frank Miller,South,Florida,Miami,Furniture,Tables,Folding Utility Table,714.11,-11.74,5,0.5
+CA-2024-10226,2024-08-01,Jack Thomas,South,North Carolina,Charlotte,Technology,Accessories,Noise-Cancelling Headphones,3823.18,962.27,11,0.2
+CA-2025-10226,2025-09-24,Alice Smith,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,684.62,-66.57,11,0.5
+CA-2025-10227,2025-02-11,David Chen,East,Massachusetts,Boston,Technology,Phones,OnePlus 11,8128.84,1511.03,9,0.0
+CA-2024-10227,2024-04-03,Leo Harris,West,Washington,Seattle,Furniture,Tables,Conference Room Table,1294.67,34.28,12,0.5
+CA-2024-10227,2024-09-25,Mia Martin,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,7227.05,2880.04,11,0.2
+CA-2024-10228,2024-06-23,Olivia Lewis,West,California,Los Angeles,Furniture,Bookcases,4-Shelf Wood Bookcase,3263.15,-316.53,8,0.0
+CA-2025-10228,2025-05-09,Mia Martin,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,486.45,279.89,12,0.2
+CA-2025-10228,2025-03-16,Emily Davis,East,New York,New York City,Technology,Phones,OnePlus 11,3515.24,1518.17,11,0.2
+CA-2025-10229,2025-04-25,Grace Taylor,West,California,Los Angeles,Technology,Phones,OnePlus 11,971.56,164.07,2,0.2
+CA-2024-10229,2024-05-18,Leo Harris,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,1265.24,-84.64,4,0.15
+CA-2025-10229,2025-09-15,Karen White,Central,Texas,Austin,Office Supplies,Fasteners,Push Pins Assorted Colors,140.01,67.23,10,0.0
+CA-2024-10230,2024-11-23,Nathan Clark,West,California,San Francisco,Technology,Accessories,Noise-Cancelling Headphones,2416.4,570.55,7,0.2
+CA-2025-10230,2025-06-18,Olivia Lewis,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,323.48,10.95,2,0.0
+CA-2025-10230,2025-02-14,Henry Wilson,West,Washington,Seattle,Furniture,Chairs,Leather Executive High-Back Chair,1117.04,-33.04,12,0.5
+CA-2024-10231,2024-11-23,Bob Johnson,West,Washington,Seattle,Office Supplies,Binders,Ring Binder 2-Inch,470.38,143.83,9,0.2
+CA-2025-10231,2025-09-28,Nathan Clark,South,North Carolina,Charlotte,Office Supplies,Appliances,Compact Refrigerator,384.64,219.49,6,0.0
+CA-2025-10231,2025-09-28,Nathan Clark,South,North Carolina,Charlotte,Office Supplies,Appliances,Compact Refrigerator,384.64,219.49,6,0.0
+CA-2024-10231,2024-02-20,Mia Martin,East,Massachusetts,Boston,Furniture,Tables,Conference Room Table,334.93,-32.74,3,0.5
+CA-2024-10232,2024-06-03,Mia Martin,East,New York,New York City,Office Supplies,Paper,Photo Paper Glossy,456.11,212.96,11,0.0
+CA-2024-10232,2024-04-01,Grace Taylor,West,California,Los Angeles,Technology,Accessories,Wireless Mouse,7732.51,1797.26,11,0.0
+CA-2024-10232,2024-08-23,Leo Harris,East,New York,New York City,Furniture,Chairs,Leather Executive High-Back Chair,2448.47,-296.33,12,0.15
+CA-2024-10233,2024-12-23,Emily Davis,Central,Illinois,Chicago,Furniture,Furnishings,LED Desk Lamp,1367.0,48.55,8,0.3
+CA-2025-10233,2025-06-15,Mia Martin,West,California,San Francisco,Office Supplies,Binders,Ring Binder 2-Inch,36.01,21.28,1,0.0
+CA-2024-10233,2024-05-11,Bob Johnson,East,New York,New York City,Technology,Accessories,Mechanical Keyboard,5401.83,1101.75,9,0.2
+CA-2025-10234,2025-03-09,Frank Miller,West,Washington,Seattle,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1573.76,-69.94,7,0.15
+CA-2025-10234,2025-05-18,Karen White,East,New York,New York City,Technology,Machines,Laminator Core,5225.21,1394.17,9,0.0
+CA-2025-10234,2025-01-09,Jack Thomas,East,Massachusetts,Boston,Technology,Copiers,HP LaserJet Pro,3773.0,1526.55,4,0.0
+CA-2024-10235,2024-11-02,Mia Martin,Central,Texas,Austin,Office Supplies,Binders,Ring Binder 2-Inch,885.18,465.56,12,0.0
+CA-2024-10235,2024-07-02,David Chen,East,New York,New York City,Furniture,Chairs,Stool Adjustable Height,1057.09,-38.42,6,0.15
+CA-2025-10235,2025-02-05,Bob Johnson,Central,Texas,Houston,Office Supplies,Paper,Premium Copy Paper A4,47.29,18.16,3,0.0
+CA-2024-10236,2024-12-28,Olivia Lewis,Central,Illinois,Chicago,Office Supplies,Binders,Zipper Binder Pouch,126.91,66.64,5,0.0
+CA-2025-10236,2025-07-30,Karen White,South,North Carolina,Charlotte,Furniture,Tables,Conference Room Table,1857.92,-19.45,9,0.0
+CA-2025-10236,2025-07-30,Karen White,South,North Carolina,Charlotte,Furniture,Tables,Conference Room Table,1857.92,-19.45,9,0.0
+CA-2024-10236,2024-12-31,Frank Miller,West,California,Los Angeles,Furniture,Tables,Conference Room Table,686.43,29.43,5,0.5
+CA-2025-10237,2025-06-07,Jack Thomas,East,New York,New York City,Furniture,Bookcases,4-Shelf Wood Bookcase,954.18,-27.23,7,0.3
+CA-2025-10237,2025-02-16,Karen White,West,California,San Francisco,Technology,Phones,Google Pixel 7,328.37,119.21,2,0.2
+CA-2024-10237,2024-02-17,Frank Miller,South,North Carolina,Charlotte,Technology,Machines,3D Printer Pro,2298.2,792.33,6,0.1
+CA-2024-10238,2024-09-26,Henry Wilson,West,Washington,Seattle,Office Supplies,Art,Watercolor Marker Pack,144.97,58.07,4,0.0
+CA-2025-10238,2025-03-10,Karen White,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,8543.76,2211.46,12,0.0
+CA-2024-10238,2024-01-04,Nathan Clark,South,North Carolina,Charlotte,Office Supplies,Binders,Ring Binder 2-Inch,322.9,128.95,8,0.0
+CA-2025-10239,2025-08-25,Leo Harris,Central,Texas,Houston,Office Supplies,Binders,Ring Binder 2-Inch,295.2,120.62,10,0.2
+CA-2024-10239,2024-03-18,Grace Taylor,East,Massachusetts,Boston,Office Supplies,Paper,Premium Copy Paper A4,9.62,3.88,1,0.0
+CA-2025-10239,2025-10-01,Henry Wilson,East,New York,New York City,Technology,Machines,Laminator Core,4952.54,1246.97,9,0.1
+CA-2025-10240,2025-02-02,Ivy Anderson,South,North Carolina,Charlotte,Furniture,Tables,Conference Room Table,426.34,-43.67,7,0.5
+CA-2024-10240,2024-12-23,Henry Wilson,West,California,San Francisco,Office Supplies,Art,Sketchbook 100 Pages,191.41,113.94,8,0.0
+CA-2025-10240,2025-08-25,Karen White,Central,Texas,Houston,Office Supplies,Appliances,Compact Refrigerator,46.84,25.8,3,0.0
+CA-2024-10241,2024-11-06,Olivia Lewis,Central,Illinois,Chicago,Office Supplies,Binders,Ring Binder 2-Inch,76.1,34.98,3,0.2
+CA-2024-10241,2024-04-14,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Push Pins Assorted Colors,201.64,96.89,4,0.2
+CA-2024-10241,2024-11-22,Jack Thomas,Central,Texas,Houston,Technology,Phones,Samsung Galaxy S23,4446.37,1157.43,10,0.1
+CA-2025-10242,2025-02-10,Emily Davis,South,Georgia,Atlanta,Furniture,Chairs,Ergonomic Mesh Office Chair,3531.3,-21.9,9,0.0
+CA-2025-10242,2025-11-25,Carol Martinez,East,New York,New York City,Technology,Accessories,USB-C Hub,8360.75,2399.34,12,0.1
+CA-2025-10242,2025-10-04,Henry Wilson,West,California,Los Angeles,Furniture,Furnishings,Desk Organizer Organizer Tray,1230.45,-37.99,3,0.0
+CA-2024-10243,2024-10-15,Karen White,Central,Texas,Austin,Technology,Phones,Google Pixel 7,3931.71,1066.04,10,0.0
+CA-2025-10243,2025-10-20,Mia Martin,South,North Carolina,Charlotte,Furniture,Tables,Folding Utility Table,753.45,-70.51,2,0.0
+CA-2024-10243,2024-12-22,Nathan Clark,South,North Carolina,Charlotte,Technology,Phones,Samsung Galaxy S23,786.62,179.55,7,0.0
+CA-2025-10244,2025-05-25,Emily Davis,West,Washington,Seattle,Furniture,Tables,Folding Utility Table,2794.33,-137.16,11,0.3
+CA-2024-10244,2024-02-17,Carol Martinez,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,2524.03,-110.06,9,0.15
+CA-2025-10244,2025-10-07,Frank Miller,South,Florida,Miami,Technology,Copiers,Brother Monochrome Copier,1053.7,463.59,6,0.2
+CA-2025-10245,2025-02-28,Leo Harris,East,Massachusetts,Boston,Technology,Copiers,Canon ImageRUNNER,5401.85,2355.2,7,0.0
+CA-2024-10245,2024-01-09,Carol Martinez,West,California,Los Angeles,Technology,Machines,Laminator Core,2014.62,573.32,10,0.2
+CA-2024-10245,2024-01-09,Carol Martinez,West,California,Los Angeles,Technology,Machines,Laminator Core,2014.62,573.32,10,0.2
+CA-2025-10245,2025-01-15,Henry Wilson,South,Florida,Miami,Office Supplies,Appliances,Air Purifier,34.48,11.25,3,0.2
+CA-2025-10246,2025-08-25,Olivia Lewis,West,California,San Francisco,Furniture,Chairs,Ergonomic Mesh Office Chair,1312.41,-90.07,9,0.15
+CA-2025-10246,2025-09-06,Bob Johnson,South,Georgia,Atlanta,Office Supplies,Art,Sketchbook 100 Pages,224.02,90.3,7,0.0
+CA-2025-10246,2025-04-13,Frank Miller,South,North Carolina,Charlotte,Office Supplies,Appliances,Compact Refrigerator,338.01,127.66,10,0.2
+CA-2025-10247,2025-08-04,Mia Martin,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,431.5,3.94,1,0.0
+CA-2024-10247,2024-12-11,Carol Martinez,East,Pennsylvania,Philadelphia,Technology,Machines,Laminator Core,1991.46,722.62,4,0.1
+CA-2024-10247,2024-11-26,Ivy Anderson,West,California,Los Angeles,Technology,Machines,Heavy-Duty Shredder,854.25,257.24,3,0.2
+CA-2025-10248,2025-04-22,Ivy Anderson,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,972.86,-76.67,4,0.15
+CA-2025-10248,2025-04-08,Jack Thomas,Central,Illinois,Chicago,Technology,Accessories,Wireless Mouse,3847.93,1067.72,7,0.2
+CA-2024-10248,2024-07-29,Carol Martinez,East,Pennsylvania,Philadelphia,Furniture,Chairs,Stool Adjustable Height,3056.78,-348.35,9,0.15
+CA-2024-10249,2024-06-08,Jack Thomas,South,Florida,Miami,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1258.53,-154.73,8,0.0
+CA-2025-10249,2025-04-14,Nathan Clark,Central,Illinois,Chicago,Furniture,Bookcases,Metal Storage Bookshelf,496.02,-12.78,3,0.3
+CA-2025-10249,2025-07-22,Leo Harris,East,Pennsylvania,Philadelphia,Office Supplies,Fasteners,Push Pins Assorted Colors,164.91,94.14,3,0.2
+CA-2024-10250,2024-04-11,,Central,Texas,Houston,Furniture,Chairs,Ergonomic Mesh Office Chair,850.4,-66.63,5,0.5
+CA-2024-10250,2024-07-13,Jack Thomas,West,Washington,Seattle,Technology,Phones,OnePlus 11,737.79,252.04,1,0.0
+CA-2025-10250,2025-08-18,Karen White,South,Florida,Miami,Office Supplies,Paper,Photo Paper Glossy,156.39,90.43,8,0.0
+CA-2024-10251,2024-11-30,Henry Wilson,Central,Texas,Houston,Office Supplies,Binders,Ring Binder 2-Inch,171.3,92.48,4,0.0
+CA-2024-10251,2024-08-14,Mia Martin,South,Florida,Miami,Furniture,Furnishings,LED Desk Lamp,1331.33,-115.35,4,0.0
+CA-2024-10251,2024-09-04,Carol Martinez,East,Pennsylvania,Philadelphia,Technology,Accessories,Mechanical Keyboard,551.74,83.75,1,0.2
+CA-2025-10252,2025-07-09,Alice Smith,West,California,San Francisco,Furniture,Bookcases,Corner Display Cabinet,3263.19,-11.96,9,0.15
+CA-2025-10252,2025-01-24,Grace Taylor,Central,Texas,Houston,Technology,Phones,iPhone 14,582.09,175.52,1,0.1
+CA-2024-10252,2024-08-12,Frank Miller,East,New York,New York City,Furniture,Chairs,Ergonomic Mesh Office Chair,500.7,-2.21,2,0.15
+CA-2024-10253,2024-06-18,Grace Taylor,South,Florida,Miami,Office Supplies,Art,Sketchbook 100 Pages,645.53,380.93,12,0.0
+CA-2024-10253,2024-09-23,Alice Smith,East,Pennsylvania,Philadelphia,Technology,Machines,Laminator Core,356.29,60.82,1,0.1
+CA-2024-10253,2024-09-01,Frank Miller,West,California,San Francisco,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,3788.42,-367.9,11,0.15
+CA-2025-10254,2025-05-23,Ivy Anderson,East,Massachusetts,Boston,Office Supplies,Art,Watercolor Marker Pack,249.41,148.5,4,0.0
+CA-2024-10254,2024-06-19,Carol Martinez,South,North Carolina,Charlotte,Technology,Copiers,HP LaserJet Pro,2311.94,359.73,12,0.2
+CA-2025-10254,2025-05-18,Carol Martinez,East,Massachusetts,Boston,Technology,Machines,Laminator Core,395.98,152.33,3,0.0
+CA-2025-10255,2025-09-20,Grace Taylor,South,Florida,Miami,Furniture,Bookcases,Corner Display Cabinet,1464.22,50.77,5,0.3
+CA-2025-10255,2025-02-27,Leo Harris,Central,Illinois,Chicago,Office Supplies,Appliances,Countertop Microwave,220.11,68.79,6,0.0
+CA-2025-10255,2025-12-17,Bob Johnson,Central,Illinois,Chicago,Furniture,Furnishings,LED Desk Lamp,1199.17,-36.48,8,0.5
+CA-2024-10256,2024-06-14,Mia Martin,West,California,Los Angeles,Technology,Accessories,Mechanical Keyboard,1063.89,212.41,10,0.0
+CA-2025-10256,2025-05-05,Grace Taylor,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,2085.35,786.3,5,0.1
+CA-2024-10256,2024-10-04,Mia Martin,West,Washington,Seattle,Office Supplies,Fasteners,Rubber Bands Size 32,734.09,432.14,10,0.0
+CA-2025-10257,2025-02-11,Carol Martinez,East,Massachusetts,Boston,Furniture,Tables,Standing Desk Birch Wood,623.32,13.06,7,0.5
+CA-2025-10257,2025-05-08,Alice Smith,East,Massachusetts,Boston,Office Supplies,Paper,Premium Copy Paper A4,212.9,98.48,3,0.0
+CA-2025-10257,2025-08-27,Frank Miller,Central,Texas,Houston,Technology,Copiers,Canon ImageRUNNER,2260.22,356.35,3,0.1
+CA-2025-10258,2025-01-29,Carol Martinez,East,Pennsylvania,Philadelphia,Technology,Machines,Laminator Core,6509.28,2244.09,9,0.0
+CA-2024-10258,2024-11-25,Mia Martin,West,California,Los Angeles,Technology,Machines,3D Printer Pro,2401.28,895.01,3,0.1
+CA-2025-10258,2025-08-25,Olivia Lewis,Central,Texas,Houston,Furniture,Bookcases,Metal Storage Bookshelf,1793.18,-196.36,8,0.0
+CA-2024-10259,2024-06-05,Emily Davis,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,248.36,75.16,6,0.0
+CA-2025-10259,2025-03-25,Bob Johnson,South,Georgia,Atlanta,Office Supplies,Fasteners,Paperclips Box of 500,146.06,54.76,4,0.0
+CA-2025-10259,2025-11-21,Bob Johnson,West,California,San Francisco,Technology,Accessories,Noise-Cancelling Headphones,869.63,159.07,3,0.1
+CA-2025-10260,2025-09-29,David Chen,Central,Illinois,Chicago,Technology,Accessories,USB-C Hub,9433.87,3105.93,12,0.0
+CA-2024-10260,2024-03-14,Olivia Lewis,Central,Texas,Houston,Technology,Accessories,Wireless Mouse,2795.26,993.85,9,0.2
+CA-2025-10260,2025-04-01,Alice Smith,Central,Texas,Houston,Technology,Phones,OnePlus 11,1873.9,472.08,6,0.0
+CA-2025-10261,2025-06-06,Leo Harris,East,Massachusetts,Boston,Technology,Phones,iPhone 14,9012.81,3746.57,12,0.1
+CA-2025-10261,2025-12-15,Carol Martinez,South,North Carolina,Charlotte,Technology,Copiers,Brother Monochrome Copier,4592.21,1802.7,11,0.0
+CA-2025-10261,2025-10-04,Nathan Clark,West,California,San Francisco,Technology,Phones,iPhone 14,8334.46,2525.69,11,0.2
+CA-2025-10261,2025-10-04,Nathan Clark,West,California,San Francisco,Technology,Phones,iPhone 14,8334.46,2525.69,11,0.2
+CA-2025-10262,2025-02-21,Henry Wilson,Central,Texas,Austin,Technology,Phones,OnePlus 11,1720.67,471.13,3,0.0
+CA-2024-10262,2024-10-13,Leo Harris,East,New York,New York City,Technology,Accessories,Mechanical Keyboard,1462.98,377.76,2,0.1
+CA-2024-10262,2024-08-18,Carol Martinez,West,Washington,Seattle,Office Supplies,Appliances,Compact Refrigerator,33.66,10.34,1,0.0
+CA-2025-10263,2025-12-06,Grace Taylor,East,New York,New York City,Furniture,Chairs,Stool Adjustable Height,2125.98,-160.3,7,0.3
+CA-2025-10263,2025-11-18,Nathan Clark,Central,Texas,Austin,Office Supplies,Appliances,Countertop Microwave,535.82,319.03,8,0.0
+CA-2024-10263,2024-02-29,Ivy Anderson,Central,Illinois,Chicago,Technology,Phones,Samsung Galaxy S23,1747.45,297.66,5,0.0
+CA-2025-10264,2025-03-08,Frank Miller,Central,Texas,Austin,Furniture,Chairs,Leather Executive High-Back Chair,1208.0,-151.73,3,0.0
+CA-2024-10264,2024-10-15,Olivia Lewis,East,New York,New York City,Office Supplies,Art,Acrylic Paint Set,451.77,154.94,8,0.0
+CA-2025-10264,2025-02-10,Ivy Anderson,Central,Texas,Houston,Furniture,Chairs,Ergonomic Mesh Office Chair,1398.17,-137.6,11,0.15
+CA-2024-10265,2024-02-13,David Chen,West,California,San Francisco,Office Supplies,Art,Sketchbook 100 Pages,488.47,285.87,10,0.0
+CA-2024-10265,2024-04-04,Henry Wilson,East,New York,New York City,Technology,Machines,3D Printer Pro,343.57,153.24,3,0.2
+CA-2024-10265,2024-10-30,Leo Harris,Central,Texas,Houston,Office Supplies,Art,Sketchbook 100 Pages,85.84,30.37,12,0.0
+CA-2025-10266,2025-09-14,Carol Martinez,West,California,Los Angeles,Furniture,Tables,Conference Room Table,1202.77,-19.96,4,0.3
+CA-2024-10266,2024-08-03,Mia Martin,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,1011.32,-10.16,6,0.5
+CA-2024-10266,2024-07-25,Emily Davis,East,Massachusetts,Boston,Furniture,Bookcases,Corner Display Cabinet,820.0,-25.59,3,0.15
+CA-2024-10267,2024-01-21,Jack Thomas,South,Florida,Miami,Technology,Machines,3D Printer Pro,7955.12,2115.39,9,0.0
+CA-2025-10267,2025-09-17,David Chen,Central,Texas,Houston,Office Supplies,Fasteners,Rubber Bands Size 32,872.84,322.23,11,0.0
+CA-2024-10267,2024-07-21,Mia Martin,Central,Illinois,Chicago,Office Supplies,Art,Watercolor Marker Pack,10.05,3.44,1,0.0
+CA-2025-10268,2025-04-05,Karen White,West,California,Los Angeles,Technology,Phones,OnePlus 11,4276.42,1391.54,8,0.2
+CA-2024-10268,2024-11-08,Mia Martin,South,Florida,Miami,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,689.62,-47.51,4,0.5
+CA-2024-10268,2024-04-12,Olivia Lewis,East,New York,New York City,Technology,Phones,OnePlus 11,7458.21,2673.74,12,0.2
+CA-2025-10269,2025-11-03,Karen White,East,Pennsylvania,Philadelphia,Office Supplies,Appliances,Countertop Microwave,587.94,198.86,12,0.2
+CA-2024-10269,2024-09-14,Ivy Anderson,East,New York,New York City,Technology,Accessories,Mechanical Keyboard,1653.5,471.06,7,0.0
+CA-2025-10269,2025-10-18,Henry Wilson,Central,Texas,Houston,Technology,Accessories,Mechanical Keyboard,3707.24,824.05,12,0.2
+CA-2024-10270,2024-06-21,Bob Johnson,Central,Illinois,Chicago,Office Supplies,Fasteners,Rubber Bands Size 32,227.03,90.71,3,0.0
+CA-2024-10270,2024-03-02,Leo Harris,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,1201.12,26.99,5,0.15
+CA-2025-10270,2025-09-09,Ivy Anderson,East,Massachusetts,Boston,Furniture,Tables,Standing Desk Birch Wood,678.12,-71.48,2,0.0
+CA-2025-10271,2025-04-01,Alice Smith,Central,Texas,Houston,Technology,Phones,OnePlus 11,3207.59,506.88,6,0.2
+CA-2024-10271,2024-07-31,Alice Smith,West,California,Los Angeles,Office Supplies,Paper,Photo Paper Glossy,99.67,59.08,6,0.0
+CA-2024-10271,2024-07-03,Carol Martinez,South,Florida,Miami,Furniture,Chairs,Stool Adjustable Height,2047.32,-94.84,9,0.15
+CA-2025-10272,2025-12-01,Bob Johnson,West,California,Los Angeles,Office Supplies,Binders,Zipper Binder Pouch,256.81,119.45,7,0.2
+CA-2024-10272,2024-11-23,Karen White,South,Georgia,Atlanta,Furniture,Bookcases,Corner Display Cabinet,866.3,20.24,6,0.0
+CA-2024-10272,2024-07-19,David Chen,West,California,San Francisco,Furniture,Tables,Conference Room Table,796.75,-29.08,4,0.3
+CA-2024-10273,2024-12-04,Olivia Lewis,Central,Illinois,Chicago,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1116.3,-29.89,5,0.15
+CA-2024-10273,2024-03-25,Nathan Clark,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,1071.29,294.97,12,0.0
+CA-2024-10273,2024-07-25,Ivy Anderson,Central,Illinois,Chicago,Furniture,Tables,Standing Desk Birch Wood,3645.61,29.34,11,0.15
+CA-2025-10274,2025-03-01,Carol Martinez,East,Massachusetts,Boston,Furniture,Tables,Standing Desk Birch Wood,210.16,2.45,2,0.5
+CA-2024-10274,2024-01-06,Ivy Anderson,Central,Illinois,Chicago,Office Supplies,Fasteners,Paperclips Box of 500,12.0,3.97,1,0.0
+CA-2025-10274,2025-08-29,Carol Martinez,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,12.46,5.28,1,0.2
+CA-2025-10275,2025-09-04,Ivy Anderson,Central,Illinois,Chicago,Furniture,Tables,Conference Room Table,559.21,-29.29,3,0.15
+CA-2024-10275,2024-11-16,,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,449.76,106.24,3,0.2
+CA-2024-10275,2024-06-04,Alice Smith,South,Georgia,Atlanta,Furniture,Bookcases,Metal Storage Bookshelf,4802.49,-68.95,11,0.0
+CA-2025-10276,2025-04-15,Emily Davis,West,California,Los Angeles,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1167.29,-146.35,8,0.15
+CA-2025-10276,2025-10-31,Grace Taylor,West,Washington,Seattle,Office Supplies,Binders,Zipper Binder Pouch,345.39,157.71,8,0.2
+CA-2025-10276,2025-10-08,Henry Wilson,Central,Illinois,Chicago,Office Supplies,Binders,Ring Binder 2-Inch,150.07,78.92,2,0.0
+CA-2024-10277,2024-06-25,Alice Smith,South,Georgia,Atlanta,Furniture,Chairs,Stool Adjustable Height,1650.91,36.83,8,0.5
+CA-2025-10277,2025-02-24,Ivy Anderson,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,7581.72,3308.96,9,0.0
+CA-2025-10277,2025-05-13,David Chen,Central,Illinois,Chicago,Furniture,Tables,Folding Utility Table,1932.83,-121.18,7,0.15
+CA-2025-10278,2025-06-07,Jack Thomas,South,North Carolina,Charlotte,Technology,Machines,Laminator Core,667.16,227.34,1,0.0
+CA-2025-10278,2025-03-08,Leo Harris,West,Washington,Seattle,Furniture,Tables,Conference Room Table,1158.47,38.7,5,0.15
+CA-2025-10278,2025-12-04,Emily Davis,East,New York,New York City,Furniture,Chairs,Leather Executive High-Back Chair,745.27,-58.55,6,0.15
+CA-2025-10279,2025-03-01,Henry Wilson,South,Georgia,Atlanta,Furniture,Tables,Conference Room Table,1080.71,22.14,7,0.3
+CA-2024-10279,2024-09-19,David Chen,West,California,San Francisco,Technology,Machines,3D Printer Pro,3467.5,1076.13,5,0.0
+CA-2024-10279,2024-09-30,Ivy Anderson,Central,Texas,Austin,Furniture,Bookcases,Corner Display Cabinet,1851.69,-126.97,11,0.15
+CA-2025-10280,2025-07-29,Grace Taylor,Central,Texas,Houston,Technology,Phones,iPhone 14,8002.55,1399.59,11,0.2
+CA-2024-10280,2024-09-04,Emily Davis,South,Florida,Miami,Technology,Accessories,Mechanical Keyboard,5493.77,1978.46,10,0.1
+CA-2025-10280,2025-10-14,Jack Thomas,West,California,Los Angeles,Furniture,Furnishings,Desk Organizer Organizer Tray,1501.97,-159.37,10,0.3
+CA-2025-10281,2025-06-11,Emily Davis,West,California,Los Angeles,Office Supplies,Paper,Photo Paper Glossy,601.7,337.56,9,0.0
+CA-2025-10281,2025-02-13,Nathan Clark,East,Massachusetts,Boston,Office Supplies,Paper,Recycled Notepad Pack,42.15,19.14,6,0.0
+CA-2024-10281,2024-11-11,Olivia Lewis,Central,Texas,Houston,Office Supplies,Paper,Recycled Notepad Pack,614.21,354.08,9,0.0
+CA-2025-10282,2025-07-31,Henry Wilson,South,North Carolina,Charlotte,Office Supplies,Appliances,Countertop Microwave,228.26,93.91,5,0.0
+CA-2024-10282,2024-03-05,Henry Wilson,East,Massachusetts,Boston,Office Supplies,Paper,Photo Paper Glossy,394.25,118.99,7,0.0
+CA-2025-10282,2025-11-27,Jack Thomas,Central,Texas,Austin,Technology,Accessories,Wireless Mouse,8364.98,2156.35,12,0.1
+CA-2025-10283,2025-01-03,Leo Harris,Central,Texas,Houston,Technology,Copiers,HP LaserJet Pro,804.89,273.57,1,0.1
+CA-2025-10283,2025-11-16,Henry Wilson,West,California,San Francisco,Technology,Phones,Google Pixel 7,6592.74,1332.2,8,0.1
+CA-2024-10283,2024-10-26,Leo Harris,Central,Illinois,Chicago,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,345.53,-40.62,1,0.15
+CA-2024-10284,2024-12-08,Bob Johnson,South,Georgia,Atlanta,Furniture,Bookcases,Metal Storage Bookshelf,1122.92,40.64,4,0.15
+CA-2025-10284,2025-12-15,Bob Johnson,South,Georgia,Atlanta,Office Supplies,Art,Acrylic Paint Set,262.93,114.9,9,0.0
+CA-2025-10284,2025-07-21,Nathan Clark,Central,Texas,Houston,Technology,Phones,Google Pixel 7,696.72,259.58,4,0.1
+CA-2025-10285,2025-08-14,Jack Thomas,South,Georgia,Atlanta,Technology,Phones,OnePlus 11,6664.77,1498.2,10,0.0
+CA-2024-10285,2024-04-15,David Chen,West,California,Los Angeles,Office Supplies,Fasteners,Paperclips Box of 500,573.21,331.71,9,0.0
+CA-2024-10285,2024-07-21,Bob Johnson,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,157.7,51.7,7,0.0
+CA-2025-10286,2025-03-01,Olivia Lewis,West,California,Los Angeles,Technology,Accessories,USB-C Hub,3391.75,1390.55,4,0.0
+CA-2025-10286,2025-02-21,Emily Davis,West,California,San Francisco,Office Supplies,Art,Sketchbook 100 Pages,367.1,186.84,7,0.0
+CA-2024-10286,2024-07-22,Bob Johnson,West,Washington,Seattle,Technology,Copiers,Brother Monochrome Copier,4935.02,1109.96,7,0.0
+CA-2025-10287,2025-05-22,Mia Martin,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,65.0,37.75,1,0.0
+CA-2025-10287,2025-01-30,Bob Johnson,South,North Carolina,Charlotte,Office Supplies,Art,Sketchbook 100 Pages,28.05,14.61,2,0.0
+CA-2025-10287,2025-08-29,Grace Taylor,South,Florida,Miami,Furniture,Bookcases,Corner Display Cabinet,2991.96,-24.92,8,0.0
+CA-2024-10288,2024-07-16,Mia Martin,East,Massachusetts,Boston,Furniture,Bookcases,4-Shelf Wood Bookcase,4765.39,108.67,12,0.0
+CA-2024-10288,2024-11-07,Ivy Anderson,East,New York,New York City,Office Supplies,Art,Watercolor Marker Pack,94.84,38.66,7,0.0
+CA-2024-10288,2024-11-13,Jack Thomas,South,Georgia,Atlanta,Office Supplies,Fasteners,Paperclips Box of 500,200.25,81.26,5,0.0
+CA-2025-10289,2025-07-22,Frank Miller,East,Pennsylvania,Philadelphia,Technology,Accessories,Wireless Mouse,1727.36,350.95,7,0.2
+CA-2024-10289,2024-10-08,David Chen,East,New York,New York City,Technology,Phones,iPhone 14,3653.33,1442.56,4,0.0
+CA-2025-10289,2025-02-23,Ivy Anderson,South,North Carolina,Charlotte,Office Supplies,Binders,Zipper Binder Pouch,692.25,218.6,9,0.0
+CA-2024-10290,2024-04-12,Bob Johnson,West,California,San Francisco,Office Supplies,Binders,Heavy-Duty Presentation Folder,47.36,27.63,9,0.0
+CA-2025-10290,2025-03-01,Grace Taylor,Central,Texas,Houston,Furniture,Tables,Folding Utility Table,1913.0,-37.57,7,0.3
+CA-2025-10290,2025-10-27,Mia Martin,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Ring Binder 2-Inch,316.7,187.53,7,0.0
+CA-2025-10291,2025-04-03,Ivy Anderson,Central,Illinois,Chicago,Furniture,Tables,Folding Utility Table,317.11,6.54,3,0.5
+CA-2024-10291,2024-10-06,Frank Miller,South,Georgia,Atlanta,Office Supplies,Binders,Heavy-Duty Presentation Folder,501.87,201.22,9,0.0
+CA-2025-10291,2025-09-22,Jack Thomas,Central,Texas,Houston,Office Supplies,Binders,Heavy-Duty Presentation Folder,372.14,140.6,6,0.0
+CA-2024-10292,2024-06-29,Alice Smith,West,California,San Francisco,Furniture,Furnishings,LED Desk Lamp,3766.07,-68.65,11,0.15
+CA-2025-10292,2025-02-09,Leo Harris,Central,Illinois,Chicago,Technology,Machines,3D Printer Pro,6612.76,2222.21,10,0.2
+CA-2024-10292,2024-01-16,Carol Martinez,Central,Texas,Houston,Office Supplies,Art,Sketchbook 100 Pages,214.33,115.39,5,0.0
+CA-2024-10293,2024-02-12,Carol Martinez,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,6334.55,2575.34,11,0.0
+CA-2025-10293,2025-06-28,Frank Miller,East,New York,New York City,Furniture,Furnishings,LED Desk Lamp,794.23,-7.7,5,0.0
+CA-2025-10293,2025-01-19,Nathan Clark,South,Florida,Miami,Office Supplies,Fasteners,Push Pins Assorted Colors,74.19,27.08,2,0.0
+CA-2025-10294,2025-12-11,Karen White,South,North Carolina,Charlotte,Office Supplies,Paper,Photo Paper Glossy,68.66,36.87,1,0.0
+CA-2024-10294,2024-03-15,Leo Harris,Central,Illinois,Chicago,Office Supplies,Binders,Heavy-Duty Presentation Folder,95.39,29.38,11,0.0
+CA-2024-10294,2024-12-24,Olivia Lewis,Central,Texas,Houston,Technology,Machines,3D Printer Pro,7232.35,2623.63,11,0.2
+CA-2024-10294,2024-12-24,Olivia Lewis,Central,Texas,Houston,Technology,Machines,3D Printer Pro,7232.35,2623.63,11,0.2
+CA-2024-10295,2024-01-30,Frank Miller,South,Florida,Miami,Technology,Phones,Samsung Galaxy S23,2246.97,478.82,10,0.0
+CA-2024-10295,2024-07-08,Bob Johnson,West,California,San Francisco,Office Supplies,Fasteners,Paperclips Box of 500,183.41,69.09,3,0.0
+CA-2024-10295,2024-04-29,Bob Johnson,South,Florida,Miami,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,641.18,27.34,5,0.3
+CA-2024-10296,2024-03-09,Mia Martin,West,California,Los Angeles,Office Supplies,Binders,Ring Binder 2-Inch,63.13,34.53,1,0.2
+CA-2024-10296,2024-07-21,Leo Harris,Central,Illinois,Chicago,Furniture,Chairs,Ergonomic Mesh Office Chair,338.04,-20.68,3,0.5
+CA-2025-10296,2025-04-02,Mia Martin,Central,Texas,Austin,Technology,Machines,Laminator Core,1144.38,392.54,8,0.1
+CA-2025-10297,2025-02-15,Emily Davis,South,North Carolina,Charlotte,Furniture,Chairs,Ergonomic Mesh Office Chair,487.58,-37.1,4,0.0
+CA-2024-10297,2024-12-27,Nathan Clark,East,New York,New York City,Furniture,Tables,Folding Utility Table,2570.3,-191.64,9,0.3
+CA-2024-10297,2024-12-23,Alice Smith,East,Massachusetts,Boston,Office Supplies,Binders,Ring Binder 2-Inch,202.64,101.42,4,0.0
+CA-2024-10298,2024-08-20,Henry Wilson,East,Massachusetts,Boston,Furniture,Chairs,Ergonomic Mesh Office Chair,2171.65,-85.95,7,0.15
+CA-2024-10298,2024-04-10,Olivia Lewis,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,4163.49,65.44,11,0.15
+CA-2024-10298,2024-04-10,Olivia Lewis,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,4163.49,65.44,11,0.15
+CA-2025-10298,2025-05-06,Leo Harris,South,North Carolina,Charlotte,Furniture,Tables,Standing Desk Birch Wood,247.66,-16.3,2,0.3
+CA-2025-10299,2025-11-17,Karen White,South,Georgia,Atlanta,Furniture,Chairs,Ergonomic Mesh Office Chair,503.81,-6.49,4,0.5
+CA-2024-10299,2024-11-25,Frank Miller,East,Massachusetts,Boston,Technology,Accessories,Noise-Cancelling Headphones,1771.9,716.87,3,0.2
+CA-2024-10299,2024-05-22,Carol Martinez,Central,Texas,Austin,Furniture,Chairs,Stool Adjustable Height,235.61,10.9,2,0.5
+CA-2025-10300,2025-05-22,Frank Miller,West,California,San Francisco,Office Supplies,Appliances,Air Purifier,657.09,272.14,9,0.0
+CA-2024-10300,2024-03-09,Karen White,South,Florida,Miami,Office Supplies,Art,Acrylic Paint Set,42.3,13.21,1,0.0
+CA-2024-10300,2024-02-09,Karen White,West,California,San Francisco,Office Supplies,Fasteners,Paperclips Box of 500,787.11,302.61,11,0.0
+CA-2025-10301,2025-08-17,Frank Miller,South,Georgia,Atlanta,Office Supplies,Paper,Premium Copy Paper A4,107.37,52.57,6,0.0
+CA-2025-10301,2025-04-02,Ivy Anderson,West,Washington,Seattle,Office Supplies,Paper,Photo Paper Glossy,442.91,187.76,7,0.0
+CA-2025-10301,2025-05-11,Henry Wilson,West,California,San Francisco,Technology,Accessories,Wireless Mouse,4507.26,1080.0,7,0.0
+CA-2024-10302,2024-03-16,Frank Miller,South,Georgia,Atlanta,Technology,Copiers,HP LaserJet Pro,857.87,130.14,2,0.1
+CA-2025-10302,2025-12-21,Alice Smith,South,North Carolina,Charlotte,Furniture,Tables,Conference Room Table,369.32,-33.1,3,0.0
+CA-2025-10302,2025-06-29,David Chen,West,Washington,Seattle,Office Supplies,Appliances,Air Purifier,257.37,127.72,5,0.0
+CA-2024-10303,2024-08-14,Jack Thomas,East,New York,New York City,Technology,Copiers,Brother Monochrome Copier,957.57,243.92,4,0.0
+CA-2024-10303,2024-01-04,Henry Wilson,Central,Texas,Houston,Office Supplies,Paper,Premium Copy Paper A4,285.24,160.9,6,0.2
+CA-2025-10303,2025-03-29,Frank Miller,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,5122.4,1597.44,10,0.2
+CA-2025-10304,2025-07-28,David Chen,South,Georgia,Atlanta,Office Supplies,Binders,Zipper Binder Pouch,183.98,84.96,3,0.2
+CA-2024-10304,2024-12-30,Henry Wilson,South,Georgia,Atlanta,Office Supplies,Paper,Premium Copy Paper A4,72.13,21.9,12,0.0
+CA-2024-10304,2024-03-07,Ivy Anderson,West,Washington,Seattle,Furniture,Tables,Folding Utility Table,729.62,10.99,6,0.5
+CA-2024-10305,2024-05-28,Karen White,Central,Texas,Houston,Office Supplies,Appliances,Air Purifier,37.59,16.17,2,0.0
+CA-2025-10305,2025-08-16,Karen White,Central,Illinois,Chicago,Furniture,Bookcases,Corner Display Cabinet,1007.5,-7.7,3,0.15
+CA-2024-10305,2024-02-20,Olivia Lewis,East,Pennsylvania,Philadelphia,Furniture,Chairs,Stool Adjustable Height,1352.2,40.54,8,0.5
+CA-2025-10306,2025-12-19,David Chen,East,New York,New York City,Office Supplies,Appliances,Countertop Microwave,241.16,84.06,6,0.0
+CA-2025-10306,2025-05-25,Frank Miller,East,Pennsylvania,Philadelphia,Office Supplies,Appliances,Compact Refrigerator,104.96,54.05,9,0.0
+CA-2025-10306,2025-06-21,Henry Wilson,South,Georgia,Atlanta,Office Supplies,Fasteners,Paperclips Box of 500,61.69,28.77,2,0.2
+CA-2024-10307,2024-10-18,Karen White,Central,Texas,Austin,Furniture,Furnishings,LED Desk Lamp,631.89,-26.18,7,0.5
+CA-2025-10307,2025-06-10,Alice Smith,Central,Texas,Austin,Technology,Phones,Samsung Galaxy S23,7544.32,2920.74,12,0.0
+CA-2025-10307,2025-03-25,Alice Smith,Central,Texas,Austin,Furniture,Bookcases,Metal Storage Bookshelf,3994.09,-23.14,11,0.0
+CA-2025-10308,2025-07-04,David Chen,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,1747.54,-260.49,10,0.15
+CA-2025-10308,2025-09-08,Leo Harris,East,New York,New York City,Office Supplies,Binders,Heavy-Duty Presentation Folder,23.46,7.88,2,0.2
+CA-2024-10308,2024-04-17,Frank Miller,West,Washington,Seattle,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1998.41,18.32,10,0.5
+CA-2024-10309,2024-12-13,Frank Miller,Central,Texas,Houston,Technology,Phones,Google Pixel 7,3298.85,1229.45,4,0.0
+CA-2025-10309,2025-07-12,Alice Smith,Central,Illinois,Chicago,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1437.22,-137.36,11,0.15
+CA-2024-10309,2024-10-14,Emily Davis,West,California,Los Angeles,Furniture,Tables,Conference Room Table,261.9,-10.67,1,0.3
+CA-2025-10310,2025-02-25,Mia Martin,East,Pennsylvania,Philadelphia,Technology,Machines,Heavy-Duty Shredder,2719.69,715.17,9,0.1
+CA-2024-10310,2024-09-23,Leo Harris,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Desk Organizer Organizer Tray,1947.69,86.55,8,0.0
+CA-2025-10310,2025-06-01,Frank Miller,West,California,San Francisco,Technology,Machines,3D Printer Pro,2242.66,811.15,6,0.0
+CA-2024-10311,2024-02-23,Mia Martin,West,California,San Francisco,Technology,Phones,Google Pixel 7,2308.52,542.19,4,0.1
+CA-2025-10311,2025-03-13,David Chen,East,Pennsylvania,Philadelphia,Technology,Copiers,Canon ImageRUNNER,3319.69,952.78,7,0.0
+CA-2024-10311,2024-05-16,Bob Johnson,East,New York,New York City,Office Supplies,Fasteners,Paperclips Box of 500,75.83,38.36,2,0.2
+CA-2024-10312,2024-01-05,Carol Martinez,West,Washington,Seattle,Office Supplies,Appliances,Air Purifier,490.85,161.88,11,0.0
+CA-2024-10312,2024-01-25,Mia Martin,South,Georgia,Atlanta,Technology,Machines,Heavy-Duty Shredder,1495.21,389.17,3,0.0
+CA-2024-10312,2024-02-13,Nathan Clark,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,1815.6,516.38,4,0.2
+CA-2024-10312,2024-02-13,Nathan Clark,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,1815.6,516.38,4,0.2
+CA-2025-10313,2025-04-06,Frank Miller,Central,Texas,Houston,Office Supplies,Fasteners,Push Pins Assorted Colors,758.68,409.55,11,0.0
+CA-2025-10313,2025-01-18,Karen White,East,Massachusetts,Boston,Office Supplies,Fasteners,Push Pins Assorted Colors,60.08,29.27,2,0.0
+CA-2025-10313,2025-08-11,Ivy Anderson,West,California,San Francisco,Office Supplies,Art,Watercolor Marker Pack,561.08,201.7,12,0.0
+CA-2024-10314,2024-07-02,Jack Thomas,Central,Texas,Austin,Technology,Accessories,Mechanical Keyboard,5080.11,1590.56,6,0.0
+CA-2024-10314,2024-11-28,Leo Harris,Central,Texas,Houston,Office Supplies,Fasteners,Rubber Bands Size 32,753.74,437.77,10,0.0
+CA-2024-10314,2024-06-04,Bob Johnson,South,Florida,Miami,Furniture,Bookcases,4-Shelf Wood Bookcase,4094.05,131.04,12,0.15
+CA-2024-10315,2024-06-10,Mia Martin,East,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S23,1840.76,292.19,2,0.0
+CA-2025-10315,2025-08-20,Alice Smith,Central,Texas,Houston,Office Supplies,Fasteners,Rubber Bands Size 32,77.17,34.91,3,0.0
+CA-2024-10315,2024-05-10,Emily Davis,South,North Carolina,Charlotte,Furniture,Chairs,Stool Adjustable Height,490.55,-23.62,4,0.3
+CA-2025-10316,2025-10-02,Grace Taylor,Central,Texas,Austin,Furniture,Bookcases,4-Shelf Wood Bookcase,3099.71,-250.72,11,0.3
+CA-2025-10316,2025-03-31,Karen White,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,978.89,-144.45,3,0.15
+CA-2024-10316,2024-01-30,Ivy Anderson,East,New York,New York City,Furniture,Bookcases,4-Shelf Wood Bookcase,211.2,5.95,2,0.15
+CA-2025-10317,2025-12-21,Alice Smith,West,Washington,Seattle,Office Supplies,Binders,Heavy-Duty Presentation Folder,332.77,121.37,6,0.2
+CA-2025-10317,2025-12-21,Alice Smith,West,Washington,Seattle,Office Supplies,Binders,Heavy-Duty Presentation Folder,332.77,121.37,6,0.2
+CA-2025-10317,2025-04-30,Karen White,West,Washington,Seattle,Furniture,Tables,Standing Desk Birch Wood,702.45,-62.21,3,0.3
+CA-2025-10317,2025-04-01,Grace Taylor,Central,Texas,Austin,Furniture,Chairs,Stool Adjustable Height,829.42,-86.04,6,0.3
+CA-2024-10318,2024-07-23,Emily Davis,Central,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,1546.45,581.23,2,0.1
+CA-2025-10318,2025-01-14,Frank Miller,West,California,Los Angeles,Office Supplies,Fasteners,Push Pins Assorted Colors,319.25,112.87,4,0.0
+CA-2025-10318,2025-03-01,Bob Johnson,West,California,San Francisco,Technology,Machines,Laminator Core,1582.97,485.67,3,0.2
+CA-2024-10319,2024-11-24,Karen White,South,North Carolina,Charlotte,Furniture,Bookcases,4-Shelf Wood Bookcase,2311.13,-95.01,8,0.15
+CA-2025-10319,2025-05-20,Jack Thomas,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,1570.07,-87.71,6,0.3
+CA-2025-10319,2025-05-24,David Chen,Central,Texas,Houston,Furniture,Chairs,Stool Adjustable Height,727.98,-53.24,4,0.5
+CA-2025-10320,2025-07-31,Leo Harris,South,Florida,Miami,Office Supplies,Binders,Ring Binder 2-Inch,114.24,45.46,11,0.0
+CA-2024-10320,2024-09-11,Grace Taylor,East,New York,New York City,Office Supplies,Paper,Premium Copy Paper A4,303.27,148.68,5,0.2
+CA-2025-10320,2025-07-27,David Chen,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,2842.74,-273.94,9,0.0
+CA-2024-10321,2024-12-25,Carol Martinez,South,North Carolina,Charlotte,Office Supplies,Appliances,Countertop Microwave,556.9,173.16,12,0.0
+CA-2025-10321,2025-01-21,Ivy Anderson,East,New York,New York City,Technology,Machines,3D Printer Pro,3246.83,622.51,8,0.0
+CA-2025-10321,2025-02-27,Ivy Anderson,Central,Texas,Houston,Office Supplies,Fasteners,Paperclips Box of 500,615.07,322.51,12,0.0
+CA-2024-10322,2024-06-23,Olivia Lewis,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,738.04,-42.97,7,0.15
+CA-2024-10322,2024-06-23,Olivia Lewis,Central,Texas,Austin,Furniture,Tables,Folding Utility Table,738.04,-42.97,7,0.15
+CA-2025-10322,2025-08-28,Leo Harris,West,California,Los Angeles,Office Supplies,Art,Sketchbook 100 Pages,120.45,46.15,6,0.2
+CA-2024-10322,2024-10-23,Olivia Lewis,South,Georgia,Atlanta,Technology,Accessories,Mechanical Keyboard,476.52,206.81,2,0.0
+CA-2024-10323,2024-09-04,Mia Martin,West,Washington,Seattle,Furniture,Bookcases,Metal Storage Bookshelf,1317.98,-170.18,4,0.0
+CA-2024-10323,2024-08-22,Henry Wilson,South,Florida,Miami,Furniture,Tables,Standing Desk Birch Wood,657.98,4.63,5,0.5
+CA-2025-10323,2025-05-27,Frank Miller,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,4292.44,1720.25,8,0.0
+CA-2024-10324,2024-02-04,Jack Thomas,Central,Illinois,Chicago,Office Supplies,Appliances,Countertop Microwave,472.5,184.7,6,0.0
+CA-2024-10324,2024-10-24,Ivy Anderson,Central,Texas,Austin,Technology,Accessories,USB-C Hub,1689.35,651.62,2,0.0
+CA-2025-10324,2025-07-22,Bob Johnson,Central,Texas,Austin,Technology,Accessories,Mechanical Keyboard,4933.64,1314.03,11,0.2
+CA-2024-10325,2024-11-14,Frank Miller,Central,Illinois,Chicago,Office Supplies,Paper,Photo Paper Glossy,90.07,51.8,6,0.2
+CA-2024-10325,2024-12-18,Carol Martinez,Central,Texas,Austin,Office Supplies,Binders,Ring Binder 2-Inch,184.44,81.61,6,0.0
+CA-2025-10325,2025-11-18,Mia Martin,South,Georgia,Atlanta,Furniture,Tables,Folding Utility Table,365.25,14.98,1,0.15
+CA-2024-10326,2024-01-23,Frank Miller,East,Pennsylvania,Philadelphia,Office Supplies,Art,Sketchbook 100 Pages,57.61,30.33,1,0.0
+CA-2024-10326,2024-04-26,Jack Thomas,West,Washington,Seattle,Furniture,Tables,Folding Utility Table,2758.86,36.78,7,0.0
+CA-2025-10326,2025-03-23,David Chen,Central,Texas,Austin,Technology,Phones,Samsung Galaxy S23,476.91,76.99,5,0.0
+CA-2024-10327,2024-04-03,Emily Davis,South,Georgia,Atlanta,Technology,Accessories,Mechanical Keyboard,1104.69,205.7,3,0.0
+CA-2025-10327,2025-03-06,David Chen,Central,Texas,Austin,Office Supplies,Appliances,Compact Refrigerator,150.53,52.2,6,0.2
+CA-2025-10327,2025-08-23,Alice Smith,West,California,San Francisco,Furniture,Bookcases,4-Shelf Wood Bookcase,889.96,-117.89,7,0.15
+CA-2025-10327,2025-08-23,Alice Smith,West,California,San Francisco,Furniture,Bookcases,4-Shelf Wood Bookcase,889.96,-117.89,7,0.15
+CA-2025-10328,2025-02-03,Olivia Lewis,West,California,San Francisco,Furniture,Bookcases,Metal Storage Bookshelf,2351.22,-169.75,11,0.5
+CA-2025-10328,2025-07-20,David Chen,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,483.31,168.78,1,0.0
+CA-2025-10328,2025-03-01,Ivy Anderson,South,Georgia,Atlanta,Furniture,Tables,Standing Desk Birch Wood,898.93,-121.3,9,0.5
+CA-2025-10329,2025-06-21,Karen White,Central,Texas,Austin,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1622.14,-223.04,10,0.15
+CA-2024-10329,2024-04-22,Grace Taylor,South,North Carolina,Charlotte,Office Supplies,Fasteners,Paperclips Box of 500,328.17,132.3,9,0.0
+CA-2025-10329,2025-03-31,Emily Davis,West,California,San Francisco,Office Supplies,Fasteners,Rubber Bands Size 32,245.18,87.45,8,0.0
+CA-2025-10329,2025-03-31,Emily Davis,West,California,San Francisco,Office Supplies,Fasteners,Rubber Bands Size 32,245.18,87.45,8,0.0
+CA-2024-10330,2024-11-23,Carol Martinez,West,California,Los Angeles,Technology,Machines,Heavy-Duty Shredder,1793.85,424.81,5,0.0
+CA-2025-10330,2025-12-20,Grace Taylor,Central,Texas,Houston,Furniture,Furnishings,Desk Organizer Organizer Tray,1185.05,-70.99,8,0.15
+CA-2024-10330,2024-10-24,Nathan Clark,West,California,San Francisco,Furniture,Tables,Conference Room Table,1292.26,-93.69,6,0.15
+CA-2024-10331,2024-10-20,Grace Taylor,Central,Texas,Austin,Technology,Accessories,Mechanical Keyboard,1378.23,325.32,3,0.0
+CA-2024-10331,2024-04-04,Karen White,Central,Illinois,Chicago,Furniture,Furnishings,LED Desk Lamp,2128.71,-22.61,5,0.0
+CA-2024-10331,2024-11-20,Leo Harris,South,Georgia,Atlanta,Furniture,Tables,Folding Utility Table,2896.61,-132.98,8,0.15
+CA-2024-10332,2024-05-19,Alice Smith,South,Georgia,Atlanta,Office Supplies,Fasteners,Push Pins Assorted Colors,464.78,226.82,7,0.0
+CA-2024-10332,2024-10-29,Carol Martinez,Central,Texas,Austin,Office Supplies,Fasteners,Paperclips Box of 500,146.28,80.98,5,0.0
+CA-2025-10332,2025-11-12,Alice Smith,South,Georgia,Atlanta,Office Supplies,Fasteners,Rubber Bands Size 32,384.51,191.0,5,0.0
+CA-2024-10333,2024-04-08,Karen White,Central,Texas,Houston,Technology,Machines,Laminator Core,3164.15,1066.4,12,0.0
+CA-2024-10333,2024-12-19,Bob Johnson,South,Florida,Miami,Technology,Machines,Laminator Core,307.39,81.95,1,0.0
+CA-2024-10333,2024-05-09,Leo Harris,East,Massachusetts,Boston,Office Supplies,Binders,Zipper Binder Pouch,137.93,53.44,8,0.2
+CA-2025-10334,2025-02-10,Carol Martinez,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,1173.11,-22.07,4,0.15
+CA-2024-10334,2024-01-17,Bob Johnson,South,North Carolina,Charlotte,Furniture,Bookcases,Metal Storage Bookshelf,2194.47,69.52,8,0.0
+CA-2024-10334,2024-12-22,Karen White,West,Washington,Seattle,Office Supplies,Art,Sketchbook 100 Pages,145.08,61.34,9,0.0
+CA-2024-10335,2024-09-06,Bob Johnson,East,New York,New York City,Office Supplies,Binders,Ring Binder 2-Inch,83.0,28.24,11,0.2
+CA-2025-10335,2025-06-06,Mia Martin,South,Florida,Miami,Technology,Copiers,HP LaserJet Pro,2564.79,591.53,12,0.0
+CA-2025-10335,2025-11-16,Jack Thomas,East,New York,New York City,Furniture,Tables,Folding Utility Table,215.65,-5.56,3,0.5
+CA-2025-10336,2025-04-27,Emily Davis,South,Florida,Miami,Office Supplies,Fasteners,Rubber Bands Size 32,56.98,31.83,3,0.0
+CA-2024-10336,2024-02-04,Henry Wilson,East,Massachusetts,Boston,Technology,Copiers,HP LaserJet Pro,5523.48,1971.36,11,0.2
+CA-2024-10336,2024-10-27,Mia Martin,Central,Texas,Houston,Furniture,Bookcases,Metal Storage Bookshelf,2014.71,-137.16,7,0.15
+CA-2024-10337,2024-02-21,Bob Johnson,West,California,San Francisco,Technology,Machines,Laminator Core,1400.17,611.06,10,0.2
+CA-2024-10337,2024-06-17,Nathan Clark,West,California,San Francisco,Technology,Copiers,Canon ImageRUNNER,11220.53,3642.67,12,0.0
+CA-2024-10337,2024-08-11,Olivia Lewis,West,California,San Francisco,Furniture,Chairs,Stool Adjustable Height,374.46,-51.48,1,0.0
+CA-2024-10338,2024-10-16,Ivy Anderson,Central,Texas,Houston,Office Supplies,Binders,Zipper Binder Pouch,28.93,11.26,2,0.2
+CA-2025-10338,2025-03-20,Grace Taylor,East,New York,New York City,Office Supplies,Appliances,Compact Refrigerator,13.84,7.67,1,0.0
+CA-2024-10338,2024-10-26,Jack Thomas,West,California,San Francisco,Office Supplies,Paper,Photo Paper Glossy,95.99,37.09,2,0.0
+CA-2025-10339,2025-09-16,David Chen,Central,Texas,Houston,Technology,Phones,Samsung Galaxy S23,3048.57,902.74,8,0.1
+CA-2024-10339,2024-05-09,Frank Miller,South,North Carolina,Charlotte,Furniture,Furnishings,Desk Organizer Organizer Tray,493.93,-29.84,4,0.5
+CA-2024-10339,2024-09-03,Henry Wilson,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,3997.97,108.3,9,0.0
+CA-2025-10340,2025-11-12,Henry Wilson,Central,Illinois,Chicago,Furniture,Bookcases,Metal Storage Bookshelf,293.07,-40.48,2,0.5
+CA-2024-10340,2024-12-25,Olivia Lewis,Central,Texas,Austin,Furniture,Bookcases,Metal Storage Bookshelf,2457.12,3.54,10,0.0
+CA-2025-10340,2025-07-20,Bob Johnson,East,Massachusetts,Boston,Technology,Phones,Google Pixel 7,1357.68,504.41,7,0.2
+CA-2025-10341,2025-02-13,Olivia Lewis,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,1463.28,47.07,9,0.5
+CA-2025-10341,2025-02-18,Nathan Clark,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Desk Organizer Organizer Tray,246.72,-27.15,4,0.5
+CA-2025-10341,2025-11-13,Nathan Clark,East,Massachusetts,Boston,Technology,Machines,Heavy-Duty Shredder,3061.99,935.17,5,0.1
+CA-2025-10342,2025-05-24,Nathan Clark,West,Washington,Seattle,Technology,Accessories,Noise-Cancelling Headphones,4957.93,867.22,6,0.1
+CA-2025-10342,2025-03-15,Mia Martin,Central,Illinois,Chicago,Office Supplies,Binders,Heavy-Duty Presentation Folder,149.44,84.73,6,0.0
+CA-2024-10342,2024-01-29,Ivy Anderson,West,Washington,Seattle,Furniture,Bookcases,Metal Storage Bookshelf,999.55,-60.4,8,0.5
+CA-2025-10343,2025-10-06,Mia Martin,South,Georgia,Atlanta,Technology,Machines,Laminator Core,3939.21,988.47,6,0.0
+CA-2024-10343,2024-03-12,Emily Davis,South,Florida,Miami,Technology,Phones,Samsung Galaxy S23,1251.4,425.22,9,0.1
+CA-2024-10343,2024-02-12,Mia Martin,South,Georgia,Atlanta,Office Supplies,Binders,Ring Binder 2-Inch,214.03,116.58,6,0.0
+CA-2024-10344,2024-08-11,Emily Davis,East,New York,New York City,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1496.1,-222.84,8,0.3
+CA-2025-10344,2025-08-25,Karen White,South,Georgia,Atlanta,Technology,Copiers,Canon ImageRUNNER,1073.15,171.91,3,0.2
+CA-2025-10344,2025-09-14,Frank Miller,South,North Carolina,Charlotte,Office Supplies,Paper,Recycled Notepad Pack,196.11,110.58,4,0.0
+CA-2024-10345,2024-12-10,Mia Martin,Central,Texas,Houston,Office Supplies,Binders,Zipper Binder Pouch,672.51,373.54,11,0.2
+CA-2024-10345,2024-04-05,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Art,Acrylic Paint Set,434.68,198.58,9,0.0
+CA-2025-10345,2025-03-10,Carol Martinez,Central,Texas,Houston,Furniture,Furnishings,LED Desk Lamp,606.86,-19.43,2,0.0
+CA-2025-10346,2025-04-28,Grace Taylor,Central,Texas,Austin,Technology,Copiers,HP LaserJet Pro,1027.47,301.71,2,0.0
+CA-2024-10346,2024-05-17,Alice Smith,East,Pennsylvania,Philadelphia,Technology,Phones,iPhone 14,2232.67,467.54,8,0.0
+CA-2025-10346,2025-11-25,Grace Taylor,West,California,San Francisco,Office Supplies,Appliances,Countertop Microwave,280.57,153.92,9,0.0
+CA-2025-10347,2025-07-09,David Chen,South,North Carolina,Charlotte,Technology,Copiers,Brother Monochrome Copier,8799.04,3151.16,12,0.0
+CA-2024-10347,2024-05-01,Karen White,South,Georgia,Atlanta,Furniture,Furnishings,LED Desk Lamp,1348.55,-169.15,7,0.0
+CA-2024-10347,2024-01-05,Frank Miller,East,New York,New York City,Furniture,Furnishings,Desk Organizer Organizer Tray,214.76,-5.25,1,0.5
+CA-2024-10348,2024-10-12,Alice Smith,East,Massachusetts,Boston,Office Supplies,Art,Watercolor Marker Pack,18.93,11.06,1,0.0
+CA-2024-10348,2024-08-04,Carol Martinez,Central,Texas,Houston,Technology,Copiers,HP LaserJet Pro,2294.86,958.96,6,0.0
+CA-2025-10348,2025-10-29,Henry Wilson,South,Florida,Miami,Furniture,Bookcases,Metal Storage Bookshelf,639.61,-55.54,2,0.15
+CA-2025-10349,2025-02-05,Alice Smith,West,Washington,Seattle,Office Supplies,Paper,Premium Copy Paper A4,653.1,329.31,10,0.0
+CA-2024-10349,2024-05-30,Frank Miller,Central,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,791.36,188.16,4,0.2
+CA-2025-10349,2025-11-22,Alice Smith,East,Pennsylvania,Philadelphia,Furniture,Bookcases,Corner Display Cabinet,1077.28,19.19,12,0.5
+CA-2024-10350,2024-11-07,Bob Johnson,East,Pennsylvania,Philadelphia,Office Supplies,Appliances,Compact Refrigerator,231.46,87.28,3,0.0
+CA-2024-10350,2024-10-16,Alice Smith,East,Pennsylvania,Philadelphia,Furniture,Furnishings,LED Desk Lamp,3645.12,33.63,9,0.0
+CA-2025-10350,2025-04-25,Bob Johnson,West,California,Los Angeles,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1387.87,-166.71,8,0.3
+CA-2025-10351,2025-04-14,Karen White,South,Georgia,Atlanta,Technology,Machines,Laminator Core,2389.48,643.64,12,0.0
+CA-2025-10351,2025-03-31,Grace Taylor,Central,Texas,Houston,Furniture,Chairs,Ergonomic Mesh Office Chair,1812.06,-118.63,8,0.3
+CA-2024-10351,2024-04-19,Henry Wilson,South,North Carolina,Charlotte,Office Supplies,Binders,Zipper Binder Pouch,133.47,52.91,5,0.2
+CA-2025-10352,2025-09-10,Emily Davis,South,North Carolina,Charlotte,Technology,Machines,3D Printer Pro,365.93,61.83,4,0.0
+CA-2024-10352,2024-07-08,Mia Martin,Central,Texas,Houston,Technology,Phones,iPhone 14,1542.54,672.42,11,0.2
+CA-2024-10352,2024-02-17,Grace Taylor,South,Georgia,Atlanta,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,354.1,15.12,3,0.5
+CA-2024-10353,2024-07-17,Grace Taylor,Central,Texas,Austin,Office Supplies,Appliances,Air Purifier,328.08,187.94,7,0.0
+CA-2024-10353,2024-04-04,Alice Smith,Central,Texas,Austin,Office Supplies,Paper,Premium Copy Paper A4,41.79,19.2,2,0.2
+CA-2025-10353,2025-05-21,Frank Miller,East,New York,New York City,Office Supplies,Fasteners,Rubber Bands Size 32,316.18,166.62,4,0.0
+CA-2024-10354,2024-06-16,Frank Miller,East,New York,New York City,Office Supplies,Appliances,Countertop Microwave,534.61,179.81,9,0.0
+CA-2025-10354,2025-04-09,Mia Martin,Central,Texas,Houston,Office Supplies,Art,Acrylic Paint Set,669.71,313.69,11,0.0
+CA-2025-10354,2025-11-11,Henry Wilson,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Heavy-Duty Presentation Folder,69.73,39.68,1,0.0
+CA-2024-10355,2024-07-01,Olivia Lewis,East,Pennsylvania,Philadelphia,Technology,Copiers,Brother Monochrome Copier,4749.41,765.18,7,0.0
+CA-2024-10355,2024-03-19,Emily Davis,South,North Carolina,Charlotte,Technology,Phones,Google Pixel 7,7780.36,1649.92,11,0.0
+CA-2024-10355,2024-02-24,Ivy Anderson,South,North Carolina,Charlotte,Office Supplies,Paper,Premium Copy Paper A4,474.4,273.92,6,0.0
+CA-2025-10356,2025-05-16,Bob Johnson,Central,Illinois,Chicago,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1704.05,-218.18,6,0.15
+CA-2025-10356,2025-06-14,Alice Smith,West,Washington,Seattle,Office Supplies,Fasteners,Push Pins Assorted Colors,46.02,26.56,5,0.0
+CA-2025-10356,2025-11-29,Grace Taylor,Central,Texas,Austin,Office Supplies,Fasteners,Rubber Bands Size 32,138.79,77.83,12,0.0
+CA-2025-10357,2025-07-16,Mia Martin,Central,Texas,Houston,Furniture,Tables,Folding Utility Table,2011.08,-57.13,10,0.5
+CA-2025-10357,2025-08-25,Leo Harris,South,Florida,Miami,Office Supplies,Binders,Zipper Binder Pouch,40.41,16.33,1,0.0
+CA-2024-10357,2024-03-18,Alice Smith,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,3734.07,-541.76,11,0.15
+CA-2025-10358,2025-10-22,Ivy Anderson,South,Florida,Miami,Technology,Accessories,USB-C Hub,229.95,77.13,1,0.1
+CA-2025-10358,2025-11-29,Henry Wilson,West,California,Los Angeles,Technology,Accessories,Mechanical Keyboard,2274.41,434.34,3,0.1
+CA-2025-10358,2025-11-29,Henry Wilson,West,California,Los Angeles,Technology,Accessories,Mechanical Keyboard,2274.41,434.34,3,0.1
+CA-2024-10358,2024-03-15,Olivia Lewis,West,California,Los Angeles,Technology,Phones,iPhone 14,982.18,362.92,4,0.0
+CA-2024-10359,2024-12-27,Henry Wilson,South,Florida,Miami,Technology,Copiers,Brother Monochrome Copier,608.57,183.02,1,0.1
+CA-2024-10359,2024-05-09,Mia Martin,Central,Illinois,Chicago,Furniture,Tables,Folding Utility Table,891.59,30.55,9,0.3
+CA-2025-10359,2025-09-04,Mia Martin,East,Massachusetts,Boston,Office Supplies,Appliances,Air Purifier,84.16,44.9,5,0.0
+CA-2024-10360,2024-06-06,David Chen,South,Florida,Miami,Office Supplies,Appliances,Compact Refrigerator,595.56,285.8,8,0.0
+CA-2025-10360,2025-07-18,Nathan Clark,South,Florida,Miami,Technology,Machines,Heavy-Duty Shredder,816.35,222.06,3,0.2
+CA-2024-10360,2024-06-04,Grace Taylor,East,New York,New York City,Technology,Phones,OnePlus 11,4852.59,1680.11,9,0.0
+CA-2024-10361,2024-04-26,Mia Martin,South,North Carolina,Charlotte,Technology,Accessories,USB-C Hub,1110.0,430.7,7,0.1
+CA-2024-10361,2024-03-29,Karen White,South,North Carolina,Charlotte,Furniture,Bookcases,Corner Display Cabinet,131.72,-4.51,1,0.3
+CA-2025-10361,2025-11-17,Frank Miller,West,California,Los Angeles,Office Supplies,Paper,Recycled Notepad Pack,192.24,86.46,4,0.0
+CA-2025-10362,2025-01-04,Bob Johnson,South,Florida,Miami,Furniture,Bookcases,Metal Storage Bookshelf,714.1,-68.79,8,0.3
+CA-2024-10362,2024-12-09,Carol Martinez,Central,Illinois,Chicago,Office Supplies,Art,Watercolor Marker Pack,133.76,46.75,7,0.0
+CA-2025-10362,2025-05-20,Alice Smith,West,California,Los Angeles,Technology,Machines,3D Printer Pro,3238.72,638.11,5,0.0
+CA-2024-10363,2024-12-24,Bob Johnson,West,Washington,Seattle,Furniture,Chairs,Leather Executive High-Back Chair,2660.77,-118.06,9,0.0
+CA-2024-10363,2024-10-03,David Chen,East,New York,New York City,Technology,Machines,Heavy-Duty Shredder,1033.19,281.36,2,0.2
+CA-2025-10363,2025-11-21,Bob Johnson,East,New York,New York City,Furniture,Chairs,Ergonomic Mesh Office Chair,304.99,-8.86,1,0.0
+CA-2025-10364,2025-09-14,David Chen,East,New York,New York City,Technology,Phones,Google Pixel 7,2097.68,739.22,3,0.0
+CA-2024-10364,2024-11-26,Carol Martinez,West,California,Los Angeles,Technology,Machines,Heavy-Duty Shredder,2348.27,952.77,6,0.0
+CA-2024-10364,2024-02-24,Ivy Anderson,West,California,Los Angeles,Technology,Phones,OnePlus 11,522.38,161.82,3,0.0
+CA-2024-10365,2024-10-09,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Zipper Binder Pouch,542.3,177.27,8,0.0
+CA-2025-10365,2025-04-18,Alice Smith,West,California,San Francisco,Office Supplies,Appliances,Compact Refrigerator,83.25,48.85,3,0.0
+CA-2025-10365,2025-09-25,Leo Harris,Central,Texas,Austin,Technology,Machines,Laminator Core,255.96,103.51,3,0.1
+CA-2025-10366,2025-01-27,Ivy Anderson,Central,Texas,Houston,Technology,Copiers,Canon ImageRUNNER,3224.37,1383.73,7,0.2
+CA-2025-10366,2025-08-09,Bob Johnson,East,Pennsylvania,Philadelphia,Furniture,Bookcases,Corner Display Cabinet,350.2,-35.47,2,0.5
+CA-2025-10366,2025-08-24,Carol Martinez,Central,Illinois,Chicago,Furniture,Furnishings,Desk Organizer Organizer Tray,727.74,-22.72,4,0.3
+CA-2024-10367,2024-05-11,Jack Thomas,West,California,Los Angeles,Technology,Machines,Laminator Core,2340.4,487.98,5,0.0
+CA-2025-10367,2025-11-30,David Chen,South,Florida,Miami,Office Supplies,Appliances,Countertop Microwave,249.83,137.97,9,0.0
+CA-2025-10367,2025-02-18,Henry Wilson,Central,Texas,Houston,Technology,Accessories,Mechanical Keyboard,2425.94,1079.31,4,0.1
+CA-2024-10368,2024-02-15,Frank Miller,West,California,San Francisco,Technology,Copiers,Canon ImageRUNNER,593.48,170.13,8,0.2
+CA-2024-10368,2024-05-25,Karen White,East,Pennsylvania,Philadelphia,Furniture,Tables,Standing Desk Birch Wood,2801.19,-250.67,11,0.3
+CA-2025-10368,2025-01-06,Nathan Clark,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,2023.64,80.25,11,0.3
+CA-2024-10369,2024-09-20,Alice Smith,South,Florida,Miami,Office Supplies,Paper,Premium Copy Paper A4,219.59,106.55,5,0.2
+CA-2024-10369,2024-09-25,Karen White,East,New York,New York City,Office Supplies,Appliances,Air Purifier,722.18,283.71,11,0.0
+CA-2025-10369,2025-05-06,Leo Harris,East,Pennsylvania,Philadelphia,Furniture,Bookcases,Corner Display Cabinet,1466.77,-116.42,10,0.0
+CA-2024-10370,2024-03-03,David Chen,Central,Illinois,Chicago,Furniture,Bookcases,Corner Display Cabinet,1090.31,-34.44,7,0.15
+CA-2025-10370,2025-09-21,Nathan Clark,East,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S23,760.63,133.9,2,0.1
+CA-2024-10370,2024-04-12,Karen White,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,478.53,-2.71,2,0.15
+CA-2025-10371,2025-06-12,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Paper,Premium Copy Paper A4,296.32,165.5,8,0.2
+CA-2025-10371,2025-01-04,Ivy Anderson,West,Washington,Seattle,Office Supplies,Fasteners,Rubber Bands Size 32,381.48,201.87,7,0.2
+CA-2024-10371,2024-07-19,Alice Smith,Central,Texas,Austin,Furniture,Furnishings,LED Desk Lamp,3257.2,156.97,10,0.15
+CA-2024-10372,2024-07-05,Carol Martinez,South,Georgia,Atlanta,Technology,Machines,3D Printer Pro,4638.32,1443.78,6,0.1
+CA-2025-10372,2025-06-03,Bob Johnson,Central,Illinois,Chicago,Technology,Phones,iPhone 14,191.55,57.75,2,0.1
+CA-2025-10372,2025-07-21,Leo Harris,East,Massachusetts,Boston,Furniture,Chairs,Stool Adjustable Height,881.02,-48.13,5,0.15
+CA-2024-10373,2024-12-22,Emily Davis,East,New York,New York City,Furniture,Bookcases,Corner Display Cabinet,1212.76,-71.95,5,0.15
+CA-2025-10373,2025-11-20,Leo Harris,East,Massachusetts,Boston,Office Supplies,Paper,Photo Paper Glossy,162.53,53.98,10,0.0
+CA-2024-10373,2024-04-18,Carol Martinez,South,North Carolina,Charlotte,Office Supplies,Fasteners,Push Pins Assorted Colors,408.85,196.85,7,0.0
+CA-2025-10374,2025-06-27,Frank Miller,West,California,San Francisco,Office Supplies,Appliances,Air Purifier,505.19,215.33,7,0.0
+CA-2025-10374,2025-02-06,Bob Johnson,East,Massachusetts,Boston,Furniture,Chairs,Stool Adjustable Height,1585.84,-5.5,12,0.15
+CA-2024-10374,2024-06-19,Alice Smith,Central,Texas,Austin,Office Supplies,Art,Acrylic Paint Set,68.79,35.26,2,0.0
+CA-2025-10375,2025-08-20,Frank Miller,East,Pennsylvania,Philadelphia,Office Supplies,Art,Sketchbook 100 Pages,53.05,27.23,10,0.0
+CA-2024-10375,2024-01-08,Ivy Anderson,East,Pennsylvania,Philadelphia,Office Supplies,Appliances,Countertop Microwave,133.27,68.15,2,0.0
+CA-2024-10375,2024-09-15,Carol Martinez,West,California,San Francisco,Technology,Machines,Laminator Core,617.67,148.26,2,0.0
+CA-2024-10376,2024-09-21,Olivia Lewis,Central,Texas,Austin,Technology,Accessories,Wireless Mouse,1562.44,372.58,7,0.0
+CA-2025-10376,2025-05-07,Henry Wilson,South,Florida,Miami,Technology,Machines,Laminator Core,5097.8,1844.0,7,0.1
+CA-2024-10376,2024-01-09,Nathan Clark,East,Massachusetts,Boston,Technology,Copiers,Canon ImageRUNNER,3121.64,934.91,9,0.2
+CA-2025-10377,2025-07-05,David Chen,Central,Illinois,Chicago,Technology,Phones,iPhone 14,6058.04,2089.46,11,0.0
+CA-2025-10377,2025-01-07,Emily Davis,Central,Illinois,Chicago,Office Supplies,Binders,Heavy-Duty Presentation Folder,141.27,59.89,2,0.0
+CA-2024-10377,2024-12-22,Bob Johnson,East,New York,New York City,Office Supplies,Binders,Ring Binder 2-Inch,159.76,89.3,6,0.0
+CA-2025-10378,2025-11-13,Leo Harris,West,California,Los Angeles,Technology,Machines,3D Printer Pro,662.59,109.88,1,0.2
+CA-2025-10378,2025-02-24,Olivia Lewis,Central,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,3664.39,780.46,4,0.0
+CA-2024-10378,2024-10-08,Bob Johnson,Central,Texas,Austin,Technology,Accessories,USB-C Hub,238.06,57.49,1,0.2
+CA-2025-10379,2025-01-01,Mia Martin,Central,Texas,Austin,Furniture,Tables,Standing Desk Birch Wood,1225.57,-74.92,12,0.3
+CA-2025-10379,2025-01-01,Mia Martin,Central,Texas,Austin,Furniture,Tables,Standing Desk Birch Wood,1225.57,-74.92,12,0.3
+CA-2024-10379,2024-12-19,Emily Davis,West,Washington,Seattle,Technology,Phones,Google Pixel 7,1108.34,345.76,3,0.0
+CA-2024-10379,2024-02-23,Karen White,South,North Carolina,Charlotte,Furniture,Furnishings,LED Desk Lamp,1337.36,12.77,5,0.15
+CA-2024-10380,2024-10-15,Jack Thomas,East,Massachusetts,Boston,Furniture,Furnishings,Desk Organizer Organizer Tray,1056.9,44.28,10,0.5
+CA-2025-10380,2025-05-09,Nathan Clark,Central,Illinois,Chicago,Office Supplies,Paper,Photo Paper Glossy,27.04,10.47,2,0.2
+CA-2025-10380,2025-01-01,Bob Johnson,South,Florida,Miami,Office Supplies,Fasteners,Paperclips Box of 500,253.38,91.98,6,0.0
+CA-2024-10381,2024-03-23,Grace Taylor,South,Florida,Miami,Technology,Copiers,Brother Monochrome Copier,1586.81,375.12,7,0.0
+CA-2024-10381,2024-05-16,Grace Taylor,East,New York,New York City,Technology,Phones,Google Pixel 7,3245.88,1101.96,11,0.1
+CA-2025-10381,2025-10-20,David Chen,West,California,Los Angeles,Furniture,Bookcases,4-Shelf Wood Bookcase,1835.16,-34.8,7,0.0
+CA-2025-10382,2025-05-18,Nathan Clark,South,North Carolina,Charlotte,Office Supplies,Paper,Premium Copy Paper A4,151.07,80.1,10,0.2
+CA-2024-10382,2024-09-30,Nathan Clark,East,Pennsylvania,Philadelphia,Technology,Accessories,Mechanical Keyboard,2155.92,637.06,4,0.2
+CA-2025-10382,2025-01-08,Emily Davis,South,North Carolina,Charlotte,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,3452.3,-481.33,12,0.3
+CA-2024-10383,2024-08-15,Emily Davis,East,New York,New York City,Furniture,Tables,Folding Utility Table,1489.86,-33.61,4,0.15
+CA-2025-10383,2025-08-02,Emily Davis,East,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S23,717.17,208.16,1,0.0
+CA-2025-10383,2025-02-26,Nathan Clark,East,Pennsylvania,Philadelphia,Office Supplies,Binders,Ring Binder 2-Inch,143.58,63.59,12,0.0
+CA-2025-10384,2025-09-23,Jack Thomas,South,North Carolina,Charlotte,Office Supplies,Appliances,Countertop Microwave,25.11,13.0,1,0.0
+CA-2025-10384,2025-03-10,Alice Smith,West,California,Los Angeles,Technology,Copiers,Canon ImageRUNNER,4673.33,827.99,8,0.0
+CA-2024-10384,2024-02-07,Leo Harris,South,Florida,Miami,Technology,Copiers,HP LaserJet Pro,2225.17,351.64,3,0.1
+CA-2025-10385,2025-04-21,Olivia Lewis,West,Washington,Seattle,Furniture,Chairs,Ergonomic Mesh Office Chair,1568.38,-114.71,12,0.15
+CA-2025-10385,2025-07-03,Henry Wilson,West,California,Los Angeles,Technology,Accessories,Noise-Cancelling Headphones,1513.01,457.86,2,0.0
+CA-2025-10385,2025-06-27,Henry Wilson,West,California,Los Angeles,Technology,Phones,Samsung Galaxy S23,3985.64,1348.72,6,0.1
+CA-2024-10386,2024-09-29,Olivia Lewis,East,Pennsylvania,Philadelphia,Technology,Phones,iPhone 14,1361.65,481.93,6,0.0
+CA-2024-10386,2024-06-03,Mia Martin,West,Washington,Seattle,Office Supplies,Fasteners,Paperclips Box of 500,631.8,238.53,10,0.0
+CA-2025-10386,2025-02-08,Carol Martinez,Central,Texas,Houston,Technology,Accessories,Mechanical Keyboard,3546.05,1410.02,11,0.1
+CA-2024-10387,2024-07-15,Grace Taylor,Central,Illinois,Chicago,Office Supplies,Art,Sketchbook 100 Pages,23.03,7.69,1,0.0
+CA-2024-10387,2024-06-17,Nathan Clark,South,Georgia,Atlanta,Technology,Phones,Samsung Galaxy S23,3551.48,1244.83,5,0.0
+CA-2024-10387,2024-03-01,Henry Wilson,West,California,Los Angeles,Office Supplies,Art,Acrylic Paint Set,56.75,29.47,5,0.0
+CA-2024-10388,2024-02-26,Carol Martinez,Central,Texas,Houston,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,240.2,-26.46,1,0.3
+CA-2025-10388,2025-02-02,Olivia Lewis,West,California,San Francisco,Furniture,Bookcases,Corner Display Cabinet,721.79,-55.38,6,0.3
+CA-2025-10388,2025-05-20,Henry Wilson,East,Pennsylvania,Philadelphia,Furniture,Furnishings,LED Desk Lamp,1279.79,-141.03,11,0.3
+CA-2025-10389,2025-10-16,Karen White,South,Florida,Miami,Furniture,Chairs,Leather Executive High-Back Chair,1935.51,-211.59,10,0.15
+CA-2025-10389,2025-02-13,Emily Davis,Central,Texas,Houston,Technology,Accessories,Mechanical Keyboard,4024.11,1560.55,12,0.0
+CA-2025-10389,2025-06-07,Mia Martin,West,California,Los Angeles,Technology,Machines,Laminator Core,5038.4,1509.4,8,0.0
+CA-2025-10390,2025-05-30,Ivy Anderson,South,North Carolina,Charlotte,Technology,Copiers,Canon ImageRUNNER,6303.29,1370.03,9,0.2
+CA-2024-10390,2024-02-28,Frank Miller,South,North Carolina,Charlotte,Furniture,Furnishings,Desk Organizer Organizer Tray,379.7,16.83,3,0.3
+CA-2025-10390,2025-05-03,Ivy Anderson,West,Washington,Seattle,Technology,Copiers,HP LaserJet Pro,1256.13,350.35,12,0.1
+CA-2024-10391,2024-07-28,Leo Harris,West,Washington,Seattle,Technology,Accessories,USB-C Hub,419.46,91.55,3,0.2
+CA-2025-10391,2025-05-19,Alice Smith,West,Washington,Seattle,Furniture,Furnishings,LED Desk Lamp,830.85,-80.89,8,0.15
+CA-2025-10391,2025-05-10,Frank Miller,East,Massachusetts,Boston,Technology,Machines,Heavy-Duty Shredder,1253.69,305.63,6,0.0
+CA-2024-10392,2024-10-25,Bob Johnson,West,California,Los Angeles,Furniture,Chairs,Stool Adjustable Height,3566.28,-212.9,12,0.15
+CA-2024-10392,2024-06-11,David Chen,Central,Illinois,Chicago,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,2419.44,-304.9,12,0.5
+CA-2025-10392,2025-04-30,Bob Johnson,East,New York,New York City,Technology,Copiers,HP LaserJet Pro,2572.85,1006.12,8,0.0
+CA-2025-10393,2025-03-22,Nathan Clark,East,Pennsylvania,Philadelphia,Technology,Accessories,USB-C Hub,2441.04,754.17,12,0.2
+CA-2025-10393,2025-08-01,Bob Johnson,West,California,Los Angeles,Furniture,Tables,Standing Desk Birch Wood,2993.89,-105.76,7,0.0
+CA-2025-10393,2025-07-20,Leo Harris,East,Pennsylvania,Philadelphia,Furniture,Chairs,Stool Adjustable Height,1856.65,26.42,7,0.15
+CA-2025-10394,2025-05-05,Henry Wilson,East,New York,New York City,Office Supplies,Fasteners,Push Pins Assorted Colors,464.62,247.93,12,0.0
+CA-2024-10394,2024-09-02,Olivia Lewis,South,Georgia,Atlanta,Furniture,Chairs,Ergonomic Mesh Office Chair,1317.04,-195.94,7,0.15
+CA-2025-10394,2025-05-28,Alice Smith,South,Florida,Miami,Technology,Machines,3D Printer Pro,888.21,232.32,5,0.1
+CA-2025-10395,2025-04-17,Grace Taylor,Central,Illinois,Chicago,Office Supplies,Appliances,Countertop Microwave,444.5,239.36,9,0.2
+CA-2025-10395,2025-09-10,Alice Smith,Central,Texas,Austin,Technology,Phones,Samsung Galaxy S23,4635.87,1650.29,10,0.0
+CA-2024-10395,2024-07-31,Ivy Anderson,South,Florida,Miami,Office Supplies,Paper,Recycled Notepad Pack,391.9,168.64,10,0.0
+CA-2024-10396,2024-08-19,Carol Martinez,West,California,San Francisco,Office Supplies,Paper,Recycled Notepad Pack,248.85,140.86,4,0.0
+CA-2024-10396,2024-08-07,Olivia Lewis,West,California,San Francisco,Furniture,Tables,Standing Desk Birch Wood,1528.89,-131.85,11,0.15
+CA-2024-10396,2024-12-28,Nathan Clark,South,North Carolina,Charlotte,Office Supplies,Appliances,Compact Refrigerator,691.91,380.03,9,0.0
+CA-2024-10397,2024-11-26,Nathan Clark,West,Washington,Seattle,Furniture,Bookcases,Metal Storage Bookshelf,1294.92,-104.87,10,0.5
+CA-2024-10397,2024-03-20,Ivy Anderson,Central,Texas,Austin,Technology,Phones,iPhone 14,4581.05,983.84,7,0.0
+CA-2025-10397,2025-03-27,Mia Martin,South,Florida,Miami,Office Supplies,Fasteners,Rubber Bands Size 32,536.07,194.27,7,0.0
+CA-2025-10398,2025-06-26,Grace Taylor,East,New York,New York City,Office Supplies,Paper,Recycled Notepad Pack,230.68,121.01,8,0.2
+CA-2025-10398,2025-12-19,Ivy Anderson,East,Pennsylvania,Philadelphia,Furniture,Furnishings,Anti-Fatigue Comfort Floor Mat,1189.28,-40.94,4,0.15
+CA-2024-10398,2024-11-02,Jack Thomas,West,Washington,Seattle,Office Supplies,Fasteners,Paperclips Box of 500,19.53,11.19,4,0.2
+CA-2025-10399,2025-09-27,Ivy Anderson,East,Massachusetts,Boston,Technology,Machines,3D Printer Pro,1790.53,531.02,12,0.1
+CA-2024-10399,2024-11-14,Jack Thomas,East,Massachusetts,Boston,Furniture,Tables,Folding Utility Table,767.8,7.7,2,0.0
+CA-2024-10399,2024-03-04,Carol Martinez,Central,Texas,Austin,Furniture,Bookcases,Corner Display Cabinet,415.51,19.25,3,0.0
+CA-2025-10400,2025-02-05,Olivia Lewis,East,Pennsylvania,Philadelphia,Technology,Machines,Laminator Core,9552.22,2059.31,11,0.0
+CA-2025-10400,2025-04-18,Jack Thomas,Central,Texas,Houston,Office Supplies,Paper,Recycled Notepad Pack,259.1,146.97,5,0.2
+CA-2024-10400,2024-09-11,Bob Johnson,East,Massachusetts,Boston,Technology,Machines,3D Printer Pro,3151.75,1249.21,7,0.0
+CA-2025-10401,2025-04-26,Jack Thomas,South,North Carolina,Charlotte,Furniture,Chairs,Leather Executive High-Back Chair,2016.54,-241.57,10,0.0
+CA-2024-10401,2024-03-16,David Chen,East,Pennsylvania,Philadelphia,Furniture,Furnishings,LED Desk Lamp,514.51,-0.69,6,0.5
+CA-2024-10401,2024-03-14,Emily Davis,South,North Carolina,Charlotte,Office Supplies,Appliances,Countertop Microwave,312.52,108.41,10,0.0
