@@ -339,7 +339,7 @@ export default function UploadPage() {
             </CardHeader>
             <CardContent className="space-y-3.5 text-xs text-secondary-foreground leading-relaxed">
               <p>
-                SalesVision AI supports major structured formats. Each format maps directly into the database schema.
+                SalesVision supports major structured formats. Each format maps directly into the database schema.
               </p>
               <div className="space-y-2 pt-1 border-t border-border/40 text-[11px]">
                 <p>

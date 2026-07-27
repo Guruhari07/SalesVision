@@ -56,7 +56,7 @@ export default function Register() {
               <Sparkles className="h-5 w-5" />
             </div>
             <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
-              SalesVision AI
+              SalesVision
             </span>
           </Link>
           <h2 className="text-sm text-slate-400 mt-1.5">Create your workspace to structure sales sheets instantly</h2>

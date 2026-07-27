@@ -34,7 +34,7 @@ export default function Landing() {
             <Sparkles className="h-5 w-5" />
           </div>
           <span className="text-lg font-bold tracking-tight bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
-            SalesVision AI
+            SalesVision
           </span>
         </div>
         <div className="flex items-center gap-4">
@@ -151,7 +151,7 @@ export default function Landing() {
 
       {/* Footer */}
       <footer className="relative z-10 border-t border-slate-900 py-8 px-6 text-center text-xs text-slate-500">
-        <p>&copy; {new Date().getFullYear()} SalesVision AI. All rights reserved. Designed for Google DeepMind Coding Challenge.</p>
+        <p>&copy; {new Date().getFullYear()} SalesVision. All rights reserved. Designed for Google DeepMind Coding Challenge.</p>
       </footer>
     </div>
   );

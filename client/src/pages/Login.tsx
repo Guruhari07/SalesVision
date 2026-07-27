@@ -48,7 +48,7 @@ export default function Login() {
               <Sparkles className="h-5 w-5" />
             </div>
             <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
-              SalesVision AI
+              SalesVision
             </span>
           </Link>
           <h2 className="text-sm text-slate-400 mt-1.5">Sign in to manage and predict your business performance</h2>

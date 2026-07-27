@@ -80,7 +80,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
               <Sparkles className="h-4.5 w-4.5" />
             </div>
             <span className="text-sm font-bold tracking-tight text-foreground select-none">
-              SalesVision AI
+              SalesVision
             </span>
           </Link>
         </div>
@@ -253,7 +253,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <div className="flex items-center justify-between border-b border-border/40 pb-3">
                     <div className="flex items-center gap-2">
                       <Sparkles className="h-5 w-5 text-primary" />
-                      <span className="text-sm font-bold tracking-tight">SalesVision AI</span>
+                      <span className="text-sm font-bold tracking-tight">SalesVision</span>
                     </div>
                     <button onClick={() => setIsMobileOpen(false)} className="p-1 rounded-md hover:bg-secondary">
                       <X className="h-5 w-5 text-muted" />
