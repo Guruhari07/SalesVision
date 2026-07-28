@@ -26,7 +26,13 @@ export default function Login() {
       navigate('/dashboard');
     } catch (err: any) {
       console.error(err);
-      setError(err.response?.data?.detail || 'Incorrect email or password. Please try again.');
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else if (err.message) {
+        setError(err.message);
+      } else {
+        setError('Incorrect email or password. Please try again.');
+      }
     } finally {
       setLoading(false);
     }

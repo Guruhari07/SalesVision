@@ -34,11 +34,12 @@ export default function Register() {
       navigate('/dashboard');
     } catch (err: any) {
       console.error(err);
-      if (!err.response) {
-        // Network error - backend is unreachable
-        setError('Cannot connect to server. Please try again later.');
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else if (err.message) {
+        setError(err.message);
       } else {
-        setError(err.response?.data?.detail || 'Registration failed. Please try again.');
+        setError('Registration failed. Please try again.');
       }
     } finally {
       setLoading(false);
